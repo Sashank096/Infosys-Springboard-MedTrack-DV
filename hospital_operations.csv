@@ -1,0 +1,2566 @@
+Hospital_ID,Hospital_Name,Date,Total_Beds,Occupied_Beds,Available_Beds,Total_Admissions,Total_Discharges,Emergency_Admissions,Outpatient_Visits
+H004,HealthFirst Medical Institute,2025-08-01,290,237,53,17,19.0,11.0,79.0
+H006,Sunrise Community Hospital,2025-06-16,264,212,52,28,29.0,4.0,137.0
+H007,Unity Wellness Hospital,2025-10-15,221,157,64,22,19.0,3.0,116.0
+H002,CityCare Medical Center,2025-04-24,207,103,104,17,18.0,3.0,116.0
+H005,PrimeCare Hospital,2025-11-30,275,147,128,22,28.0,10.0,179.0
+H006,Sunrise Community Hospital,2025-04-11,264,168,96,26,17.0,18.0,201.0
+H007,Unity Wellness Hospital,2025-05-22,221,140,81,36,28.0,13.0,102.0
+H001,MedCare General Hospital,2025-06-28,477,390,87,29,33.0,13.0,175.0
+H004,HealthFirst Medical Institute,2025-01-12,290,253,37,19,25.0,14.0,113.0
+H005,PrimeCare Hospital,2025-06-06,275,174,101,34,30.0,6.0,61.0
+H004,HealthFirst Medical Institute,2025-01-29,290,119,171,23,27.0,7.0,113.0
+H005,PrimeCare Hospital,2025-12-15,275,205,70,27,9.0,10.0,107.0
+H004,HealthFirst Medical Institute,2025-05-23,290,182,108,28,23.0,13.0,171.0
+H006,Sunrise Community Hospital,2025-11-03,264,236,28,36,29.0,5.0,72.0
+H003,LifeLine Hospital,2025-03-19,162,135,27,29,23.0,8.0,92.0
+H003,LifeLine Hospital,2025-05-24,162,157,5,20,18.0,9.0,128.0
+H003,LifeLine Hospital,2025-02-01,162,126,36,25,29.0,1.0,152.0
+H006,Sunrise Community Hospital,2025-12-25,264,189,75,24,15.0,6.0,108.0
+H003,LifeLine Hospital,2025-05-12,162,85,77,19,22.0,11.0,101.0
+H007,Unity Wellness Hospital,2025-06-22,221,137,84,14,36.0,7.0,145.0
+H002,CityCare Medical Center,2025-10-25,207,119,88,28,15.0,17.0,105.0
+H002,CityCare Medical Center,2025-03-07,207,144,63,38,25.0,9.0,69.0
+H003,LifeLine Hospital,2025-06-22,162,93,69,33,16.0,6.0,112.0
+H003,LifeLine Hospital,2025-09-04,162,135,27,35,27.0,5.0,145.0
+H003,LifeLine Hospital,2025-08-21,162,131,31,9,17.0,9.0,132.0
+H007,Unity Wellness Hospital,2025-07-16,221,146,75,42,31.0,7.0,104.0
+H006,Sunrise Community Hospital,2025-07-29,264,246,18,32,26.0,11.0,93.0
+H005,PrimeCare Hospital,2025-11-26,275,193,82,23,26.0,9.0,142.0
+H004,HealthFirst Medical Institute,2025-12-01,290,225,65,29,34.0,0.0,90.0
+H006,Sunrise Community Hospital,2025-08-22,264,158,106,13,22.0,5.0,124.0
+H004,HealthFirst Medical Institute,2025-09-24,290,204,86,17,20.0,11.0,67.0
+H004,HealthFirst Medical Institute,2025-10-24,290,147,143,25,45.0,16.0,123.0
+H001,MedCare General Hospital,2025-02-14,477,467,10,10,11.0,10.0,101.0
+H006,Sunrise Community Hospital,2025-09-12,264,162,102,21,21.0,14.0,45.0
+H005,PrimeCare Hospital,2025-09-27,275,132,143,7,25.0,7.0,74.0
+H001,MedCare General Hospital,2025-03-15,477,320,157,26,24.0,9.0,89.0
+H001,MedCare General Hospital,07/14/2025,477,350,127,19,18.0,12.0,102.0
+H005,PrimeCare Hospital,2025-02-11,275,124,151,26,17.0,5.0,100.0
+H004,HealthFirst Medical Institute,2025-06-27,290,240,50,33,29.0,6.0,175.0
+H002,CityCare Medical Center,2025-03-22,207,181,26,36,9.0,6.0,160.0
+H005,PrimeCare Hospital,2025-07-26,275,190,85,34,29.0,9.0,161.0
+H007,Unity Wellness Hospital,2025-04-13,221,174,47,28,11.0,6.0,251.0
+H002,CityCare Medical Center,2025-01-04,207,145,62,9,24.0,6.0,126.0
+H005,PrimeCare Hospital,2025-06-29,275,230,45,30,41.0,17.0,123.0
+H001,MedCare General Hospital,2025-02-26,477,349,128,30,14.0,15.0,205.0
+H004,,2025-11-16,290,250,40,17,33.0,3.0,149.0
+H007,Unity Wellness Hospital,2025-08-08,221,165,56,30,32.0,10.0,101.0
+H004,HealthFirst Medical Institute,2025-01-05,290,164,126,23,6.0,6.0,183.0
+H003,LifeLine Hospital,2025-04-15,162,86,76,23,16.0,7.0,112.0
+H002,CityCare Medical Center,2025-03-09,207,121,86,26,33.0,10.0,183.0
+H002,CityCare Medical Center,2025-01-03,207,158,49,15,23.0,9.0,111.0
+H006,Sunrise Community Hospital,2025-07-16,264,172,92,29,23.0,8.0,172.0
+H003,LifeLine Hospital,2025-10-16,162,81,81,19,37.0,3.0,115.0
+H006,Sunrise Community Hospital,2025-06-05,264,219,45,27,23.0,4.0,158.0
+H002,CityCare Medical Center,2025-02-19,207,173,34,34,25.0,9.0,95.0
+H004,HealthFirst Medical Institute,2025-06-16,290,242,48,18,23.0,12.0,121.0
+H006,Sunrise Community Hospital,2025-08-04,264,199,65,26,24.0,10.0,119.0
+H007,Unity Wellness Hospital,2025-05-28,221,172,49,33,21.0,0.0,172.0
+H007,Unity Wellness Hospital,2025-10-16,221,191,30,42,17.0,14.0,92.0
+H005,PrimeCare Hospital,2025-11-02,275,152,123,16,28.0,10.0,70.0
+H003,LifeLine Hospital,2025-03-14,162,117,45,13,25.0,5.0,116.0
+H001,MedCare General Hospital,2025-10-10,477,419,58,29,41.0,10.0,94.0
+H005,PrimeCare Hospital,2025-03-12,275,234,41,21,27.0,8.0,163.0
+H002,CityCare Medical Center,2025-02-12,207,202,5,28,23.0,6.0,49.0
+H004,HealthFirst Medical Institute,2025-08-10,290,198,92,26,11.0,7.0,183.0
+H002,CityCare Medical Center,2025-09-14,207,158,49,14,27.0,11.0,45.0
+H004,HealthFirst Medical Institute,2025-12-28,290,181,109,35,23.0,16.0,169.0
+H006,Sunrise Community Hospital,2025-10-11,264,145,119,26,1.0,9.0,109.0
+H001,MedCare General Hospital,2025-09-04,477,311,166,14,44.0,8.0,87.0
+H001,MedCare General Hospital,2025-03-12,477,361,116,36,22.0,12.0,119.0
+H006,Sunrise Community Hospital,2025-02-12,264,184,80,36,24.0,8.0,120.0
+H005,PrimeCare Hospital,2025-02-13,275,213,62,39,4.0,8.0,146.0
+H001,MedCare General Hospital,2025-08-28,477,368,109,24,25.0,11.0,174.0
+H003,LifeLine Hospital,2025-02-04,162,108,54,27,25.0,8.0,93.0
+H001,MedCare General Hospital,2025-11-21,477,349,128,13,18.0,12.0,194.0
+H001,MedCare General Hospital,2025-07-08,477,270,207,31,23.0,11.0,193.0
+H005,PrimeCare Hospital,2025-05-04,275,198,77,22,18.0,7.0,138.0
+H006,Sunrise Community Hospital,2025-09-24,264,174,90,20,20.0,19.0,187.0
+H006,Sunrise Community Hospital,2025-12-03,264,169,95,20,18.0,8.0,140.0
+H004,HealthFirst Medical Institute,2025-06-06,290,132,158,36,15.0,3.0,106.0
+H004,HealthFirst Medical Institute,2025-11-12,290,242,48,28,26.0,13.0,125.0
+H007,Unity Wellness Hospital,2025-03-01,221,157,64,26,33.0,8.0,109.0
+H006,Sunrise Community Hospital,2025-04-04,264,217,47,22,33.0,14.0,124.0
+H006,Sunrise Community Hospital,2025-07-05,264,133,131,30,15.0,6.0,75.0
+H005,PrimeCare Hospital,2025-02-23,275,141,134,22,33.0,4.0,96.0
+H002,CityCare Medical Center,2025-11-02,207,136,71,22,24.0,10.0,96.0
+H002,CityCare Medical Center,2025-05-24,207,131,76,14,21.0,8.0,217.0
+H001,MedCare General Hospital,2025-02-13,477,386,91,18,20.0,8.0,123.0
+H003,LifeLine Hospital,2025-06-10,162,107,55,21,26.0,13.0,170.0
+H005,PrimeCare Hospital,2025-12-05,275,250,25,32,9.0,8.0,119.0
+H007,Unity Wellness Hospital,2025-12-25,221,118,103,37,21.0,13.0,132.0
+H003,LifeLine Hospital,2025-04-21,162,121,41,16,16.0,5.0,124.0
+H006,Sunrise Community Hospital,2025-02-07,264,251,13,17,23.0,13.0,114.0
+H005,PrimeCare Hospital,2025-05-13,275,177,98,38,29.0,5.0,97.0
+H003,LifeLine Hospital,2025-10-03,162,92,70,16,34.0,7.0,120.0
+H005,PrimeCare Hospital,2025-12-07,275,223,52,33,8.0,10.0,113.0
+H005,PrimeCare Hospital,2025-05-03,275,209,66,29,28.0,8.0,106.0
+H004,HealthFirst Medical Institute,2025-04-01,290,178,112,30,33.0,9.0,136.0
+H004,HealthFirst Medical Institute,2025-10-27,290,171,119,24,33.0,16.0,173.0
+H007,Unity Wellness Hospital,2025-03-25,221,176,45,21,13.0,15.0,170.0
+H006,Sunrise Community Hospital,2025-02-25,264,212,52,21,22.0,2.0,144.0
+H005,PrimeCare Hospital,2025-03-07,275,225,50,33,11.0,10.0,135.0
+H007,Unity Wellness Hospital,2025-07-10,221,175,46,15,16.0,0.0,110.0
+H006,Sunrise Community Hospital,2025-08-24,264,250,14,17,16.0,16.0,129.0
+H005,PrimeCare Hospital,2025-04-27,275,154,121,23,23.0,14.0,125.0
+H002,CityCare Medical Center,2025-11-10,207,109,98,18,23.0,8.0,198.0
+H006,Sunrise Community Hospital,2025-01-04,264,190,74,23,20.0,9.0,102.0
+H004,HealthFirst Medical Institute,2025-03-10,290,232,58,18,14.0,9.0,109.0
+H001,MedCare General Hospital,2025-10-26,477,311,166,45,25.0,6.0,181.0
+H006,Sunrise Community Hospital,2025-01-21,264,195,69,21,9.0,6.0,120.0
+H007,Unity Wellness Hospital,2025-09-20,221,107,114,24,19.0,13.0,59.0
+H007,Unity Wellness Hospital,2025-12-06,221,201,20,34,9.0,7.0,175.0
+H002,CityCare Medical Center,2025-06-17,207,119,88,17,16.0,11.0,138.0
+H005,PrimeCare Hospital,2025-12-20,275,185,90,17,35.0,11.0,148.0
+H006,Sunrise Community Hospital,2025-12-13,264,165,99,27,31.0,3.0,98.0
+H003,LifeLine Hospital,2025-06-20,162,98,64,14,27.0,2.0,111.0
+H006,Sunrise Community Hospital,2025-09-08,264,208,56,32,22.0,12.0,114.0
+H004,HealthFirst Medical Institute,2025-05-06,290,188,102,26,26.0,4.0,84.0
+H001,MedCare General Hospital,2025-06-25,477,446,31,20,23.0,9.0,167.0
+H003,LifeLine Hospital,2025-11-14,162,156,6,13,25.0,13.0,153.0
+H001,MedCare General Hospital,2025-08-22,477,467,10,36,28.0,11.0,154.0
+H002,CityCare Medical Center,2025-04-10,207,159,48,31,37.0,10.0,119.0
+H005,PrimeCare Hospital,2025-08-23,275,195,80,37,19.0,6.0,139.0
+H005,PrimeCare Hospital,2025-03-17,275,173,102,23,18.0,0.0,84.0
+H005,PrimeCare Hospital,2025-04-04,275,197,78,45,29.0,2.0,166.0
+H004,HealthFirst Medical Institute,2025-01-30,290,197,93,10,27.0,5.0,188.0
+H002,CityCare Medical Center,2025-07-20,207,191,16,34,31.0,8.0,105.0
+H001,MedCare General Hospital,2025-10-17,477,306,171,20,33.0,11.0,120.0
+H002,CityCare Medical Center,2025-10-10,207,153,54,33,25.0,3.0,157.0
+H007,Unity Wellness Hospital,2025-04-08,221,127,94,23,26.0,14.0,120.0
+H002,CityCare Medical Center,2025-06-29,207,197,10,20,35.0,4.0,198.0
+H002,CityCare Medical Center,2025-06-07,207,165,42,15,23.0,8.0,143.0
+H003,LifeLine Hospital,2025-08-04,162,56,106,26,36.0,7.0,120.0
+H006,Sunrise Community Hospital,2025-01-20,264,199,65,23,11.0,12.0,60.0
+H001,MedCare General Hospital,2025-07-16,477,388,89,28,23.0,5.0,119.0
+H003,LifeLine Hospital,2025-03-21,162,108,54,30,23.0,20.0,135.0
+H003,LifeLine Hospital,2025-11-08,162,132,30,34,15.0,6.0,122.0
+H007,Unity Wellness Hospital,2025-07-20,221,192,29,4,0.0,4.0,86.0
+H003,LifeLine Hospital,2025-07-21,162,158,4,22,25.0,5.0,87.0
+H001,MedCare General Hospital,2025-12-21,477,345,132,38,25.0,6.0,90.0
+H001,MedCare General Hospital,2025-04-04,477,330,147,29,19.0,12.0,96.0
+H007,Unity Wellness Hospital,2025-07-02,221,170,51,16,37.0,11.0,113.0
+H006,Sunrise Community Hospital,2025-07-15,264,234,30,26,18.0,0.0,85.0
+H005,PrimeCare Hospital,2025-02-15,275,171,104,33,12.0,7.0,38.0
+H001,MedCare General Hospital,2025-07-31,477,304,173,24,28.0,13.0,105.0
+H001,MedCare General Hospital,2025-05-15,477,414,63,8,21.0,7.0,63.0
+H005,PrimeCare Hospital,2025-10-03,275,227,48,26,27.0,10.0,55.0
+H006,Sunrise Community Hospital,2025-02-10,264,201,63,18,25.0,13.0,144.0
+H001,MedCare General Hospital,2025-10-24,477,384,93,22,20.0,15.0,128.0
+H005,PrimeCare Hospital,2025-08-03,275,185,90,17,4.0,9.0,112.0
+H001,MedCare General Hospital,2025-06-23,477,321,156,27,29.0,10.0,200.0
+H007,Unity Wellness Hospital,2025-10-07,221,181,40,26,18.0,8.0,65.0
+H007,Unity Wellness Hospital,2025-12-07,221,195,26,14,27.0,14.0,126.0
+H003,LifeLine Hospital,2025-01-07,162,94,68,21,33.0,9.0,144.0
+H004,HealthFirst Medical Institute,2025-12-07,290,221,69,34,20.0,5.0,91.0
+H007,Unity Wellness Hospital,2025-01-12,221,153,68,21,23.0,6.0,116.0
+H004,HealthFirst Medical Institute,2025-01-08,290,213,77,30,26.0,11.0,167.0
+H006,Sunrise Community Hospital,2025-12-08,264,235,29,27,21.0,6.0,185.0
+H006,Sunrise Community Hospital,2025-07-23,264,184,80,31,17.0,6.0,129.0
+H006,Sunrise Community Hospital,2025-01-05,264,136,128,23,19.0,7.0,136.0
+H006,Sunrise Community Hospital,2025-04-20,264,196,68,28,11.0,4.0,145.0
+H001,MedCare General Hospital,2025-06-20,477,307,170,20,33.0,6.0,176.0
+H004,HealthFirst Medical Institute,2025-04-06,290,213,77,25,30.0,6.0,141.0
+H004,HealthFirst Medical Institute,2025-06-28,290,270,20,23,17.0,0.0,102.0
+H001,MedCare General Hospital,2025-07-30,477,307,170,28,26.0,10.0,97.0
+H006,Sunrise Community Hospital,2025-02-21,264,190,74,16,15.0,,91.0
+H003,LifeLine Hospital,2025-05-08,162,120,42,21,36.0,9.0,144.0
+H004,HealthFirst Medical Institute,2025-06-14,290,232,58,17,21.0,4.0,96.0
+H007,Unity Wellness Hospital,2025-02-05,221,182,39,16,18.0,4.0,159.0
+H006,Sunrise Community Hospital,2025-03-27,264,201,63,25,22.0,11.0,102.0
+H003,LifeLine Hospital,2025-02-21,162,110,52,35,28.0,3.0,90.0
+H006,Sunrise Community Hospital,2025-09-28,264,152,112,17,39.0,13.0,135.0
+H005,PrimeCare Hospital,2025-03-21,275,246,29,33,27.0,3.0,154.0
+H004,HealthFirst Medical Institute,2025-06-19,290,251,39,24,34.0,7.0,100.0
+H007,Unity Wellness Hospital,2025-08-28,221,177,44,33,21.0,12.0,76.0
+H002,CityCare Medical Center,2025-05-14,207,148,59,19,35.0,7.0,69.0
+H001,MedCare General Hospital,2025-09-17,477,337,140,32,26.0,7.0,132.0
+H007,Unity Wellness Hospital,2025-10-22,221,133,88,12,30.0,4.0,107.0
+H005,PrimeCare Hospital,2025-11-11,275,232,43,25,21.0,1.0,138.0
+H004,HealthFirst Medical Institute,2025-12-08,290,219,71,22,16.0,11.0,121.0
+H004,HealthFirst Medical Institute,2025-11-20,290,192,98,38,33.0,3.0,147.0
+H004,HealthFirst Medical Institute,2025-04-09,290,213,77,31,26.0,13.0,96.0
+H001,MedCare General Hospital,2025-06-18,477,340,137,30,27.0,4.0,126.0
+H004,HealthFirst Medical Institute,2025-04-08,290,180,110,41,12.0,9.0,174.0
+H006,Sunrise Community Hospital,2025-11-08,264,163,101,25,30.0,8.0,56.0
+H005,PrimeCare Hospital,2025-12-08,275,159,116,23,26.0,12.0,165.0
+H006,Sunrise Community Hospital,2025-04-21,264,237,27,16,26.0,15.0,119.0
+H005,PrimeCare Hospital,2025-06-30,275,96,179,34,17.0,6.0,104.0
+H002,CityCare Medical Center,2025-11-12,207,161,46,29,23.0,9.0,137.0
+H005,PrimeCare Hospital,2025-01-21,275,177,98,29,22.0,8.0,89.0
+H002,CityCare Medical Center,2025-12-31,207,121,86,27,30.0,9.0,102.0
+H005,PrimeCare Hospital,2025-11-09,275,207,68,26,10.0,7.0,138.0
+H007,Unity Wellness Hospital,2025-06-09,221,175,46,28,26.0,0.0,53.0
+H007,Unity Wellness Hospital,2025-09-25,221,175,46,26,21.0,3.0,95.0
+H005,PrimeCare Hospital,2025-02-16,275,239,36,29,20.0,9.0,98.0
+H003,LifeLine Hospital,2025-02-22,162,89,73,26,17.0,13.0,60.0
+H001,MedCare General Hospital,2025-04-22,477,319,158,21,27.0,7.0,103.0
+H003,LifeLine Hospital,2025-06-09,162,101,61,17,27.0,9.0,179.0
+H006,Sunrise Community Hospital,2025-07-10,264,180,84,19,26.0,4.0,78.0
+H007,Unity Wellness Hospital,2025-10-25,221,152,69,27,25.0,,146.0
+H003,LifeLine Hospital,2025-11-24,162,124,38,15,19.0,14.0,156.0
+H006,Sunrise Community Hospital,2025-06-03,264,229,35,32,22.0,7.0,114.0
+H007,Unity Wellness Hospital,2025-12-26,221,158,63,40,25.0,5.0,102.0
+H007,Unity Wellness Hospital,2025-11-14,221,118,103,30,15.0,10.0,90.0
+H003,LifeLine Hospital,2025-04-22,162,104,58,28,17.0,0.0,74.0
+H003,LifeLine Hospital,2025-03-01,162,134,28,29,21.0,10.0,68.0
+H005,PrimeCare Hospital,2025-06-22,275,193,82,32,23.0,12.0,49.0
+H004,HealthFirst Medical Institute,2025-11-08,290,161,129,20,16.0,11.0,184.0
+H007,Unity Wellness Hospital,2025-10-13,221,160,61,26,27.0,1.0,150.0
+H007,Unity Wellness Hospital,2025-08-11,221,143,78,14,25.0,6.0,146.0
+H002,CityCare Medical Center,2025-03-12,207,200,7,12,40.0,9.0,120.0
+H005,PrimeCare Hospital,2025-05-01,275,148,127,15,14.0,10.0,164.0
+H006,Sunrise Community Hospital,2025-12-14,264,185,79,14,21.0,8.0,117.0
+H007,Unity Wellness Hospital,2025-04-19,221,137,84,26,34.0,9.0,170.0
+H003,LifeLine Hospital,2025-05-30,162,90,72,17,32.0,5.0,157.0
+H001,MedCare General Hospital,2025-08-01,477,387,90,2,10.0,2.0,105.0
+H005,PrimeCare Hospital,2025-06-12,275,166,109,9,13.0,1.0,84.0
+H003,LifeLine Hospital,2025-12-28,162,143,19,19,15.0,7.0,111.0
+H002,CityCare Medical Center,2025-12-02,207,178,29,19,24.0,9.0,99.0
+H006,Sunrise Community Hospital,2025-10-13,264,168,96,13,12.0,3.0,160.0
+H003,LifeLine Hospital,2025-09-26,162,75,87,30,28.0,8.0,93.0
+H007,Unity Wellness Hospital,2025-05-05,221,185,36,22,24.0,7.0,96.0
+H005,PrimeCare Hospital,2025-04-14,275,202,73,20,20.0,5.0,129.0
+H003,LifeLine Hospital,2025-09-27,162,115,47,30,30.0,21.0,86.0
+H002,CityCare Medical Center,2025-03-13,207,144,63,22,34.0,8.0,31.0
+H003,LifeLine Hospital,2025-10-30,162,121,41,8,24.0,8.0,151.0
+H006,Sunrise Community Hospital,2025-10-15,264,176,88,29,22.0,9.0,211.0
+H001,MedCare General Hospital,2025-08-07,477,339,138,24,24.0,11.0,149.0
+H002,CityCare Medical Center,2025-07-09,207,143,64,19,11.0,8.0,100.0
+H003,LifeLine Hospital,2025-06-27,162,104,58,26,22.0,7.0,150.0
+H004,HealthFirst Medical Institute,2025-05-27,290,263,27,21,23.0,9.0,93.0
+H004,HealthFirst Medical Institute,2025-05-28,290,243,47,26,13.0,7.0,84.0
+H006,Sunrise Community Hospital,2025-10-27,264,176,88,28,34.0,10.0,167.0
+H007,Unity Wellness Hospital,2025-07-01,221,97,124,23,20.0,13.0,121.0
+H007,Unity Wellness Hospital,2025-03-15,221,136,85,32,23.0,10.0,88.0
+H006,Sunrise Community Hospital,2025-07-02,264,174,90,22,28.0,,199.0
+H006,Sunrise Community Hospital,2025-08-17,264,202,62,21,22.0,8.0,140.0
+H003,LifeLine Hospital,2025-08-28,162,126,36,7,19.0,6.0,139.0
+H007,Unity Wellness Hospital,2025-03-11,221,126,95,18,21.0,7.0,102.0
+H003,LifeLine Hospital,2025-03-13,162,128,34,3,20.0,3.0,145.0
+H003,LifeLine Hospital,2025-10-15,162,158,4,24,24.0,11.0,91.0
+H004,HealthFirst Medical Institute,2025-01-04,290,194,96,33,40.0,7.0,137.0
+H005,PrimeCare Hospital,2025-01-16,275,263,12,28,28.0,11.0,135.0
+H003,LifeLine Hospital,2025-01-27,162,113,49,22,14.0,4.0,138.0
+H002,CityCare Medical Center,2025-02-27,207,135,72,23,15.0,9.0,149.0
+H004,HealthFirst Medical Institute,2025-11-29,290,226,64,19,19.0,6.0,174.0
+H002,CityCare Medical Center,2025-12-29,207,155,52,22,23.0,10.0,138.0
+H007,Unity Wellness Hospital,2025-05-23,221,135,86,20,18.0,15.0,124.0
+H001,MedCare General Hospital,2025-11-18,477,288,189,25,26.0,15.0,109.0
+H001,MedCare General Hospital,2025-09-12,477,405,72,29,21.0,4.0,168.0
+H006,Sunrise Community Hospital,2025-08-28,264,198,66,29,21.0,13.0,127.0
+H007,Unity Wellness Hospital,2025-06-07,221,156,65,22,14.0,16.0,125.0
+H002,CityCare Medical Center,2025-07-19,207,142,65,31,12.0,8.0,117.0
+H001,MedCare General Hospital,2025-02-21,477,315,162,35,27.0,6.0,150.0
+H006,Sunrise Community Hospital,2025-06-20,264,172,92,38,15.0,5.0,49.0
+H003,LifeLine Hospital,2025-10-23,162,103,59,22,25.0,8.0,123.0
+H002,CityCare Medical Center,2025-07-22,207,141,66,40,41.0,15.0,113.0
+H003,LifeLine Hospital,2025-12-01,162,120,42,15,25.0,13.0,127.0
+H005,PrimeCare Hospital,2025-07-04,275,143,132,32,27.0,11.0,156.0
+H001,MedCare General Hospital,2025-04-07,477,336,141,17,25.0,2.0,89.0
+H001,MedCare General Hospital,2025-09-09,477,274,203,38,18.0,10.0,117.0
+H006,Sunrise Community Hospital,2025-08-01,264,258,6,14,25.0,4.0,204.0
+H007,Unity Wellness Hospital,2025-01-17,221,143,78,29,31.0,2.0,84.0
+H002,CityCare Medical Center,2025-09-06,207,157,50,39,25.0,9.0,147.0
+H006,Sunrise Community Hospital,2025-01-07,264,175,89,27,35.0,,167.0
+H007,Unity Wellness Hospital,2025-03-22,221,123,98,29,34.0,15.0,149.0
+H006,Sunrise Community Hospital,2025-04-01,264,163,101,12,15.0,12.0,106.0
+H005,PrimeCare Hospital,2025-10-29,275,131,144,18,27.0,8.0,150.0
+H002,CityCare Medical Center,2025-03-10,207,123,84,18,22.0,3.0,138.0
+H005,PrimeCare Hospital,2025-10-30,275,202,73,27,29.0,9.0,132.0
+H003,LifeLine Hospital,2025-11-25,162,147,15,28,16.0,3.0,172.0
+H004,HealthFirst Medical Institute,2025-09-01,290,225,65,19,27.0,8.0,140.0
+H006,Sunrise Community Hospital,2025-05-29,264,189,75,27,27.0,9.0,107.0
+H004,HealthFirst Medical Institute,2025-06-25,290,284,6,16,29.0,3.0,36.0
+H002,CityCare Medical Center,2025-08-05,207,167,40,21,20.0,4.0,170.0
+H002,CityCare Medical Center,2025-04-26,207,131,76,26,21.0,6.0,186.0
+H003,LifeLine Hospital,2025-11-23,162,104,58,30,28.0,13.0,184.0
+H002,CityCare Medical Center,2025-03-27,207,145,62,37,23.0,3.0,69.0
+H005,PrimeCare Hospital,2025-06-18,275,177,98,19,20.0,3.0,163.0
+H006,Sunrise Community Hospital,2025-12-18,264,163,101,19,25.0,7.0,154.0
+H002,CityCare Medical Center,2025-03-20,207,155,52,21,40.0,8.0,110.0
+H005,PrimeCare Hospital,2025-07-29,275,208,67,21,28.0,10.0,171.0
+H001,MedCare General Hospital,2025-01-31,477,357,120,27,25.0,6.0,131.0
+H005,PrimeCare Hospital,2025-07-27,275,210,65,17,25.0,3.0,113.0
+H006,Sunrise Community Hospital,2025-10-14,264,142,122,27,23.0,7.0,174.0
+H004,HealthFirst Medical Institute,2025-09-20,290,194,96,32,15.0,4.0,147.0
+H004,HealthFirst Medical Institute,2025-07-11,290,186,104,4,13.0,3.0,125.0
+H007,Unity Wellness Hospital,2025-10-03,221,166,55,15,21.0,0.0,117.0
+H006,Sunrise Community Hospital,2025-11-10,264,173,91,31,23.0,13.0,147.0
+H002,CityCare Medical Center,2025-04-07,207,202,5,29,28.0,8.0,155.0
+H003,LifeLine Hospital,2025-09-06,162,100,62,15,23.0,6.0,77.0
+H007,Unity Wellness Hospital,2025-04-29,221,142,79,33,31.0,10.0,127.0
+H004,HealthFirst Medical Institute,2025-09-07,290,228,62,33,4.0,10.0,100.0
+H002,CityCare Medical Center,2025-05-25,207,159,48,13,32.0,6.0,203.0
+H004,HealthFirst Medical Institute,2025-11-13,290,148,142,22,39.0,8.0,147.0
+H001,MedCare General Hospital,2025-08-26,477,397,80,17,28.0,8.0,81.0
+H001,MedCare General Hospital,2025-04-20,477,297,180,29,26.0,8.0,95.0
+H006,Sunrise Community Hospital,2025-07-26,264,223,41,16,28.0,6.0,168.0
+H006,Sunrise Community Hospital,2025-11-09,264,163,101,11,33.0,7.0,99.0
+H002,CityCare Medical Center,2025-02-25,207,158,49,17,33.0,5.0,72.0
+H005,PrimeCare Hospital,2025-03-20,275,211,64,20,22.0,14.0,144.0
+H001,MedCare General Hospital,2025-09-10,477,375,102,25,16.0,11.0,126.0
+H005,PrimeCare Hospital,2025-12-18,275,175,100,23,12.0,8.0,166.0
+H004,HealthFirst Medical Institute,2025-05-14,290,191,99,24,29.0,8.0,143.0
+H004,HealthFirst Medical Institute,2025-08-19,290,137,153,27,19.0,14.0,137.0
+H006,Sunrise Community Hospital,2025-05-23,264,223,41,33,16.0,13.0,71.0
+H002,CityCare Medical Center,2025-10-14,207,152,55,17,33.0,6.0,177.0
+H002,CityCare Medical Center,2025-10-17,207,143,64,18,29.0,12.0,83.0
+H002,CityCare Medical Center,2025-01-29,207,151,56,23,22.0,8.0,165.0
+H004,HealthFirst Medical Institute,2025-03-17,290,217,73,21,16.0,11.0,64.0
+H003,LifeLine Hospital,2025-09-29,162,91,71,33,18.0,10.0,114.0
+H002,CityCare Medical Center,2025-06-13,207,193,14,23,18.0,5.0,76.0
+H004,HealthFirst Medical Institute,2025-05-20,290,178,112,26,13.0,7.0,133.0
+H007,Unity Wellness Hospital,2025-03-18,221,168,53,27,32.0,11.0,63.0
+H006,Sunrise Community Hospital,2025-03-15,264,196,68,24,27.0,7.0,82.0
+H006,Sunrise Community Hospital,2025-08-10,264,220,44,15,15.0,5.0,60.0
+H001,MedCare General Hospital,2025-11-15,477,282,195,1,31.0,1.0,25.0
+H002,CityCare Medical Center,2025-10-12,207,168,39,28,25.0,6.0,45.0
+H007,Unity Wellness Hospital,2025-03-13,221,144,77,23,20.0,4.0,74.0
+H002,CityCare Medical Center,2025-01-23,207,111,96,27,32.0,10.0,123.0
+H004,HealthFirst Medical Institute,2025-05-02,290,262,28,27,25.0,13.0,116.0
+H007,Unity Wellness Hospital,2025-02-19,221,181,40,9,27.0,9.0,118.0
+H004,HealthFirst Medical Institute,2025-10-31,290,229,61,32,32.0,12.0,94.0
+H004,HealthFirst Medical Institute,2025-11-01,290,198,92,31,23.0,6.0,135.0
+H005,PrimeCare Hospital,2025-11-16,275,265,10,29,15.0,10.0,144.0
+H006,Sunrise Community Hospital,2025-07-06,264,203,61,23,27.0,2.0,62.0
+H004,HealthFirst Medical Institute,2025-12-21,290,186,104,24,8.0,9.0,61.0
+H001,MedCare General Hospital,2025-04-11,477,396,81,40,28.0,3.0,93.0
+H002,CityCare Medical Center,2025-02-15,207,169,38,18,21.0,6.0,66.0
+H003,LifeLine Hospital,2025-08-20,162,85,77,19,35.0,11.0,103.0
+H001,MedCare General Hospital,2025-09-19,477,292,185,25,32.0,8.0,138.0
+H006,Sunrise Community Hospital,2025-01-13,264,187,77,11,23.0,10.0,184.0
+H006,Sunrise Community Hospital,2025-05-07,264,223,41,31,22.0,7.0,97.0
+H005,PrimeCare Hospital,2025-06-05,275,203,72,24,26.0,13.0,173.0
+H006,Sunrise Community Hospital,2025-08-18,264,178,86,21,31.0,16.0,89.0
+H001,MedCare General Hospital,2025-06-29,477,380,97,23,33.0,9.0,87.0
+H007,Unity Wellness Hospital,2025-10-20,221,201,20,19,28.0,9.0,180.0
+H002,CityCare Medical Center,2025-08-06,207,135,72,27,30.0,6.0,147.0
+H005,PrimeCare Hospital,2025-11-20,275,212,63,39,10.0,6.0,153.0
+H004,HealthFirst Medical Institute,11-04-2025,290,186,104,38,25.0,11.0,139.0
+H002,CityCare Medical Center,2025-12-07,207,119,88,23,9.0,17.0,77.0
+H005,PrimeCare Hospital,2025-06-11,275,132,143,24,32.0,12.0,136.0
+H005,PrimeCare Hospital,2025-04-26,275,186,89,20,19.0,10.0,135.0
+H007,Unity Wellness Hospital,2025-01-28,221,158,63,26,0.0,8.0,184.0
+H001,MedCare General Hospital,2025-10-19,477,242,235,31,34.0,10.0,146.0
+H001,MedCare General Hospital,2025-05-22,477,378,99,14,7.0,14.0,187.0
+H003,LifeLine Hospital,2025-10-25,162,117,45,28,,11.0,93.0
+H005,PrimeCare Hospital,2025-11-15,275,188,87,29,15.0,5.0,75.0
+H007,Unity Wellness Hospital,2025-03-28,221,171,50,24,12.0,3.0,111.0
+H005,PrimeCare Hospital,2025-12-27,275,186,89,33,35.0,11.0,80.0
+H002,CityCare Medical Center,2025-09-30,207,182,25,15,31.0,12.0,193.0
+H004,HealthFirst Medical Institute,2025-04-16,290,170,120,19,19.0,5.0,111.0
+H006,Sunrise Community Hospital,2025-04-15,264,180,84,29,26.0,8.0,128.0
+H002,CityCare Medical Center,2025-05-23,207,141,66,32,14.0,12.0,122.0
+H004,HealthFirst Medical Institute,2025-01-20,290,208,82,20,21.0,7.0,80.0
+H007,Unity Wellness Hospital,2025-09-06,221,171,50,33,30.0,10.0,148.0
+H005,PrimeCare Hospital,2025-06-10,275,118,157,19,9.0,7.0,73.0
+H001,MedCare General Hospital,2025-09-05,477,437,40,38,28.0,6.0,185.0
+H003,LifeLine Hospital,2025-02-26,162,129,33,37,30.0,12.0,122.0
+H004,HealthFirst Medical Institute,2025-01-16,290,174,116,28,29.0,8.0,117.0
+H005,PrimeCare Hospital,2025-04-12,275,179,96,28,37.0,15.0,43.0
+H006,Sunrise Community Hospital,2025-11-23,264,189,75,23,27.0,8.0,83.0
+H001,MedCare General Hospital,2025-12-14,477,250,227,16,31.0,4.0,188.0
+H002,CityCare Medical Center,2025-08-20,207,155,52,35,26.0,11.0,53.0
+H003,LifeLine Hospital,2025-01-26,162,125,37,10,7.0,4.0,116.0
+H001,MedCare General Hospital,2025-01-30,477,388,89,15,28.0,3.0,131.0
+H005,PrimeCare Hospital,2025-01-29,275,256,19,47,30.0,9.0,48.0
+H005,PrimeCare Hospital,2025-04-05,275,227,48,23,27.0,7.0,152.0
+H003,LifeLine Hospital,2025-01-13,162,88,74,14,6.0,10.0,160.0
+H007,Unity Wellness Hospital,2025-08-26,221,170,51,24,16.0,9.0,159.0
+H007,Unity Wellness Hospital,2025-04-18,221,158,63,5,18.0,4.0,168.0
+H005,PrimeCare Hospital,2025-04-16,275,236,39,24,25.0,8.0,74.0
+H002,CityCare Medical Center,2025-05-11,207,166,41,23,13.0,14.0,147.0
+H001,MedCare General Hospital,2025-06-07,477,405,72,31,23.0,10.0,53.0
+H003,LifeLine Hospital,11/11/2025,162,151,11,25,16.0,8.0,237.0
+H004,HealthFirst Medical Institute,2025-09-14,290,125,165,27,40.0,10.0,126.0
+H002,CityCare Medical Center,2025-09-13,207,131,76,31,32.0,15.0,90.0
+H005,PrimeCare Hospital,2025-08-30,275,187,88,33,19.0,5.0,143.0
+H003,LifeLine Hospital,2025-01-19,162,102,60,29,25.0,10.0,80.0
+H001,MedCare General Hospital,2025-11-29,477,418,59,24,19.0,0.0,171.0
+H006,Sunrise Community Hospital,2025-03-08,264,166,98,31,32.0,9.0,111.0
+H007,Unity Wellness Hospital,2025-02-24,221,134,87,22,10.0,8.0,154.0
+H003,LifeLine Hospital,2025-12-30,162,116,46,27,21.0,9.0,124.0
+H006,Sunrise Community Hospital,2025-11-30,264,181,83,21,27.0,9.0,154.0
+H004,HealthFirst Medical Institute,2025-07-13,290,142,148,23,31.0,3.0,151.0
+H005,PrimeCare Hospital,2025-12-24,275,184,91,41,22.0,16.0,96.0
+H001,MedCare General Hospital,2025-12-20,477,295,182,42,24.0,8.0,142.0
+H006,Sunrise Community Hospital,2025-09-14,264,223,41,25,33.0,5.0,127.0
+H001,MedCare General Hospital,2025-07-28,477,439,38,21,23.0,13.0,113.0
+H005,PrimeCare Hospital,2025-10-12,275,187,88,26,26.0,10.0,114.0
+H007,Unity Wellness Hospital,2025-06-19,221,144,77,10,37.0,5.0,60.0
+H003,LifeLine Hospital,2025-03-10,162,83,79,21,30.0,1.0,37.0
+H004,HealthFirst Medical Institute,2025-11-09,290,251,39,12,5.0,5.0,88.0
+H007,Unity Wellness Hospital,2025-01-14,221,161,60,23,13.0,6.0,172.0
+H003,LifeLine Hospital,2025-04-26,162,126,36,39,26.0,10.0,120.0
+H005,PrimeCare Hospital,2025-02-18,275,218,57,24,34.0,12.0,162.0
+H004,HealthFirst Medical Institute,2025-11-21,290,149,141,46,16.0,8.0,63.0
+H006,Sunrise Community Hospital,2025-08-09,264,219,45,19,19.0,9.0,87.0
+H006,Sunrise Community Hospital,2025-02-03,264,168,96,27,27.0,2.0,198.0
+H002,CityCare Medical Center,2025-05-12,207,133,74,38,17.0,16.0,98.0
+H005,PrimeCare Hospital,2025-09-14,275,203,72,20,29.0,2.0,109.0
+H002,CityCare Medical Center,2025-10-20,207,186,21,22,18.0,8.0,108.0
+H001,MedCare General Hospital,2025-07-19,477,327,150,39,19.0,11.0,142.0
+H001,MedCare General Hospital,2025-08-18,477,344,133,16,36.0,3.0,86.0
+H006,Sunrise Community Hospital,2025-01-31,264,130,134,21,20.0,10.0,107.0
+H002,CityCare Medical Center,2025-04-09,207,159,48,31,19.0,6.0,75.0
+H006,Sunrise Community Hospital,2025-03-28,264,253,11,13,19.0,11.0,106.0
+H003,LifeLine Hospital,2025-07-02,162,95,67,38,25.0,5.0,151.0
+H007,Unity Wellness Hospital,2025-05-01,221,192,29,24,33.0,13.0,137.0
+H004,HealthFirst Medical Institute,2025-08-24,290,217,73,22,26.0,6.0,98.0
+H001,MedCare General Hospital,2025-11-12,477,341,136,12,18.0,12.0,87.0
+H007,Unity Wellness Hospital,2025-09-24,221,213,8,21,30.0,11.0,114.0
+H007,Unity Wellness Hospital,2025-01-30,221,175,46,14,28.0,9.0,112.0
+H006,Sunrise Community Hospital,2025-05-10,264,92,172,27,22.0,3.0,107.0
+H001,MedCare General Hospital,2025-03-11,477,356,121,13,18.0,3.0,111.0
+H003,LifeLine Hospital,2025-04-17,162,122,40,20,19.0,5.0,100.0
+H007,Unity Wellness Hospital,2025-08-30,221,133,88,25,18.0,11.0,126.0
+H001,MedCare General Hospital,2025-05-16,477,298,179,16,31.0,16.0,170.0
+H003,LifeLine Hospital,2025-04-02,162,121,41,22,22.0,14.0,129.0
+H007,Unity Wellness Hospital,2025-01-19,221,145,76,15,32.0,8.0,119.0
+H004,HealthFirst Medical Institute,2025-12-16,290,247,43,6,48.0,6.0,119.0
+H004,HealthFirst Medical Institute,2025-04-02,290,175,115,18,5.0,9.0,186.0
+H004,HealthFirst Medical Institute,2025-03-26,290,243,47,12,24.0,12.0,163.0
+H001,MedCare General Hospital,2025-08-20,477,401,76,19,31.0,18.0,107.0
+H002,CityCare Medical Center,2025-06-03,207,179,28,21,24.0,8.0,153.0
+H005,PrimeCare Hospital,2025-09-12,275,174,101,28,33.0,10.0,114.0
+H004,HealthFirst Medical Institute,2025-02-12,290,156,134,35,13.0,7.0,113.0
+H005,PrimeCare Hospital,2025-09-26,275,251,24,18,25.0,13.0,130.0
+H001,MedCare General Hospital,2025-06-22,477,355,122,12,38.0,12.0,95.0
+H007,Unity Wellness Hospital,2025-11-17,221,172,49,12,28.0,11.0,102.0
+H002,CityCare Medical Center,2025-09-11,207,103,104,31,27.0,8.0,85.0
+H002,CityCare Medical Center,2025-05-01,207,161,46,29,32.0,8.0,106.0
+H002,CityCare Medical Center,2025/04/28,207,169,38,37,16.0,4.0,160.0
+H007,Unity Wellness Hospital,2025-05-29,221,143,78,39,20.0,14.0,99.0
+H004,HealthFirst Medical Institute,2025-03-24,290,266,24,19,5.0,5.0,105.0
+H001,MedCare General Hospital,2025-10-07,477,354,123,14,33.0,5.0,93.0
+H002,CityCare Medical Center,2025-06-06,207,144,63,20,31.0,0.0,170.0
+H003,LifeLine Hospital,2025-05-13,162,117,45,11,27.0,10.0,103.0
+H002,CityCare Medical Center,2025-04-25,207,113,94,17,25.0,4.0,122.0
+H005,PrimeCare Hospital,2025-11-04,275,197,78,20,35.0,3.0,143.0
+H006,Sunrise Community Hospital,2025-10-03,264,238,26,35,24.0,12.0,120.0
+H004,HealthFirst Medical Institute,2025-05-15,290,201,89,25,12.0,7.0,130.0
+H001,MedCare General Hospital,2025-11-19,477,326,151,12,23.0,12.0,112.0
+H004,HealthFirst Medical Institute,2025-02-24,290,221,69,21,23.0,9.0,80.0
+H002,CityCare Medical Center,2025-07-23,207,156,51,12,14.0,12.0,128.0
+H002,CityCare Medical Center,2025-06-12,207,175,32,26,15.0,12.0,135.0
+H006,Sunrise Community Hospital,2025-11-02,264,183,81,26,10.0,7.0,85.0
+H003,LifeLine Hospital,2025-05-25,162,82,80,20,25.0,4.0,159.0
+H001,MedCare General Hospital,2025-09-15,477,267,210,10,15.0,10.0,33.0
+H002,CityCare Medical Center,2025-02-13,207,131,76,21,25.0,6.0,87.0
+H007,Unity Wellness Hospital,2025-05-17,221,198,23,22,26.0,18.0,159.0
+H002,CityCare Medical Center,2025-03-17,207,193,14,23,13.0,11.0,81.0
+H001,MedCare General Hospital,2025-03-18,477,295,182,20,19.0,0.0,89.0
+H007,Unity Wellness Hospital,2025-11-18,221,119,102,25,15.0,8.0,61.0
+H006,Sunrise Community Hospital,2025-01-16,264,242,22,21,21.0,7.0,75.0
+H003,LifeLine Hospital,2025-05-18,162,104,58,11,7.0,11.0,107.0
+H006,Sunrise Community Hospital,2025-03-13,264,208,56,21,26.0,3.0,60.0
+H006,Sunrise Community Hospital,2025-12-30,264,154,110,16,21.0,11.0,156.0
+H004,HealthFirst Medical Institute,2025-09-18,290,237,53,31,30.0,10.0,113.0
+H003,LifeLine Hospital,2025-01-12,162,122,40,20,27.0,14.0,121.0
+H002,CityCare Medical Center,2025-05-02,207,163,44,16,22.0,8.0,129.0
+H004,HealthFirst Medical Institute,2025-03-08,290,213,77,6,45.0,6.0,110.0
+H001,MedCare General Hospital,2025-05-30,477,301,176,26,19.0,5.0,63.0
+H007,Unity Wellness Hospital,2025-08-09,221,187,34,33,18.0,13.0,113.0
+H007,Unity Wellness Hospital,2025-11-23,221,168,53,21,36.0,8.0,92.0
+H007,Unity Wellness Hospital,2025-11-02,221,195,26,23,28.0,7.0,48.0
+H004,HealthFirst Medical Institute,2025-01-19,290,232,58,33,26.0,11.0,80.0
+H006,Sunrise Community Hospital,2025-11-16,264,183,81,9,24.0,9.0,145.0
+H007,Unity Wellness Hospital,2025-07-24,221,166,55,13,17.0,5.0,93.0
+H004,HealthFirst Medical Institute,2025-10-26,290,227,63,20,23.0,8.0,153.0
+H007,Unity Wellness Hospital,2025-10-19,221,161,60,31,17.0,5.0,45.0
+H002,CityCare Medical Center,2025-10-13,207,164,43,27,32.0,11.0,134.0
+H002,CityCare Medical Center,2025-03-15,207,109,98,28,13.0,17.0,127.0
+H002,CityCare Medical Center,2025-04-03,207,160,47,31,19.0,7.0,176.0
+H001,MedCare General Hospital,2025-06-13,477,258,219,27,24.0,12.0,162.0
+H002,CityCare Medical Center,2025-02-07,207,109,98,18,16.0,5.0,153.0
+H004,HealthFirst Medical Institute,2025-02-08,290,158,132,30,10.0,11.0,173.0
+H002,CityCare Medical Center,2025-06-15,207,126,81,37,32.0,11.0,93.0
+H005,PrimeCare Hospital,2025-07-10,275,184,91,16,15.0,1.0,124.0
+H001,MedCare General Hospital,2025-06-16,477,266,211,17,17.0,4.0,118.0
+H005,PrimeCare Hospital,2025-07-30,275,148,127,20,30.0,10.0,
+H004,HealthFirst Medical Institute,2025-04-26,290,256,34,33,30.0,7.0,133.0
+H006,Sunrise Community Hospital,2025-10-24,264,131,133,28,33.0,8.0,93.0
+H003,LifeLine Hospital,2025-07-13,162,110,52,34,23.0,0.0,115.0
+H001,MedCare General Hospital,2025-02-19,477,324,153,21,38.0,6.0,136.0
+H001,MedCare General Hospital,2025-03-09,477,335,142,18,27.0,7.0,97.0
+H007,Unity Wellness Hospital,2025-01-05,221,169,52,23,27.0,16.0,81.0
+H005,PrimeCare Hospital,2025-06-02,275,201,74,26,31.0,2.0,84.0
+H004,HealthFirst Medical Institute,2025-01-22,290,274,16,33,27.0,15.0,166.0
+H001,MedCare General Hospital,2025-02-18,477,298,179,24,30.0,11.0,71.0
+H006,Sunrise Community Hospital,2025-01-02,264,228,36,41,26.0,9.0,59.0
+H006,Sunrise Community Hospital,2025-07-07,264,194,70,26,38.0,12.0,65.0
+H007,Unity Wellness Hospital,2025-05-11,221,109,112,28,24.0,4.0,98.0
+H005,PrimeCare Hospital,2025-06-01,275,213,62,25,25.0,7.0,80.0
+H001,MedCare General Hospital,2025-05-05,477,298,179,28,34.0,16.0,183.0
+H002,CityCare Medical Center,2025-11-11,207,114,93,29,42.0,14.0,103.0
+H003,LifeLine Hospital,2025-06-23,162,98,64,21,26.0,10.0,84.0
+H002,CityCare Medical Center,2025-04-17,207,155,52,22,9.0,9.0,136.0
+H002,CityCare Medical Center,2025-11-25,207,115,92,21,20.0,9.0,111.0
+H004,HealthFirst Medical Institute,2025-10-13,290,241,49,25,20.0,10.0,105.0
+H006,Sunrise Community Hospital,2025-05-17,264,148,116,26,7.0,12.0,111.0
+H001,MedCare General Hospital,2025-01-26,477,467,10,17,24.0,6.0,99.0
+H007,Unity Wellness Hospital,2025-09-19,221,140,81,31,13.0,13.0,148.0
+H002,CityCare Medical Center,2025-08-26,207,146,61,35,12.0,3.0,96.0
+H003,LifeLine Hospital,2025-05-10,162,86,76,16,16.0,9.0,88.0
+H005,PrimeCare Hospital,2025-08-18,275,169,106,30,17.0,17.0,133.0
+H005,PrimeCare Hospital,2025-07-22,275,168,107,46,17.0,9.0,154.0
+H004,HealthFirst Medical Institute,2025-05-30,290,250,40,24,39.0,8.0,140.0
+H006,Sunrise Community Hospital,2025-11-05,264,189,75,31,24.0,12.0,95.0
+H003,LifeLine Hospital,2025/08/01,162,104,58,29,26.0,10.0,123.0
+H007,Unity Wellness Hospital,2025-10-10,221,199,22,32,20.0,11.0,149.0
+H004,HealthFirst Medical Institute,2025-12-04,290,218,72,24,13.0,11.0,90.0
+H001,MedCare General Hospital,2025-12-28,477,252,225,27,11.0,11.0,155.0
+H004,HealthFirst Medical Institute,2025-02-10,290,209,81,26,26.0,14.0,100.0
+H004,HealthFirst Medical Institute,2025-07-24,290,222,68,32,23.0,13.0,105.0
+H006,Sunrise Community Hospital,2025-04-18,264,188,76,27,25.0,7.0,96.0
+H004,HealthFirst Medical Institute,2025-09-13,290,239,51,18,26.0,7.0,42.0
+H005,PrimeCare Hospital,2025-11-06,275,173,102,22,20.0,9.0,146.0
+H007,Unity Wellness Hospital,2025-02-27,221,163,58,14,25.0,9.0,125.0
+H007,Unity Wellness Hospital,2025-08-29,221,100,121,22,15.0,13.0,148.0
+H003,LifeLine Hospital,2025-02-05,162,139,23,15,33.0,10.0,139.0
+H001,MedCare General Hospital,2025-08-29,477,350,127,21,28.0,9.0,121.0
+H007,Unity Wellness Hospital,2025-02-20,221,183,38,13,23.0,6.0,174.0
+H007,Unity Wellness Hospital,2025-11-07,221,172,49,16,16.0,5.0,114.0
+H002,CityCare Medical Center,2025-10-06,207,193,14,11,18.0,6.0,148.0
+H004,HealthFirst Medical Institute,2025-05-11,290,181,109,34,17.0,14.0,61.0
+H001,MedCare General Hospital,2025-12-17,477,188,289,30,9.0,6.0,140.0
+H007,Unity Wellness Hospital,2025-06-11,221,191,30,25,27.0,15.0,129.0
+H005,PrimeCare Hospital,2025-10-09,275,219,56,26,35.0,10.0,85.0
+H005,PrimeCare Hospital,2025-08-10,275,119,156,41,18.0,2.0,118.0
+H002,CityCare Medical Center,2025-09-03,207,114,93,19,17.0,7.0,189.0
+H004,HealthFirst Medical Institute,2025-10-03,290,169,121,18,10.0,9.0,120.0
+H003,LifeLine Hospital,2025-09-07,162,116,46,11,29.0,4.0,144.0
+H003,LifeLine Hospital,2025-01-17,162,133,29,18,25.0,0.0,151.0
+H006,Sunrise Community Hospital,2025-08-23,264,181,83,6,32.0,6.0,137.0
+H006,Sunrise Community Hospital,2025-10-10,264,151,113,33,9.0,4.0,194.0
+H002,CityCare Medical Center,2025-07-27,207,135,72,28,29.0,4.0,136.0
+H006,Sunrise Community Hospital,2025-02-17,264,235,29,36,25.0,8.0,164.0
+H007,Unity Wellness Hospital,2025-12-08,221,201,20,35,27.0,11.0,144.0
+H005,PrimeCare Hospital,2025-09-04,275,168,107,13,35.0,10.0,170.0
+H006,Sunrise Community Hospital,2025-06-26,264,165,99,33,17.0,5.0,152.0
+H006,Sunrise Community Hospital,2025-06-27,264,219,45,31,20.0,3.0,152.0
+H007,Unity Wellness Hospital,2025-04-23,221,185,36,25,12.0,6.0,118.0
+H007,Unity Wellness Hospital,2025-05-16,221,110,111,19,44.0,6.0,192.0
+H003,LifeLine Hospital,2025-12-08,162,134,28,11,9.0,5.0,109.0
+H005,PrimeCare Hospital,2025-01-17,275,228,47,28,17.0,7.0,110.0
+H004,HealthFirst Medical Institute,2025-02-02,290,233,57,41,21.0,4.0,129.0
+H001,MedCare General Hospital,2025-05-04,477,350,127,25,27.0,11.0,128.0
+H003,LifeLine Hospital,2025-04-20,162,107,55,33,0.0,2.0,142.0
+H002,CityCare Medical Center,2025-09-25,207,133,74,28,18.0,7.0,73.0
+H002,CityCare Medical Center,2025-02-11,207,169,38,17,28.0,10.0,162.0
+H003,LifeLine Hospital,2025-11-01,162,122,40,14,16.0,7.0,141.0
+H002,CityCare Medical Center,2025-09-10,207,156,51,24,8.0,13.0,125.0
+H003,LifeLine Hospital,2025-02-07,162,108,54,34,16.0,10.0,107.0
+H002,CityCare Medical Center,2025-05-13,207,170,37,21,24.0,8.0,43.0
+H005,PrimeCare Hospital,2025-07-07,275,224,51,32,36.0,5.0,81.0
+H001,MedCare General Hospital,2025-12-09,477,406,71,24,30.0,0.0,98.0
+H006,Sunrise Community Hospital,2025-01-01,264,192,72,29,28.0,5.0,159.0
+H001,MedCare General Hospital,2025-10-27,477,458,19,41,32.0,13.0,143.0
+H005,PrimeCare Hospital,2025-04-18,275,170,105,30,21.0,8.0,105.0
+H002,CityCare Medical Center,2025-08-29,207,139,68,26,19.0,10.0,121.0
+H007,Unity Wellness Hospital,2025-12-23,221,112,109,29,40.0,3.0,103.0
+H006,Sunrise Community Hospital,2025-10-18,264,203,61,23,27.0,7.0,109.0
+H006,Sunrise Community Hospital,2025-07-30,264,183,81,24,36.0,11.0,164.0
+H001,MedCare General Hospital,2025-08-09,477,400,77,1,22.0,1.0,164.0
+H002,CityCare Medical Center,2025-09-04,207,127,80,20,14.0,9.0,104.0
+H006,Sunrise Community Hospital,2025-05-19,264,196,68,25,15.0,9.0,164.0
+H003,LifeLine Hospital,2025-12-15,162,103,59,26,25.0,9.0,63.0
+H001,MedCare General Hospital,2025-03-26,477,461,16,39,31.0,8.0,145.0
+H006,Sunrise Community Hospital,2025-12-12,264,162,102,30,20.0,8.0,87.0
+H001,MedCare General Hospital,2025-09-24,477,431,46,34,35.0,8.0,125.0
+H006,Sunrise Community Hospital,2025-09-13,264,188,76,24,24.0,13.0,103.0
+H001,MedCare General Hospital,2025-10-18,477,361,116,38,44.0,9.0,142.0
+H003,LifeLine Hospital,2025-10-27,162,119,43,24,29.0,8.0,133.0
+H005,PrimeCare Hospital,2025-10-18,275,227,48,29,20.0,11.0,93.0
+H002,CityCare Medical Center,2025-02-21,207,149,58,29,5.0,3.0,97.0
+H002,CityCare Medical Center,2025-04-18,207,123,84,14,32.0,2.0,94.0
+H003,LifeLine Hospital,2025-04-10,162,65,97,28,19.0,8.0,129.0
+H006,,2025-10-16,264,144,120,35,20.0,11.0,185.0
+H007,Unity Wellness Hospital,2025-10-21,221,155,66,20,34.0,9.0,113.0
+H007,Unity Wellness Hospital,2025-01-03,221,80,141,14,26.0,6.0,131.0
+H006,Sunrise Community Hospital,2025-06-08,264,199,65,35,22.0,6.0,123.0
+H003,LifeLine Hospital,2025-07-19,162,148,14,13,11.0,8.0,110.0
+H006,Sunrise Community Hospital,2025-06-04,264,165,99,21,36.0,7.0,157.0
+H001,MedCare General Hospital,2025-10-06,477,369,108,19,25.0,17.0,105.0
+H004,HealthFirst Medical Institute,2025-11-23,290,195,95,9,5.0,8.0,134.0
+H004,HealthFirst Medical Institute,2025-11-24,290,174,116,26,16.0,14.0,162.0
+H004,HealthFirst Medical Institute,2025-08-11,290,212,78,36,16.0,7.0,130.0
+H001,MedCare General Hospital,2025-01-19,477,348,129,32,21.0,6.0,104.0
+H005,PrimeCare Hospital,2025-10-08,275,250,25,20,29.0,3.0,189.0
+H005,PrimeCare Hospital,2025-01-18,275,208,67,22,27.0,10.0,153.0
+H005,PrimeCare Hospital,2025-07-13,275,191,84,31,17.0,4.0,151.0
+H003,LifeLine Hospital,2025-10-08,162,130,32,27,21.0,10.0,71.0
+H003,LifeLine Hospital,2025-08-24,162,121,41,25,31.0,12.0,77.0
+H003,LifeLine Hospital,2025-01-30,162,110,52,23,16.0,9.0,79.0
+H003,LifeLine Hospital,2025-04-19,162,124,38,27,4.0,14.0,24.0
+H002,CityCare Medical Center,2025-08-23,207,150,57,27,26.0,4.0,113.0
+H006,Sunrise Community Hospital,2025-08-08,264,231,33,23,27.0,0.0,170.0
+H006,Sunrise Community Hospital,2025-07-09,264,176,88,16,27.0,12.0,156.0
+H004,HealthFirst Medical Institute,2025-02-03,290,236,54,20,34.0,0.0,150.0
+H004,HealthFirst Medical Institute,2025-12-22,290,220,70,19,31.0,13.0,148.0
+H001,MedCare General Hospital,2025-08-08,477,338,139,25,31.0,1.0,133.0
+H002,CityCare Medical Center,2025-08-25,207,115,92,28,32.0,2.0,101.0
+H005,PrimeCare Hospital,2025-03-14,275,243,32,26,29.0,6.0,155.0
+H006,Sunrise Community Hospital,2025-08-27,264,219,45,34,33.0,2.0,202.0
+H001,MedCare General Hospital,2025-10-31,477,336,141,37,15.0,11.0,194.0
+H006,Sunrise Community Hospital,2025-01-06,264,210,54,26,28.0,12.0,108.0
+H002,CityCare Medical Center,2025-11-27,207,117,90,32,33.0,0.0,175.0
+H003,LifeLine Hospital,2025-02-27,162,124,38,34,21.0,3.0,89.0
+H004,HealthFirst Medical Institute,2025-09-03,290,250,40,23,12.0,0.0,110.0
+H001,MedCare General Hospital,2025-12-11,477,372,105,22,28.0,11.0,82.0
+H007,Unity Wellness Hospital,2025-07-22,221,159,62,25,16.0,4.0,86.0
+H006,Sunrise Community Hospital,2025-06-24,264,231,33,9,27.0,6.0,145.0
+H003,LifeLine Hospital,2025-09-01,162,83,79,26,25.0,8.0,99.0
+H002,,2025-12-09,207,188,19,30,23.0,5.0,113.0
+H004,HealthFirst Medical Institute,2025-10-18,290,162,128,25,23.0,4.0,77.0
+H005,PrimeCare Hospital,2025-10-14,275,183,92,23,8.0,10.0,57.0
+H004,HealthFirst Medical Institute,2025-12-13,290,214,76,27,13.0,14.0,166.0
+H004,HealthFirst Medical Institute,2025-09-19,290,250,40,25,21.0,9.0,147.0
+H004,HealthFirst Medical Institute,2025-04-27,290,261,29,25,45.0,13.0,143.0
+H004,HealthFirst Medical Institute,2025-03-06,290,205,85,49,28.0,7.0,94.0
+H001,MedCare General Hospital,2025-07-12,477,380,97,35,29.0,9.0,116.0
+H001,MedCare General Hospital,2025-06-24,477,333,144,18,18.0,3.0,118.0
+H003,LifeLine Hospital,2025-08-08,162,111,51,26,17.0,4.0,123.0
+H007,Unity Wellness Hospital,2025-06-17,221,165,56,19,36.0,13.0,147.0
+H006,Sunrise Community Hospital,2025-12-10,264,149,115,16,28.0,5.0,104.0
+H006,Sunrise Community Hospital,2025-06-30,264,236,28,26,10.0,7.0,116.0
+H003,LifeLine Hospital,2025-02-12,162,107,55,18,22.0,8.0,105.0
+H001,MedCare General Hospital,2025-05-09,477,324,153,38,11.0,7.0,110.0
+H001,MedCare General Hospital,2025-12-07,477,363,114,28,32.0,11.0,136.0
+H007,Unity Wellness Hospital,2025-04-01,221,154,67,19,15.0,6.0,135.0
+H002,CityCare Medical Center,2025-12-21,207,177,30,17,26.0,13.0,110.0
+H003,LifeLine Hospital,2025-11-28,162,137,25,23,17.0,5.0,80.0
+H001,MedCare General Hospital,2025-11-04,477,252,225,29,14.0,6.0,5.0
+H002,CityCare Medical Center,2025-01-19,207,135,72,18,22.0,6.0,101.0
+H006,Sunrise Community Hospital,2025-06-18,264,205,59,21,24.0,8.0,90.0
+H007,Unity Wellness Hospital,2025-07-07,221,179,42,24,22.0,7.0,91.0
+H005,PrimeCare Hospital,2025-01-15,275,204,71,25,8.0,7.0,138.0
+H001,MedCare General Hospital,2025-06-27,477,449,28,29,28.0,7.0,164.0
+H002,CityCare Medical Center,2025-03-03,207,159,48,25,28.0,11.0,105.0
+H005,PrimeCare Hospital,2025-02-17,275,162,113,21,18.0,0.0,107.0
+H006,Sunrise Community Hospital,2025-01-15,264,141,123,37,4.0,14.0,101.0
+H003,LifeLine Hospital,2025-03-31,162,96,66,29,22.0,6.0,122.0
+H003,LifeLine Hospital,2025-08-23,162,113,49,23,23.0,5.0,117.0
+H001,MedCare General Hospital,2025-07-04,477,404,73,16,18.0,9.0,167.0
+H005,PrimeCare Hospital,2025-08-29,275,269,6,21,21.0,16.0,65.0
+H007,Unity Wellness Hospital,2025-04-20,221,157,64,21,22.0,6.0,102.0
+H005,PrimeCare Hospital,2025-09-23,275,204,71,22,29.0,12.0,92.0
+H002,CityCare Medical Center,2025-10-31,207,166,41,23,33.0,4.0,81.0
+H007,Unity Wellness Hospital,2025-07-19,221,160,61,29,17.0,3.0,71.0
+H006,Sunrise Community Hospital,2025-09-16,264,183,81,35,30.0,9.0,120.0
+H003,LifeLine Hospital,2025-07-19,162,148,14,13,11.0,8.0,110.0
+H002,CityCare Medical Center,2025-05-05,207,155,52,27,17.0,8.0,92.0
+H006,Sunrise Community Hospital,2025-04-25,264,164,100,25,33.0,11.0,60.0
+H005,PrimeCare Hospital,2025-06-13,275,192,83,16,22.0,10.0,120.0
+H007,Unity Wellness Hospital,2025-05-07,221,155,66,28,27.0,7.0,142.0
+H006,Sunrise Community Hospital,2025-03-06,264,134,130,18,20.0,6.0,149.0
+H007,Unity Wellness Hospital,2025-07-15,221,161,60,44,19.0,10.0,86.0
+H005,PrimeCare Hospital,2025-04-10,275,237,38,14,25.0,7.0,46.0
+H006,Sunrise Community Hospital,2025-04-27,264,164,100,37,13.0,12.0,76.0
+H001,MedCare General Hospital,2025-04-29,477,347,130,21,26.0,10.0,161.0
+H005,PrimeCare Hospital,2025-06-27,275,154,121,29,29.0,11.0,157.0
+H001,MedCare General Hospital,2025-10-09,477,300,177,13,21.0,13.0,109.0
+H007,Unity Wellness Hospital,2025-02-25,221,85,136,46,21.0,15.0,120.0
+H005,PrimeCare Hospital,2025-11-01,275,210,65,35,18.0,10.0,155.0
+H006,Sunrise Community Hospital,2025-04-19,264,230,34,24,16.0,7.0,130.0
+H007,Unity Wellness Hospital,2025-07-25,221,122,99,26,26.0,3.0,209.0
+H005,PrimeCare Hospital,2025-10-22,275,185,90,37,29.0,5.0,177.0
+H003,LifeLine Hospital,2025-03-20,162,120,42,31,26.0,2.0,157.0
+H004,HealthFirst Medical Institute,2025-03-25,290,200,90,30,11.0,3.0,138.0
+H002,CityCare Medical Center,2025-01-02,207,166,41,26,26.0,12.0,95.0
+H004,HealthFirst Medical Institute,2025-11-25,290,193,97,39,17.0,7.0,147.0
+H002,CityCare Medical Center,2025-07-10,207,141,66,22,23.0,8.0,139.0
+H004,HealthFirst Medical Institute,2025-08-04,290,208,82,34,18.0,10.0,108.0
+H006,Sunrise Community Hospital,2025-07-13,264,176,88,15,16.0,0.0,115.0
+H004,HealthFirst Medical Institute,2025-04-05,290,237,53,20,10.0,13.0,60.0
+H004,HealthFirst Medical Institute,2025-09-12,290,176,114,17,19.0,11.0,112.0
+H001,MedCare General Hospital,2025-07-23,477,354,123,19,21.0,7.0,136.0
+H005,PrimeCare Hospital,2025-11-13,275,126,149,22,20.0,12.0,189.0
+H001,MedCare General Hospital,2025-05-01,477,386,91,17,34.0,12.0,136.0
+H001,MedCare General Hospital,2025-10-11,477,396,81,25,36.0,10.0,140.0
+H002,CityCare Medical Center,2025-07-30,207,126,81,17,26.0,6.0,112.0
+H005,PrimeCare Hospital,2025-01-09,275,178,97,28,16.0,12.0,101.0
+H005,PrimeCare Hospital,2025-05-22,275,216,59,25,21.0,14.0,161.0
+H005,PrimeCare Hospital,2025-01-31,275,182,93,28,32.0,4.0,77.0
+H001,MedCare General Hospital,2025-10-03,477,331,146,19,19.0,13.0,193.0
+H003,LifeLine Hospital,2025-11-15,162,114,48,18,29.0,12.0,158.0
+H004,HealthFirst Medical Institute,2025-03-20,290,187,103,19,18.0,6.0,104.0
+H001,MedCare General Hospital,2025-12-27,477,452,25,24,11.0,6.0,47.0
+H003,LifeLine Hospital,2025-07-06,162,120,42,17,30.0,8.0,112.0
+H005,PrimeCare Hospital,2025-05-08,275,226,49,7,35.0,7.0,108.0
+H007,Unity Wellness Hospital,2025-11-08,221,190,31,24,11.0,7.0,142.0
+H002,CityCare Medical Center,2025-09-22,207,160,47,19,23.0,6.0,84.0
+H005,PrimeCare Hospital,2025-06-16,275,188,87,29,38.0,10.0,58.0
+H003,LifeLine Hospital,2025-06-01,162,133,29,24,28.0,7.0,155.0
+H001,MedCare General Hospital,2025-10-14,477,361,116,31,19.0,12.0,113.0
+H005,PrimeCare Hospital,2025-05-20,275,269,6,27,37.0,5.0,203.0
+H003,LifeLine Hospital,2025-03-02,162,126,36,18,28.0,17.0,96.0
+H003,LifeLine Hospital,2025-09-18,162,121,41,35,31.0,12.0,133.0
+H007,Unity Wellness Hospital,2025-08-23,221,184,37,24,21.0,10.0,155.0
+H002,CityCare Medical Center,2025-02-28,207,136,71,23,3.0,5.0,112.0
+H006,Sunrise Community Hospital,2025-10-23,264,227,37,19,14.0,5.0,127.0
+H007,Unity Wellness Hospital,2025-05-21,221,198,23,22,37.0,10.0,35.0
+H005,PrimeCare Hospital,2025-08-01,275,219,56,27,20.0,3.0,155.0
+H003,LifeLine Hospital,2025-07-20,162,111,51,30,28.0,9.0,148.0
+H001,MedCare General Hospital,2025-03-07,477,273,204,34,28.0,12.0,145.0
+H005,PrimeCare Hospital,2025-09-30,275,269,6,13,37.0,12.0,107.0
+H005,PrimeCare Hospital,2025-04-17,275,191,84,30,21.0,11.0,128.0
+H006,Sunrise Community Hospital,2025-09-20,264,195,69,12,36.0,7.0,93.0
+H004,HealthFirst Medical Institute,2025-03-21,290,186,104,26,16.0,10.0,170.0
+H001,MedCare General Hospital,2025-08-19,477,286,191,7,13.0,6.0,185.0
+H005,PrimeCare Hospital,2025-07-19,275,231,44,40,22.0,10.0,161.0
+H003,LifeLine Hospital,2025-12-10,162,87,75,35,20.0,7.0,183.0
+H004,HealthFirst Medical Institute,2025-06-02,290,242,48,19,17.0,9.0,134.0
+H003,LifeLine Hospital,2025-09-14,162,137,25,7,32.0,7.0,101.0
+H007,Unity Wellness Hospital,2025-04-02,221,174,47,18,21.0,15.0,181.0
+H003,LifeLine Hospital,2025-03-22,162,102,60,26,25.0,10.0,79.0
+H003,LifeLine Hospital,2025-03-29,162,112,50,31,33.0,9.0,104.0
+H004,HealthFirst Medical Institute,2025-07-17,290,195,95,14,28.0,8.0,71.0
+H002,CityCare Medical Center,2025-01-10,207,121,86,23,30.0,7.0,172.0
+H007,Unity Wellness Hospital,2025-11-29,221,164,57,38,36.0,2.0,123.0
+H005,PrimeCare Hospital,2025-05-28,275,263,12,12,23.0,3.0,210.0
+H005,PrimeCare Hospital,2025-05-12,275,267,8,24,24.0,17.0,104.0
+H001,MedCare General Hospital,2025-10-25,477,396,81,13,11.0,1.0,170.0
+H002,CityCare Medical Center,2025-08-22,207,186,21,29,22.0,9.0,81.0
+H005,PrimeCare Hospital,2025-04-01,275,198,77,27,18.0,12.0,122.0
+H001,MedCare General Hospital,2025-04-10,477,374,103,16,16.0,8.0,64.0
+H004,HealthFirst Medical Institute,2025-08-30,290,197,93,27,23.0,11.0,120.0
+H003,LifeLine Hospital,2025-08-03,162,136,26,29,21.0,9.0,116.0
+H004,HealthFirst Medical Institute,2025-07-26,290,199,91,35,14.0,10.0,176.0
+H002,CityCare Medical Center,2025-06-14,207,129,78,22,24.0,3.0,156.0
+H007,Unity Wellness Hospital,2025-05-04,221,159,62,26,28.0,8.0,92.0
+H007,Unity Wellness Hospital,2025-12-28,221,148,73,28,28.0,5.0,109.0
+H004,HealthFirst Medical Institute,2025-06-26,290,200,90,42,8.0,2.0,60.0
+H002,CityCare Medical Center,2025-09-29,207,173,34,29,21.0,4.0,88.0
+H007,Unity Wellness Hospital,2025-03-08,221,215,6,22,21.0,7.0,94.0
+H001,MedCare General Hospital,2025-07-05,477,256,221,20,36.0,10.0,117.0
+H005,PrimeCare Hospital,2025-01-02,275,97,178,33,15.0,14.0,81.0
+H003,LifeLine Hospital,2025-11-04,162,78,84,22,16.0,9.0,189.0
+H007,Unity Wellness Hospital,2025-05-20,221,178,43,34,25.0,8.0,159.0
+H006,Sunrise Community Hospital,2025-09-25,264,149,115,17,17.0,6.0,109.0
+H006,Sunrise Community Hospital,2025-02-16,264,205,59,30,20.0,11.0,132.0
+H004,HealthFirst Medical Institute,2025-07-08,290,185,105,14,27.0,14.0,110.0
+H002,CityCare Medical Center,2025-05-27,207,162,45,3,26.0,3.0,156.0
+H006,Sunrise Community Hospital,2025-06-10,264,173,91,18,29.0,8.0,141.0
+H004,HealthFirst Medical Institute,2025-04-12,290,174,116,37,27.0,16.0,183.0
+H005,PrimeCare Hospital,2025-01-08,275,207,68,24,24.0,2.0,168.0
+H006,Sunrise Community Hospital,2025-11-12,264,172,92,29,34.0,7.0,143.0
+H002,CityCare Medical Center,2025-08-31,207,160,47,22,16.0,9.0,111.0
+H004,HealthFirst Medical Institute,2025-01-09,290,155,135,29,14.0,11.0,59.0
+H005,PrimeCare Hospital,2025-06-04,275,229,46,30,17.0,6.0,37.0
+H001,MedCare General Hospital,2025-06-01,477,467,10,28,17.0,9.0,148.0
+H005,PrimeCare Hospital,2025-07-01,275,183,92,29,15.0,2.0,133.0
+H006,Sunrise Community Hospital,2025-04-02,264,236,28,13,26.0,2.0,165.0
+H006,Sunrise Community Hospital,2025-01-26,264,164,100,38,13.0,7.0,128.0
+H006,Sunrise Community Hospital,2025-06-02,264,155,109,23,26.0,7.0,75.0
+H004,HealthFirst Medical Institute,2025-12-29,290,172,118,33,30.0,13.0,119.0
+H007,Unity Wellness Hospital,2025-10-11,221,114,107,22,29.0,11.0,146.0
+H001,MedCare General Hospital,2025-01-24,477,360,117,24,33.0,4.0,150.0
+H001,MedCare General Hospital,2025-06-08,477,368,109,26,13.0,10.0,76.0
+H005,PrimeCare Hospital,2025-05-11,275,151,124,32,12.0,7.0,174.0
+H001,MedCare General Hospital,2025-11-28,477,326,151,26,15.0,14.0,165.0
+H007,Unity Wellness Hospital,2025-09-05,221,210,11,28,12.0,7.0,83.0
+H007,Unity Wellness Hospital,2025-09-18,221,183,38,14,30.0,14.0,52.0
+H005,PrimeCare Hospital,2025-12-14,275,211,64,25,30.0,14.0,119.0
+H002,CityCare Medical Center,2025-03-21,207,140,67,19,22.0,11.0,94.0
+H007,Unity Wellness Hospital,2025-11-21,221,130,91,27,10.0,10.0,150.0
+H005,PrimeCare Hospital,2025-02-24,275,162,113,25,35.0,6.0,90.0
+H006,Sunrise Community Hospital,2025-09-11,264,111,153,34,21.0,13.0,148.0
+H002,CityCare Medical Center,2025-10-05,207,178,29,15,36.0,15.0,149.0
+H004,HealthFirst Medical Institute,2025-08-03,290,195,95,12,27.0,5.0,143.0
+H001,MedCare General Hospital,2025-11-08,477,364,113,32,35.0,5.0,109.0
+H001,MedCare General Hospital,2025-12-18,477,422,55,23,36.0,12.0,172.0
+H002,CityCare Medical Center,2025-07-03,207,159,48,28,28.0,9.0,18.0
+H006,Sunrise Community Hospital,2025-07-21,264,200,64,16,21.0,5.0,77.0
+H004,HealthFirst Medical Institute,2025-11-06,290,280,10,11,24.0,6.0,165.0
+H004,HealthFirst Medical Institute,2025-04-03,290,224,66,34,33.0,2.0,209.0
+H001,MedCare General Hospital,2025-11-03,477,351,126,10,22.0,10.0,101.0
+H001,MedCare General Hospital,2025-10-15,477,359,118,23,27.0,15.0,149.0
+H002,CityCare Medical Center,2025-11-26,207,146,61,24,15.0,9.0,91.0
+H003,LifeLine Hospital,2025-10-12,162,93,69,23,11.0,11.0,128.0
+H002,CityCare Medical Center,2025-09-23,207,169,38,22,21.0,0.0,78.0
+H006,Sunrise Community Hospital,2025-09-29,264,225,39,23,28.0,3.0,142.0
+H006,Sunrise Community Hospital,2025-03-24,264,175,89,18,13.0,13.0,107.0
+H005,PrimeCare Hospital,2025-08-13,275,207,68,32,17.0,6.0,144.0
+H005,PrimeCare Hospital,2025-10-11,275,216,59,30,28.0,9.0,87.0
+H005,PrimeCare Hospital,2025-01-03,275,183,92,18,8.0,9.0,75.0
+H004,HealthFirst Medical Institute,2025-08-31,290,213,77,20,9.0,5.0,92.0
+H003,LifeLine Hospital,2025-06-08,162,90,72,26,29.0,11.0,42.0
+H005,PrimeCare Hospital,2025-08-04,275,191,84,14,30.0,5.0,129.0
+H003,LifeLine Hospital,2025-05-17,162,129,33,15,25.0,12.0,138.0
+H004,HealthFirst Medical Institute,2025-12-20,290,232,58,21,18.0,5.0,147.0
+H003,LifeLine Hospital,2025-07-16,162,86,76,20,30.0,10.0,92.0
+H004,HealthFirst Medical Institute,2025-10-08,290,177,113,29,21.0,6.0,54.0
+H006,Sunrise Community Hospital,2025-08-16,264,191,73,32,22.0,11.0,150.0
+H001,MedCare General Hospital,2025-01-14,477,421,56,24,26.0,13.0,94.0
+H003,LifeLine Hospital,2025-10-31,162,135,27,20,17.0,8.0,74.0
+H005,PrimeCare Hospital,2025-08-17,275,171,104,36,13.0,8.0,127.0
+H002,CityCare Medical Center,2025-05-30,207,149,58,13,23.0,7.0,224.0
+H002,CityCare Medical Center,2025-02-14,207,176,31,25,21.0,8.0,126.0
+H006,Sunrise Community Hospital,2025-09-26,264,167,97,18,33.0,13.0,157.0
+H001,MedCare General Hospital,2025-11-10,477,327,150,25,11.0,11.0,98.0
+H006,Sunrise Community Hospital,2025-05-26,264,169,95,23,18.0,11.0,97.0
+H005,PrimeCare Hospital,2025-09-19,275,235,40,13,3.0,13.0,89.0
+H005,PrimeCare Hospital,2025-09-22,275,171,104,30,33.0,7.0,160.0
+H003,LifeLine Hospital,2025-08-11,162,91,71,30,27.0,11.0,80.0
+H005,PrimeCare Hospital,2025-09-07,275,261,14,25,20.0,13.0,107.0
+H002,CityCare Medical Center,2025-01-18,207,192,15,42,28.0,11.0,47.0
+H007,Unity Wellness Hospital,2025-04-16,221,196,25,34,13.0,9.0,70.0
+H005,PrimeCare Hospital,2025-09-08,275,154,121,19,24.0,11.0,157.0
+H003,LifeLine Hospital,2025-03-24,162,131,31,27,26.0,5.0,80.0
+H003,LifeLine Hospital,2025-07-31,162,114,48,36,31.0,7.0,118.0
+H003,LifeLine Hospital,2025-12-05,162,96,66,28,19.0,2.0,106.0
+H004,HealthFirst Medical Institute,2025-01-06,290,233,57,29,12.0,9.0,100.0
+H001,MedCare General Hospital,2025-09-21,477,268,209,16,19.0,7.0,112.0
+H007,Unity Wellness Hospital,2025-02-01,221,109,112,29,22.0,6.0,66.0
+H007,Unity Wellness Hospital,2025-01-29,221,172,49,27,25.0,8.0,96.0
+H003,LifeLine Hospital,2025-05-07,162,157,5,12,31.0,12.0,88.0
+H002,CityCare Medical Center,2025-02-20,207,141,66,29,22.0,13.0,101.0
+H001,MedCare General Hospital,2025-08-11,477,332,145,26,27.0,12.0,126.0
+H001,MedCare General Hospital,2025-12-25,477,236,241,25,29.0,8.0,128.0
+H005,PrimeCare Hospital,2025-09-18,275,185,90,18,27.0,18.0,144.0
+H003,LifeLine Hospital,2025-07-30,162,97,65,13,28.0,11.0,143.0
+H001,MedCare General Hospital,2025-01-09,477,385,92,26,21.0,8.0,60.0
+H003,LifeLine Hospital,2025-12-26,162,112,50,14,26.0,14.0,63.0
+H001,MedCare General Hospital,2025-11-13,477,354,123,34,24.0,4.0,137.0
+H001,MedCare General Hospital,2025-11-01,477,413,64,29,16.0,8.0,105.0
+H002,CityCare Medical Center,2025-03-04,207,134,73,25,14.0,15.0,61.0
+H001,MedCare General Hospital,2025-04-16,477,240,237,11,26.0,9.0,83.0
+H005,PrimeCare Hospital,2025-04-20,275,246,29,17,18.0,9.0,106.0
+H001,MedCare General Hospital,2025-05-02,477,450,27,18,9.0,4.0,179.0
+H003,LifeLine Hospital,2025-07-01,162,110,52,16,19.0,10.0,146.0
+H006,Sunrise Community Hospital,2025-11-27,264,196,68,12,27.0,7.0,122.0
+H003,LifeLine Hospital,2025-05-20,162,117,45,24,16.0,2.0,97.0
+H004,HealthFirst Medical Institute,2025-10-22,290,246,44,10,21.0,10.0,148.0
+H006,Sunrise Community Hospital,2025-02-13,264,160,104,25,27.0,14.0,121.0
+H004,HealthFirst Medical Institute,2025-07-20,290,230,60,33,22.0,5.0,131.0
+H001,MedCare General Hospital,2025-04-26,477,216,261,26,12.0,12.0,165.0
+H005,PrimeCare Hospital,2025-04-03,275,241,34,30,28.0,4.0,178.0
+H003,LifeLine Hospital,2025-01-15,162,135,27,38,9.0,2.0,95.0
+H005,PrimeCare Hospital,2025-03-15,275,219,56,16,23.0,7.0,118.0
+H005,PrimeCare Hospital,2025-07-02,275,218,57,30,16.0,5.0,99.0
+H007,Unity Wellness Hospital,2025-07-26,221,123,98,22,21.0,0.0,145.0
+H003,LifeLine Hospital,2025-10-09,162,94,68,30,22.0,9.0,103.0
+H005,PrimeCare Hospital,2025-04-02,275,202,73,17,12.0,17.0,68.0
+H002,CityCare Medical Center,2025-11-04,207,120,87,11,13.0,1.0,91.0
+H007,Unity Wellness Hospital,2025-06-28,221,174,47,17,19.0,12.0,122.0
+H007,Unity Wellness Hospital,2025-03-31,221,140,81,25,23.0,5.0,111.0
+H006,Sunrise Community Hospital,2025-02-11,264,234,30,22,30.0,6.0,140.0
+H001,MedCare General Hospital,2025-11-06,477,370,107,17,30.0,10.0,169.0
+H002,CityCare Medical Center,2025-08-15,207,192,15,32,33.0,8.0,75.0
+H002,CityCare Medical Center,2025-04-08,207,141,66,39,27.0,9.0,146.0
+H004,HealthFirst Medical Institute,2025-10-28,290,209,81,27,36.0,13.0,41.0
+H001,MedCare General Hospital,2025-02-15,477,405,72,25,18.0,4.0,147.0
+H004,HealthFirst Medical Institute,2025-07-03,290,141,149,24,18.0,2.0,83.0
+H003,LifeLine Hospital,2025-10-02,162,115,47,19,11.0,8.0,211.0
+H002,CityCare Medical Center,2025-07-07,207,164,43,18,18.0,12.0,130.0
+H001,MedCare General Hospital,2025-03-29,477,347,130,38,10.0,3.0,117.0
+H002,CityCare Medical Center,2025-11-22,207,137,70,14,19.0,8.0,2.0
+H005,PrimeCare Hospital,2025-11-17,275,194,81,26,25.0,5.0,103.0
+H005,PrimeCare Hospital,2025-01-13,275,172,103,30,19.0,13.0,161.0
+H007,Unity Wellness Hospital,2025-10-14,221,157,64,43,21.0,6.0,104.0
+H005,PrimeCare Hospital,2025-08-31,275,198,77,29,27.0,9.0,102.0
+H004,HealthFirst Medical Institute,2025-05-09,290,172,118,31,28.0,5.0,106.0
+H003,LifeLine Hospital,2025-03-12,162,99,63,24,27.0,9.0,65.0
+H006,Sunrise Community Hospital,2025-10-22,264,205,59,28,26.0,12.0,134.0
+H001,MedCare General Hospital,2025-10-28,477,387,90,20,23.0,5.0,113.0
+H007,Unity Wellness Hospital,2025-01-07,221,96,125,27,28.0,7.0,157.0
+H002,CityCare Medical Center,2025-06-28,207,96,111,30,19.0,12.0,124.0
+H007,Unity Wellness Hospital,2025-01-15,221,173,48,12,31.0,12.0,124.0
+H007,Unity Wellness Hospital,2025-03-28,221,171,50,24,12.0,3.0,111.0
+H002,CityCare Medical Center,2025-05-10,207,175,32,43,12.0,5.0,132.0
+H002,CityCare Medical Center,2025-01-01,207,160,47,16,23.0,14.0,120.0
+H007,Unity Wellness Hospital,2025-05-10,221,182,39,11,19.0,11.0,115.0
+H007,Unity Wellness Hospital,2025-06-12,221,160,61,31,24.0,2.0,117.0
+H001,MedCare General Hospital,2025-10-01,477,334,143,24,20.0,5.0,84.0
+H003,LifeLine Hospital,2025-02-28,162,124,38,34,4.0,6.0,103.0
+H001,MedCare General Hospital,2025-03-13,477,286,191,24,26.0,7.0,86.0
+H005,PrimeCare Hospital,2025-02-21,275,206,69,35,17.0,8.0,111.0
+H007,Unity Wellness Hospital,2025-02-22,221,185,36,24,28.0,11.0,140.0
+H001,MedCare General Hospital,2025-03-05,477,344,133,30,26.0,7.0,114.0
+H002,CityCare Medical Center,2025-01-30,207,163,44,1,25.0,1.0,119.0
+H003,LifeLine Hospital,2025-12-24,162,104,58,24,26.0,13.0,117.0
+H001,MedCare General Hospital,2025-12-10,477,338,139,27,29.0,9.0,102.0
+H004,HealthFirst Medical Institute,2025-12-18,290,172,118,38,29.0,9.0,94.0
+H004,HealthFirst Medical Institute,2025-12-24,290,277,13,25,34.0,10.0,114.0
+H002,CityCare Medical Center,2025-05-16,207,163,44,32,19.0,7.0,76.0
+H005,PrimeCare Hospital,2025-10-28,275,171,104,15,29.0,10.0,136.0
+H003,LifeLine Hospital,2025-10-21,162,126,36,38,11.0,6.0,152.0
+H002,CityCare Medical Center,2025-11-09,207,135,72,18,30.0,9.0,125.0
+H003,LifeLine Hospital,2025-12-21,162,117,45,15,23.0,12.0,112.0
+H006,Sunrise Community Hospital,2025-06-12,264,194,70,27,13.0,12.0,43.0
+H007,Unity Wellness Hospital,2025-07-27,221,178,43,25,44.0,12.0,188.0
+H005,PrimeCare Hospital,2025-05-29,275,191,84,23,31.0,3.0,158.0
+H004,HealthFirst Medical Institute,2025-12-27,290,184,106,16,23.0,8.0,150.0
+H001,MedCare General Hospital,2025-09-30,477,342,135,29,16.0,9.0,167.0
+H004,HealthFirst Medical Institute,2025-06-24,290,211,79,21,14.0,14.0,91.0
+H001,MedCare General Hospital,2025-07-25,477,368,109,25,28.0,9.0,79.0
+H003,LifeLine Hospital,2025-01-04,162,92,70,30,22.0,11.0,133.0
+H001,MedCare General Hospital,2025-06-02,477,310,167,25,23.0,19.0,165.0
+H003,LifeLine Hospital,2025-07-22,162,145,17,22,20.0,6.0,148.0
+H002,CityCare Medical Center,2025-07-12,207,140,67,18,20.0,3.0,127.0
+H006,Sunrise Community Hospital,2025-09-23,264,204,60,18,33.0,12.0,80.0
+H002,CityCare Medical Center,2025-01-13,207,155,52,18,20.0,10.0,119.0
+H005,PrimeCare Hospital,2025-02-01,275,163,112,17,19.0,12.0,66.0
+H002,CityCare Medical Center,2025-06-20,207,100,107,27,24.0,2.0,109.0
+H004,HealthFirst Medical Institute,2025-06-15,290,201,89,13,33.0,12.0,42.0
+H007,Unity Wellness Hospital,2025-02-04,221,170,51,25,26.0,11.0,162.0
+H003,LifeLine Hospital,2025-07-27,162,129,33,18,12.0,5.0,100.0
+H001,MedCare General Hospital,2025-07-18,477,355,122,8,18.0,8.0,79.0
+H002,CityCare Medical Center,2025-07-16,207,104,103,24,31.0,5.0,98.0
+H002,CityCare Medical Center,2025-11-17,207,175,32,27,27.0,14.0,164.0
+H005,PrimeCare Hospital,2025-11-03,275,185,90,20,31.0,7.0,148.0
+H002,CityCare Medical Center,2025-08-14,207,178,29,31,36.0,10.0,82.0
+H002,CityCare Medical Center,2025-06-04,207,93,114,20,33.0,9.0,100.0
+H001,MedCare General Hospital,2025-11-05,477,341,136,39,20.0,15.0,95.0
+H002,CityCare Medical Center,2025-08-28,207,178,29,21,33.0,7.0,45.0
+H007,Unity Wellness Hospital,2025-01-24,221,150,71,22,35.0,10.0,136.0
+H006,Sunrise Community Hospital,2025-06-29,264,239,25,29,24.0,14.0,150.0
+H001,MedCare General Hospital,2025-03-01,477,303,174,32,30.0,10.0,145.0
+H002,CityCare Medical Center,2025-08-07,207,194,13,23,24.0,11.0,171.0
+H003,LifeLine Hospital,2025-12-27,162,108,54,25,15.0,15.0,159.0
+H001,MedCare General Hospital,2025-07-27,477,433,44,15,25.0,3.0,161.0
+H002,CityCare Medical Center,2025-05-07,207,185,22,20,27.0,9.0,138.0
+H004,HealthFirst Medical Institute,2025-01-31,290,205,85,27,17.0,12.0,134.0
+H003,LifeLine Hospital,2025-02-25,162,110,52,32,14.0,10.0,126.0
+H004,HealthFirst Medical Institute,2025-09-22,290,257,33,37,21.0,15.0,169.0
+H007,Unity Wellness Hospital,2025-10-29,221,145,76,31,9.0,7.0,118.0
+H003,LifeLine Hospital,2025-03-04,162,102,60,40,30.0,9.0,95.0
+H003,LifeLine Hospital,2025-04-12,162,112,50,29,18.0,7.0,123.0
+H001,,2025-06-12,477,332,145,21,25.0,14.0,161.0
+H004,HealthFirst Medical Institute,2025-10-09,290,215,75,24,22.0,6.0,127.0
+H002,CityCare Medical Center,2025-06-11,207,156,51,28,26.0,9.0,187.0
+H003,LifeLine Hospital,2025-06-11,162,122,40,15,11.0,3.0,146.0
+H003,LifeLine Hospital,2025-12-17,162,93,69,21,24.0,11.0,85.0
+H001,MedCare General Hospital,2025-09-14,477,351,126,23,31.0,11.0,88.0
+H002,CityCare Medical Center,2025-05-22,207,160,47,17,16.0,11.0,103.0
+H002,CityCare Medical Center,2025-01-22,207,118,89,28,23.0,7.0,225.0
+H006,Sunrise Community Hospital,2025-12-20,264,192,72,28,28.0,8.0,106.0
+H007,Unity Wellness Hospital,2025-04-09,221,158,63,19,27.0,6.0,64.0
+H007,Unity Wellness Hospital,2025-02-03,221,172,49,28,32.0,8.0,158.0
+H007,Unity Wellness Hospital,2025-12-15,221,148,73,26,24.0,7.0,92.0
+H006,Sunrise Community Hospital,2025-06-14,264,133,131,6,22.0,6.0,172.0
+H005,PrimeCare Hospital,2025-10-31,275,200,75,22,27.0,9.0,130.0
+H001,MedCare General Hospital,2025-01-21,477,262,215,21,17.0,7.0,113.0
+H007,Unity Wellness Hospital,2025-08-13,221,177,44,31,11.0,10.0,78.0
+H002,CityCare Medical Center,2025-03-16,207,132,75,28,18.0,9.0,139.0
+H004,HealthFirst Medical Institute,2025-02-21,290,203,87,25,22.0,13.0,97.0
+H002,CityCare Medical Center,2025-01-17,207,160,47,12,14.0,4.0,125.0
+H004,HealthFirst Medical Institute,2025-11-22,290,201,89,23,21.0,9.0,145.0
+H007,Unity Wellness Hospital,2025-06-04,221,153,68,16,13.0,7.0,177.0
+H002,CityCare Medical Center,2025-06-23,207,123,84,23,22.0,8.0,133.0
+H004,HealthFirst Medical Institute,2025-04-24,290,242,48,34,21.0,17.0,124.0
+H003,LifeLine Hospital,2025-09-28,162,108,54,21,21.0,1.0,149.0
+H001,MedCare General Hospital,2025-03-25,477,300,177,37,33.0,9.0,122.0
+H005,PrimeCare Hospital,2025-01-04,275,248,27,17,26.0,13.0,47.0
+H004,HealthFirst Medical Institute,2025-06-18,290,233,57,43,31.0,6.0,115.0
+H004,HealthFirst Medical Institute,2025-10-11,290,243,47,53,27.0,4.0,91.0
+H003,LifeLine Hospital,2025-06-03,162,128,34,27,21.0,1.0,31.0
+H004,HealthFirst Medical Institute,2025-07-14,290,177,113,18,5.0,7.0,133.0
+H005,PrimeCare Hospital,2025-03-28,275,248,27,26,24.0,7.0,124.0
+H006,Sunrise Community Hospital,2025-01-18,264,144,120,17,28.0,13.0,95.0
+H003,LifeLine Hospital,2025-06-06,162,82,80,7,19.0,7.0,97.0
+H001,MedCare General Hospital,2025-09-28,477,276,201,10,30.0,10.0,96.0
+H006,Sunrise Community Hospital,2025-03-31,264,178,86,20,2.0,7.0,136.0
+H004,HealthFirst Medical Institute,2025-04-20,290,217,73,28,21.0,18.0,107.0
+H006,Sunrise Community Hospital,2025-10-20,264,149,115,31,27.0,10.0,105.0
+H007,Unity Wellness Hospital,2025-12-22,221,185,36,31,24.0,7.0,136.0
+H007,Unity Wellness Hospital,2025-12-29,221,189,32,35,24.0,6.0,127.0
+H006,Sunrise Community Hospital,2025-10-07,264,177,87,26,23.0,1.0,129.0
+H004,HealthFirst Medical Institute,2025-11-15,290,176,114,21,36.0,8.0,36.0
+H002,CityCare Medical Center,2025-03-06,207,186,21,12,23.0,5.0,54.0
+H006,Sunrise Community Hospital,2025-09-30,264,192,72,23,16.0,12.0,89.0
+H007,Unity Wellness Hospital,2025-11-20,221,147,74,29,10.0,7.0,101.0
+H007,Unity Wellness Hospital,2025-10-28,221,153,68,36,19.0,11.0,103.0
+H002,CityCare Medical Center,2025-04-04,207,192,15,32,17.0,9.0,86.0
+H004,HealthFirst Medical Institute,2025-11-14,290,262,28,29,24.0,6.0,129.0
+H003,LifeLine Hospital,2025-07-17,162,59,103,29,7.0,4.0,6.0
+H001,MedCare General Hospital,2025-03-20,477,292,185,28,38.0,3.0,167.0
+H007,Unity Wellness Hospital,2025-10-31,221,151,70,22,36.0,10.0,150.0
+H007,Unity Wellness Hospital,2025-11-04,221,155,66,27,23.0,14.0,157.0
+H001,MedCare General Hospital,2025-02-02,477,287,190,31,17.0,13.0,158.0
+H003,LifeLine Hospital,2025-06-26,162,119,43,32,16.0,11.0,149.0
+H004,HealthFirst Medical Institute,2025-02-26,290,172,118,29,19.0,7.0,154.0
+H005,PrimeCare Hospital,2025-07-11,275,245,30,33,21.0,9.0,130.0
+H007,Unity Wellness Hospital,2025-04-25,221,194,27,1,16.0,1.0,87.0
+H002,CityCare Medical Center,2025-01-16,207,166,41,22,26.0,13.0,115.0
+H006,Sunrise Community Hospital,2025-10-31,264,198,66,20,22.0,13.0,88.0
+H001,MedCare General Hospital,2025-08-15,477,361,116,28,27.0,15.0,110.0
+H004,HealthFirst Medical Institute,2025-12-09,290,232,58,8,21.0,8.0,38.0
+H004,HealthFirst Medical Institute,2025-06-10,290,211,79,32,14.0,8.0,122.0
+H002,CityCare Medical Center,2025-12-17,207,156,51,18,17.0,6.0,77.0
+H007,Unity Wellness Hospital,2025-01-26,221,164,57,20,14.0,4.0,182.0
+H002,CityCare Medical Center,2025-11-18,207,160,47,35,23.0,11.0,210.0
+H007,Unity Wellness Hospital,2025-01-01,221,140,81,33,26.0,12.0,93.0
+H005,PrimeCare Hospital,2025-05-14,275,182,93,33,20.0,7.0,165.0
+H001,MedCare General Hospital,2025-11-02,477,405,72,40,20.0,15.0,75.0
+H001,MedCare General Hospital,2025-07-29,477,394,83,30,35.0,2.0,175.0
+H007,Unity Wellness Hospital,2025-01-23,221,127,94,20,32.0,1.0,170.0
+H007,,2025-03-17,221,183,38,26,17.0,11.0,101.0
+H007,Unity Wellness Hospital,2025-12-19,221,152,69,31,30.0,8.0,126.0
+H004,HealthFirst Medical Institute,2025-04-08,290,180,110,41,12.0,9.0,174.0
+H006,Sunrise Community Hospital,2025-07-31,264,145,119,26,28.0,11.0,94.0
+H004,HealthFirst Medical Institute,2025-06-23,290,176,114,24,22.0,8.0,121.0
+H004,HealthFirst Medical Institute,2025-04-15,290,214,76,34,27.0,4.0,73.0
+H005,PrimeCare Hospital,2025-05-19,275,237,38,24,31.0,15.0,91.0
+H004,HealthFirst Medical Institute,2025-05-07,290,245,45,43,28.0,5.0,90.0
+H003,LifeLine Hospital,2025-11-03,162,120,42,21,26.0,8.0,161.0
+H001,MedCare General Hospital,2025-07-11,477,407,70,27,28.0,10.0,137.0
+H007,Unity Wellness Hospital,2025-05-31,221,175,46,30,36.0,2.0,140.0
+H004,HealthFirst Medical Institute,2025-02-09,290,284,6,25,46.0,6.0,67.0
+H007,Unity Wellness Hospital,2025-11-28,221,168,53,27,7.0,12.0,132.0
+H002,CityCare Medical Center,2025-04-29,207,155,52,29,27.0,10.0,66.0
+H007,Unity Wellness Hospital,2025-09-14,221,167,54,29,23.0,5.0,113.0
+H003,LifeLine Hospital,2025-07-05,162,112,50,15,19.0,15.0,153.0
+H007,Unity Wellness Hospital,2025-06-29,221,156,65,33,5.0,3.0,111.0
+H001,MedCare General Hospital,2025-10-05,477,360,117,35,24.0,15.0,89.0
+H003,LifeLine Hospital,2025-09-16,162,128,34,23,18.0,9.0,189.0
+H003,LifeLine Hospital,2025-12-12,162,131,31,45,28.0,0.0,97.0
+H001,MedCare General Hospital,2025-08-10,477,283,194,29,19.0,4.0,196.0
+H004,HealthFirst Medical Institute,2025-04-10,290,242,48,25,6.0,11.0,137.0
+H002,CityCare Medical Center,2025-07-26,207,136,71,19,33.0,8.0,127.0
+H002,CityCare Medical Center,2025/02/16,207,128,79,21,26.0,12.0,127.0
+H004,HealthFirst Medical Institute,2025-10-15,290,135,155,35,33.0,6.0,162.0
+H003,LifeLine Hospital,2025-09-21,162,112,50,17,21.0,13.0,178.0
+H002,CityCare Medical Center,2025-08-09,207,155,52,24,36.0,9.0,159.0
+H006,Sunrise Community Hospital,2025-04-23,264,221,43,9,23.0,2.0,131.0
+H006,Sunrise Community Hospital,2025-06-10,264,173,91,18,29.0,8.0,141.0
+H005,PrimeCare Hospital,2025-01-27,275,199,76,13,16.0,10.0,101.0
+H002,CityCare Medical Center,2025-11-06,207,147,60,15,38.0,14.0,52.0
+H005,PrimeCare Hospital,2025-10-23,275,152,123,22,33.0,13.0,113.0
+H003,LifeLine Hospital,2025-05-06,162,114,48,20,23.0,5.0,134.0
+H002,CityCare Medical Center,2025-03-24,207,167,40,25,20.0,5.0,147.0
+H003,LifeLine Hospital,2025-11-17,162,97,65,20,12.0,7.0,87.0
+H004,HealthFirst Medical Institute,2025-05-08,290,245,45,14,17.0,10.0,111.0
+H005,PrimeCare Hospital,2025-12-21,275,228,47,20,35.0,2.0,202.0
+H007,Unity Wellness Hospital,2025-04-06,221,149,72,0,23.0,0.0,142.0
+H001,MedCare General Hospital,2025-10-22,477,411,66,20,24.0,8.0,88.0
+H002,CityCare Medical Center,2025-08-12,207,173,34,21,22.0,11.0,132.0
+H003,LifeLine Hospital,2025-11-20,162,100,62,33,13.0,6.0,148.0
+H004,HealthFirst Medical Institute,2025-08-27,290,176,114,14,27.0,8.0,148.0
+H003,LifeLine Hospital,2025-11-22,162,131,31,13,17.0,3.0,123.0
+H007,Unity Wellness Hospital,2025-12-12,221,168,53,30,32.0,10.0,128.0
+H002,CityCare Medical Center,2025-03-02,207,162,45,15,29.0,13.0,148.0
+H002,CityCare Medical Center,2025-06-19,207,131,76,29,19.0,10.0,79.0
+H004,HealthFirst Medical Institute,2025-09-27,290,278,12,39,28.0,5.0,149.0
+H007,Unity Wellness Hospital,2025-11-25,221,128,93,36,47.0,5.0,178.0
+H003,LifeLine Hospital,2025-11-21,162,141,21,45,29.0,4.0,103.0
+H007,Unity Wellness Hospital,2025-06-21,221,144,77,13,32.0,9.0,154.0
+H005,PrimeCare Hospital,2025-06-08,275,163,112,31,20.0,8.0,121.0
+H004,HealthFirst Medical Institute,2025-08-28,290,217,73,19,24.0,10.0,157.0
+H005,PrimeCare Hospital,2025-04-23,275,265,10,26,18.0,3.0,101.0
+H007,Unity Wellness Hospital,2025-03-24,221,194,27,20,24.0,5.0,110.0
+H005,PrimeCare Hospital,2025-01-28,275,207,68,18,11.0,8.0,145.0
+H002,CityCare Medical Center,2025-07-11,207,170,37,19,15.0,4.0,100.0
+H005,PrimeCare Hospital,2025-02-09,275,181,94,20,1.0,17.0,112.0
+H003,LifeLine Hospital,2025-12-31,162,146,16,28,19.0,7.0,113.0
+H007,Unity Wellness Hospital,2025-04-10,221,174,47,21,31.0,12.0,53.0
+H002,CityCare Medical Center,2025-07-25,207,135,72,31,25.0,4.0,168.0
+H001,MedCare General Hospital,2025-12-19,477,437,40,30,11.0,9.0,110.0
+H001,MedCare General Hospital,2025-04-02,477,298,179,24,19.0,4.0,72.0
+H006,Sunrise Community Hospital,2025-12-06,264,158,106,24,26.0,2.0,75.0
+H004,HealthFirst Medical Institute,2025-01-03,290,234,56,26,18.0,10.0,104.0
+H003,LifeLine Hospital,2025-12-20,162,129,33,21,19.0,1.0,72.0
+H004,HealthFirst Medical Institute,2025-01-11,290,187,103,33,22.0,9.0,
+H006,Sunrise Community Hospital,2025-06-19,264,161,103,30,,12.0,180.0
+H006,Sunrise Community Hospital,2025-12-23,264,136,128,18,19.0,10.0,92.0
+H001,MedCare General Hospital,2025-12-15,477,337,140,23,33.0,9.0,82.0
+H007,Unity Wellness Hospital,2025-02-13,221,164,57,14,23.0,12.0,115.0
+H006,Sunrise Community Hospital,2025-05-05,264,210,54,24,18.0,4.0,166.0
+H005,PrimeCare Hospital,2025-08-02,275,209,66,29,37.0,10.0,129.0
+H004,HealthFirst Medical Institute,2025-08-07,290,233,57,36,25.0,8.0,171.0
+H004,HealthFirst Medical Institute,2025-09-23,290,175,115,17,37.0,0.0,85.0
+H007,Unity Wellness Hospital,2025-08-31,221,148,73,30,24.0,9.0,182.0
+H007,Unity Wellness Hospital,2025-08-17,221,174,47,14,21.0,8.0,146.0
+H006,Sunrise Community Hospital,2025-10-30,264,154,110,18,20.0,4.0,118.0
+H002,CityCare Medical Center,2025-03-30,207,178,29,10,19.0,10.0,116.0
+H003,LifeLine Hospital,2025-07-03,162,105,57,31,35.0,4.0,120.0
+H004,HealthFirst Medical Institute,2025-09-29,290,224,66,18,24.0,4.0,135.0
+H001,MedCare General Hospital,2025-02-07,477,384,93,28,17.0,8.0,59.0
+H003,LifeLine Hospital,2025-09-02,162,158,4,35,25.0,4.0,95.0
+H006,Sunrise Community Hospital,2025-01-10,264,155,109,25,14.0,11.0,164.0
+H007,Unity Wellness Hospital,2025-07-14,221,178,43,27,19.0,9.0,100.0
+H001,MedCare General Hospital,2025-02-09,477,365,112,17,24.0,9.0,74.0
+H004,HealthFirst Medical Institute,2025-07-27,290,262,28,32,21.0,5.0,125.0
+H001,MedCare General Hospital,2025-06-19,477,371,106,27,18.0,18.0,98.0
+H006,Sunrise Community Hospital,2025-02-09,264,175,89,21,11.0,9.0,62.0
+H007,Unity Wellness Hospital,2025-12-14,221,201,20,5,33.0,5.0,116.0
+H004,HealthFirst Medical Institute,2025-10-20,290,225,65,36,20.0,7.0,67.0
+H002,CityCare Medical Center,2025-09-27,207,125,82,29,30.0,3.0,79.0
+H004,HealthFirst Medical Institute,2025-11-07,290,222,68,27,14.0,4.0,132.0
+H002,CityCare Medical Center,2025/08/03,207,202,5,8,21.0,8.0,131.0
+H007,Unity Wellness Hospital,2025-06-15,221,141,80,13,21.0,8.0,86.0
+H003,LifeLine Hospital,2025-06-12,162,139,23,39,33.0,12.0,96.0
+H003,LifeLine Hospital,2025-02-20,162,105,57,23,16.0,15.0,184.0
+H001,MedCare General Hospital,2025-06-09,477,403,74,24,24.0,11.0,121.0
+H007,Unity Wellness Hospital,2025-03-14,221,155,66,16,13.0,5.0,113.0
+H004,HealthFirst Medical Institute,2025-04-29,290,199,91,18,30.0,13.0,100.0
+H001,MedCare General Hospital,2025-03-03,477,350,127,35,28.0,6.0,111.0
+H003,LifeLine Hospital,2025-04-30,162,86,76,26,27.0,17.0,117.0
+H005,PrimeCare Hospital,2025-06-17,275,193,82,17,11.0,11.0,133.0
+H007,Unity Wellness Hospital,2025-10-12,221,166,55,23,16.0,11.0,86.0
+H003,LifeLine Hospital,2025-11-10,162,126,36,27,19.0,6.0,72.0
+H005,PrimeCare Hospital,2025-09-15,275,216,59,39,18.0,0.0,111.0
+H006,Sunrise Community Hospital,2025-07-12,264,195,69,17,30.0,3.0,180.0
+H003,LifeLine Hospital,2025-12-07,162,128,34,28,33.0,9.0,98.0
+H001,MedCare General Hospital,2025-02-23,477,272,205,38,20.0,3.0,125.0
+H005,PrimeCare Hospital,2025-07-20,275,245,30,21,25.0,6.0,153.0
+H002,CityCare Medical Center,2025-05-21,207,161,46,28,40.0,11.0,74.0
+H003,LifeLine Hospital,2025-01-23,162,122,40,24,30.0,5.0,129.0
+H004,HealthFirst Medical Institute,2025-12-23,290,272,18,24,19.0,11.0,218.0
+H005,PrimeCare Hospital,2025-09-24,275,154,121,22,33.0,15.0,75.0
+H005,PrimeCare Hospital,2025-03-26,275,192,83,36,24.0,9.0,185.0
+H004,HealthFirst Medical Institute,2025-01-23,290,183,107,19,33.0,0.0,181.0
+H006,Sunrise Community Hospital,2025-10-09,264,238,26,20,30.0,7.0,55.0
+H003,LifeLine Hospital,2025-02-11,162,113,49,13,18.0,11.0,112.0
+H007,Unity Wellness Hospital,2025-07-31,221,163,58,29,21.0,8.0,103.0
+H007,Unity Wellness Hospital,2025-07-13,221,166,55,31,28.0,12.0,100.0
+H003,LifeLine Hospital,2025-12-22,162,129,33,32,17.0,8.0,49.0
+H006,Sunrise Community Hospital,2025-07-19,264,258,6,21,11.0,11.0,108.0
+H004,HealthFirst Medical Institute,2025-09-25,290,224,66,13,7.0,5.0,63.0
+H004,HealthFirst Medical Institute,2025-04-23,290,211,79,31,30.0,2.0,152.0
+H006,Sunrise Community Hospital,2025-02-19,264,142,122,24,26.0,6.0,87.0
+H004,HealthFirst Medical Institute,2025-05-17,290,224,66,23,24.0,5.0,57.0
+H004,HealthFirst Medical Institute,2025-06-08,290,213,77,25,31.0,12.0,139.0
+H003,LifeLine Hospital,2025-08-22,162,111,51,35,29.0,5.0,108.0
+H005,PrimeCare Hospital,2025-12-16,275,149,126,35,22.0,8.0,155.0
+H002,CityCare Medical Center,2025-02-03,207,168,39,31,29.0,13.0,134.0
+H002,CityCare Medical Center,2025-08-08,207,131,76,30,23.0,8.0,123.0
+H003,LifeLine Hospital,2025-08-07,162,126,36,28,27.0,9.0,184.0
+H002,CityCare Medical Center,2025-12-06,207,161,46,5,37.0,5.0,96.0
+H002,CityCare Medical Center,2025-03-08,207,133,74,21,34.0,7.0,142.0
+H001,MedCare General Hospital,2025-10-20,477,335,142,15,17.0,8.0,96.0
+H006,Sunrise Community Hospital,2025-05-06,264,174,90,26,26.0,4.0,101.0
+H007,Unity Wellness Hospital,2025-08-01,221,142,79,31,30.0,6.0,120.0
+H005,PrimeCare Hospital,2025-05-27,275,184,91,37,30.0,14.0,106.0
+H001,MedCare General Hospital,2025-01-03,477,316,161,21,8.0,9.0,51.0
+H002,CityCare Medical Center,2025-07-31,207,93,114,8,27.0,6.0,10.0
+H007,Unity Wellness Hospital,2025-05-13,221,176,45,45,16.0,10.0,105.0
+H001,MedCare General Hospital,2025-12-06,477,454,23,16,28.0,6.0,127.0
+H004,HealthFirst Medical Institute,2025-03-12,290,150,140,24,25.0,9.0,174.0
+H003,LifeLine Hospital,2025-07-15,162,141,21,19,32.0,6.0,137.0
+H001,MedCare General Hospital,2025-09-23,477,230,247,17,14.0,8.0,143.0
+H002,CityCare Medical Center,2025-01-12,207,173,34,37,19.0,4.0,118.0
+H001,MedCare General Hospital,2025-09-29,477,195,282,20,12.0,10.0,127.0
+H002,CityCare Medical Center,2025-11-28,207,141,66,4,23.0,4.0,79.0
+H007,Unity Wellness Hospital,2025-03-06,221,208,13,21,30.0,6.0,148.0
+H001,MedCare General Hospital,2025-09-02,477,275,202,27,27.0,11.0,112.0
+H005,PrimeCare Hospital,2025-05-30,275,224,51,19,13.0,6.0,123.0
+H002,CityCare Medical Center,2025-04-22,207,125,82,17,23.0,10.0,121.0
+H006,Sunrise Community Hospital,2025-04-28,264,156,108,30,21.0,,138.0
+H004,HealthFirst Medical Institute,2025-07-23,290,212,78,17,29.0,12.0,78.0
+H004,HealthFirst Medical Institute,2025-09-15,290,237,53,23,37.0,10.0,35.0
+H006,Sunrise Community Hospital,2025-12-19,264,224,40,18,34.0,5.0,145.0
+H004,HealthFirst Medical Institute,2025-10-01,290,186,104,20,17.0,16.0,217.0
+H001,MedCare General Hospital,2025-09-08,477,362,115,31,26.0,1.0,169.0
+H002,CityCare Medical Center,2025-02-18,207,134,73,5,35.0,5.0,157.0
+H005,PrimeCare Hospital,2025-11-25,275,244,31,39,26.0,8.0,80.0
+H005,PrimeCare Hospital,2025-10-05,275,208,67,16,40.0,14.0,125.0
+H001,MedCare General Hospital,2025-11-07,477,337,140,23,17.0,5.0,110.0
+H003,LifeLine Hospital,2025-06-13,162,94,68,31,24.0,10.0,135.0
+H004,HealthFirst Medical Institute,2025-02-06,290,180,110,33,35.0,8.0,93.0
+H007,Unity Wellness Hospital,2025-10-24,221,194,27,37,26.0,2.0,88.0
+H001,MedCare General Hospital,2025-01-16,477,390,87,25,24.0,7.0,40.0
+H002,CityCare Medical Center,2025-12-23,207,129,78,18,13.0,13.0,103.0
+H007,Unity Wellness Hospital,2025-03-02,221,193,28,24,29.0,5.0,107.0
+H003,LifeLine Hospital,2025-09-09,162,134,28,21,26.0,4.0,87.0
+H006,Sunrise Community Hospital,2025-12-04,264,167,97,26,25.0,8.0,101.0
+H006,Sunrise Community Hospital,2025-08-31,264,187,77,18,19.0,15.0,74.0
+H001,MedCare General Hospital,2025-12-30,477,292,185,7,22.0,6.0,80.0
+H005,PrimeCare Hospital,2025-01-06,275,221,54,34,12.0,10.0,101.0
+H001,MedCare General Hospital,2025-07-02,477,325,152,26,36.0,9.0,116.0
+H003,LifeLine Hospital,2025-09-13,162,106,56,21,13.0,9.0,114.0
+H005,PrimeCare Hospital,2025-08-20,275,222,53,33,17.0,9.0,183.0
+H004,HealthFirst Medical Institute,2025-07-15,290,199,91,32,19.0,4.0,59.0
+H004,HealthFirst Medical Institute,2025-05-12,290,219,71,20,24.0,16.0,87.0
+H004,HealthFirst Medical Institute,2025-01-27,290,216,74,14,31.0,7.0,121.0
+H001,MedCare General Hospital,2025-07-07,477,314,163,16,25.0,11.0,97.0
+H002,CityCare Medical Center,2025-09-12,207,180,27,33,22.0,11.0,143.0
+H007,Unity Wellness Hospital,2025-06-01,221,179,42,18,33.0,11.0,116.0
+H004,HealthFirst Medical Institute,2025-03-22,290,174,116,12,17.0,10.0,132.0
+H002,CityCare Medical Center,2025-09-07,207,117,90,38,37.0,9.0,90.0
+H005,PrimeCare Hospital,2025-04-29,275,203,72,33,15.0,4.0,42.0
+H003,LifeLine Hospital,2025-09-22,162,146,16,24,7.0,4.0,61.0
+H003,LifeLine Hospital,2025-07-24,162,129,33,11,15.0,10.0,152.0
+H002,CityCare Medical Center,2025-01-07,207,132,75,36,26.0,7.0,130.0
+H007,Unity Wellness Hospital,2025-08-20,221,128,93,23,24.0,17.0,106.0
+H002,CityCare Medical Center,2025-08-17,207,142,65,27,9.0,6.0,130.0
+H002,CityCare Medical Center,2025-12-28,207,163,44,19,29.0,8.0,136.0
+H006,Sunrise Community Hospital,2025-04-26,264,182,82,28,24.0,11.0,141.0
+H002,CityCare Medical Center,2025-11-19,207,171,36,29,13.0,3.0,131.0
+H005,PrimeCare Hospital,2025-10-16,275,173,102,37,31.0,9.0,202.0
+H001,MedCare General Hospital,2025-05-17,477,384,93,15,27.0,6.0,71.0
+H002,CityCare Medical Center,2025-09-21,207,170,37,7,19.0,7.0,137.0
+H001,MedCare General Hospital,2025-12-01,477,329,148,22,16.0,7.0,184.0
+H005,PrimeCare Hospital,2025-04-08,275,199,76,25,23.0,6.0,165.0
+H006,Sunrise Community Hospital,2025-04-10,264,201,63,20,31.0,9.0,70.0
+H004,HealthFirst Medical Institute,2025-01-15,290,150,140,41,20.0,10.0,173.0
+H004,HealthFirst Medical Institute,2025-06-21,290,254,36,14,21.0,7.0,115.0
+H006,Sunrise Community Hospital,2025-02-24,264,212,52,30,19.0,7.0,145.0
+H002,CityCare Medical Center,2025-12-12,207,135,72,12,44.0,10.0,46.0
+H003,LifeLine Hospital,2025-11-06,162,108,54,33,17.0,7.0,157.0
+H004,HealthFirst Medical Institute,2025-10-10,290,180,110,13,18.0,13.0,116.0
+H005,PrimeCare Hospital,2025-03-03,275,173,102,17,20.0,6.0,118.0
+H007,Unity Wellness Hospital,2025-06-20,221,159,62,25,20.0,6.0,122.0
+H004,HealthFirst Medical Institute,2025-01-18,290,172,118,24,29.0,6.0,121.0
+H002,CityCare Medical Center,2025-04-11,207,165,42,16,,7.0,153.0
+H006,Sunrise Community Hospital,2025-06-28,264,191,73,16,18.0,10.0,191.0
+H007,Unity Wellness Hospital,2025-12-13,221,171,50,26,11.0,11.0,84.0
+H006,Sunrise Community Hospital,2025-05-08,264,145,119,18,26.0,9.0,125.0
+H004,HealthFirst Medical Institute,2025-01-10,290,182,108,19,19.0,12.0,85.0
+H004,HealthFirst Medical Institute,2025-12-31,290,194,96,18,18.0,4.0,164.0
+H001,MedCare General Hospital,2025-12-05,477,377,100,21,13.0,12.0,125.0
+H007,Unity Wellness Hospital,2025-05-02,221,172,49,28,24.0,0.0,75.0
+H006,Sunrise Community Hospital,2025-11-21,264,187,77,23,8.0,5.0,113.0
+H004,HealthFirst Medical Institute,2025-11-05,290,222,68,24,34.0,5.0,122.0
+H004,HealthFirst Medical Institute,2025-07-29,290,196,94,24,30.0,7.0,164.0
+H006,Sunrise Community Hospital,2025-11-28,264,150,114,11,30.0,6.0,183.0
+H003,LifeLine Hospital,2025-03-28,162,128,34,19,8.0,15.0,172.0
+H003,LifeLine Hospital,2025-12-04,162,106,56,20,21.0,5.0,150.0
+H001,MedCare General Hospital,2025-10-02,477,333,144,38,11.0,3.0,178.0
+H005,PrimeCare Hospital,2025-11-28,275,232,43,15,31.0,7.0,108.0
+H003,LifeLine Hospital,2025-05-16,162,136,26,20,37.0,12.0,103.0
+H001,MedCare General Hospital,2025-04-12,477,315,162,20,24.0,5.0,86.0
+H005,PrimeCare Hospital,2025-06-14,275,235,40,15,23.0,10.0,106.0
+H001,MedCare General Hospital,2025-04-18,477,346,131,18,32.0,7.0,96.0
+H007,Unity Wellness Hospital,2025-12-30,221,175,46,25,22.0,9.0,124.0
+H005,PrimeCare Hospital,2025-04-11,275,170,105,19,25.0,5.0,113.0
+H005,PrimeCare Hospital,2025-05-05,275,241,34,34,34.0,3.0,107.0
+H004,HealthFirst Medical Institute,2025-07-10,290,226,64,18,34.0,15.0,101.0
+H006,Sunrise Community Hospital,2025-11-25,264,219,45,0,30.0,0.0,200.0
+H005,PrimeCare Hospital,2025-12-12,275,220,55,21,26.0,13.0,92.0
+H004,HealthFirst Medical Institute,2025-07-06,290,255,35,24,20.0,10.0,127.0
+H005,PrimeCare Hospital,2025-09-01,275,205,70,17,18.0,14.0,165.0
+H002,CityCare Medical Center,2025-12-14,207,154,53,18,33.0,0.0,158.0
+H001,MedCare General Hospital,2025-03-14,477,373,104,37,27.0,8.0,147.0
+H006,Sunrise Community Hospital,2025-03-11,264,203,61,37,19.0,1.0,34.0
+H007,Unity Wellness Hospital,2025-10-05,221,124,97,22,27.0,11.0,138.0
+H002,CityCare Medical Center,2025-04-27,207,182,25,14,30.0,12.0,74.0
+H005,PrimeCare Hospital,2025-11-23,275,185,90,26,16.0,9.0,145.0
+H007,Unity Wellness Hospital,08/04/2025,221,172,49,15,12.0,15.0,157.0
+H004,HealthFirst Medical Institute,2025-03-18,290,146,144,7,21.0,6.0,94.0
+H006,Sunrise Community Hospital,2025-09-27,264,206,58,25,16.0,7.0,134.0
+H005,PrimeCare Hospital,2025-02-20,275,209,66,40,14.0,2.0,154.0
+H002,CityCare Medical Center,2025-02-10,207,153,54,39,25.0,13.0,100.0
+H003,LifeLine Hospital,2025-01-28,162,105,57,27,25.0,5.0,172.0
+H005,PrimeCare Hospital,2025-02-27,275,170,105,16,27.0,12.0,126.0
+H007,Unity Wellness Hospital,2025-07-17,221,166,55,31,18.0,6.0,186.0
+H004,HealthFirst Medical Institute,2025-10-07,290,223,67,30,20.0,3.0,66.0
+H006,Sunrise Community Hospital,2025-02-06,264,219,45,31,25.0,10.0,161.0
+H006,Sunrise Community Hospital,2025-07-25,264,191,73,18,12.0,7.0,123.0
+H003,LifeLine Hospital,2025-01-14,162,113,49,50,22.0,18.0,115.0
+H003,LifeLine Hospital,2025-03-18,162,133,29,13,1.0,4.0,87.0
+H007,Unity Wellness Hospital,2025-06-30,221,171,50,26,27.0,13.0,97.0
+H004,HealthFirst Medical Institute,2025-10-19,290,181,109,31,23.0,9.0,155.0
+H006,Sunrise Community Hospital,2025-06-22,264,177,87,22,16.0,1.0,89.0
+H005,PrimeCare Hospital,2025-02-19,275,213,62,25,29.0,5.0,187.0
+H001,MedCare General Hospital,2025-05-29,477,238,239,14,24.0,6.0,140.0
+H004,HealthFirst Medical Institute,2025-07-18,290,236,54,18,28.0,7.0,93.0
+H005,PrimeCare Hospital,2025-02-22,275,147,128,15,30.0,12.0,134.0
+H002,CityCare Medical Center,2025-11-24,207,191,16,40,32.0,9.0,127.0
+H003,LifeLine Hospital,2025-03-30,162,95,67,36,25.0,8.0,169.0
+H006,Sunrise Community Hospital,2025-01-25,264,165,99,28,34.0,5.0,52.0
+H005,PrimeCare Hospital,2025-02-28,275,170,105,29,23.0,5.0,177.0
+H005,PrimeCare Hospital,2025-12-11,275,204,71,37,31.0,4.0,121.0
+H002,CityCare Medical Center,2025-12-03,207,114,93,27,28.0,8.0,98.0
+H007,Unity Wellness Hospital,2025-03-23,221,196,25,25,18.0,11.0,131.0
+H003,LifeLine Hospital,2025-07-11,162,111,51,22,29.0,10.0,86.0
+H003,LifeLine Hospital,2025-06-25,162,138,24,13,23.0,12.0,97.0
+H002,CityCare Medical Center,2025-03-31,207,157,50,21,24.0,6.0,76.0
+H005,PrimeCare Hospital,2025-04-13,275,217,58,23,20.0,9.0,124.0
+H006,Sunrise Community Hospital,2025-03-04,264,145,119,25,30.0,8.0,115.0
+H006,Sunrise Community Hospital,2025-11-26,264,229,35,37,34.0,12.0,199.0
+H001,MedCare General Hospital,2025-06-17,477,356,121,37,31.0,5.0,111.0
+H003,LifeLine Hospital,2025-01-01,162,124,38,29,17.0,10.0,125.0
+H007,Unity Wellness Hospital,2025-06-18,221,117,104,37,24.0,15.0,172.0
+H001,MedCare General Hospital,2025-01-27,477,254,223,25,27.0,4.0,83.0
+H005,PrimeCare Hospital,2025-07-12,275,180,95,38,23.0,8.0,31.0
+H005,PrimeCare Hospital,2025-09-16,275,246,29,11,25.0,11.0,116.0
+H003,LifeLine Hospital,2025-09-25,162,148,14,23,25.0,9.0,215.0
+H004,HealthFirst Medical Institute,2025-03-23,290,125,165,36,11.0,11.0,60.0
+H003,LifeLine Hospital,2025-11-07,162,110,52,20,30.0,9.0,215.0
+H005,PrimeCare Hospital,2025-09-06,275,187,88,14,23.0,6.0,122.0
+H004,HealthFirst Medical Institute,2025-08-15,290,149,141,18,17.0,9.0,128.0
+H006,Sunrise Community Hospital,2025-06-13,264,172,92,39,38.0,17.0,112.0
+H001,MedCare General Hospital,2025-02-11,477,289,188,29,28.0,11.0,274.0
+H005,PrimeCare Hospital,2025-10-17,275,175,100,24,8.0,7.0,107.0
+H005,PrimeCare Hospital,2025-09-11,275,198,77,34,27.0,11.0,51.0
+H006,Sunrise Community Hospital,2025-03-22,264,164,100,15,25.0,10.0,113.0
+H004,HealthFirst Medical Institute,2025-12-19,290,253,37,22,16.0,10.0,80.0
+H004,HealthFirst Medical Institute,2025-08-16,290,232,58,32,41.0,4.0,150.0
+H002,CityCare Medical Center,2025-09-02,207,98,109,34,27.0,7.0,167.0
+H004,HealthFirst Medical Institute,2025-02-07,290,206,84,17,12.0,9.0,100.0
+H001,MedCare General Hospital,2025-01-29,477,356,121,35,25.0,2.0,130.0
+H002,CityCare Medical Center,2025-03-18,207,160,47,36,21.0,10.0,119.0
+H006,Sunrise Community Hospital,2025-05-21,264,141,123,11,28.0,6.0,93.0
+H007,Unity Wellness Hospital,2025-05-14,221,159,62,22,25.0,12.0,156.0
+H002,CityCare Medical Center,2025-05-09,207,171,36,18,29.0,9.0,111.0
+H004,HealthFirst Medical Institute,2025-06-13,290,200,90,36,27.0,11.0,72.0
+H007,Unity Wellness Hospital,2025-08-27,221,128,93,16,36.0,10.0,105.0
+H001,MedCare General Hospital,2025-08-25,477,353,124,36,11.0,12.0,80.0
+H002,CityCare Medical Center,2025-07-06,207,137,70,26,14.0,5.0,144.0
+H002,CityCare Medical Center,2025-06-05,207,102,105,29,14.0,6.0,95.0
+H007,Unity Wellness Hospital,2025-09-30,221,202,19,28,13.0,5.0,104.0
+H004,HealthFirst Medical Institute,2025-05-18,290,213,77,31,11.0,3.0,183.0
+H004,HealthFirst Medical Institute,2025-02-13,290,211,79,11,15.0,10.0,188.0
+H002,CityCare Medical Center,2025-12-22,207,128,79,19,24.0,17.0,151.0
+H006,Sunrise Community Hospital,2025-07-03,264,193,71,23,24.0,7.0,86.0
+H007,Unity Wellness Hospital,2025-03-20,221,157,64,20,24.0,7.0,124.0
+H001,MedCare General Hospital,2025-02-28,477,331,146,21,30.0,6.0,134.0
+H002,CityCare Medical Center,2025-09-24,207,108,99,15,34.0,9.0,132.0
+H004,HealthFirst Medical Institute,2025-03-28,290,195,95,23,37.0,0.0,83.0
+H005,PrimeCare Hospital,2025-09-29,275,159,116,22,24.0,15.0,125.0
+H002,CityCare Medical Center,2025-08-16,207,128,79,20,15.0,6.0,168.0
+H004,HealthFirst Medical Institute,2025-07-28,290,184,106,38,2.0,9.0,133.0
+H007,Unity Wellness Hospital,2025-02-16,221,77,144,21,20.0,12.0,101.0
+H003,LifeLine Hospital,2025-07-29,162,112,50,29,25.0,14.0,101.0
+H007,Unity Wellness Hospital,2025-07-18,221,185,36,31,27.0,12.0,200.0
+H004,HealthFirst Medical Institute,2025-06-04,290,226,64,29,10.0,11.0,160.0
+H003,LifeLine Hospital,2025-06-24,162,107,55,33,40.0,10.0,167.0
+H004,HealthFirst Medical Institute,2025-07-04,290,236,54,25,31.0,3.0,62.0
+H006,Sunrise Community Hospital,2025-08-12,264,243,21,19,28.0,7.0,184.0
+H007,Unity Wellness Hospital,2025-09-29,221,141,80,30,28.0,13.0,195.0
+H006,Sunrise Community Hospital,2025-11-15,264,141,123,25,35.0,11.0,128.0
+H005,PrimeCare Hospital,2025-02-08,275,189,86,18,24.0,6.0,77.0
+H007,Unity Wellness Hospital,2025-06-27,221,159,62,24,39.0,10.0,124.0
+H006,Sunrise Community Hospital,2025-07-08,264,188,76,22,25.0,10.0,105.0
+H002,CityCare Medical Center,2025-12-08,207,186,21,39,14.0,8.0,203.0
+H003,LifeLine Hospital,2025-10-20,162,107,55,45,12.0,8.0,114.0
+H003,LifeLine Hospital,2025-01-16,162,127,35,28,14.0,13.0,27.0
+H006,Sunrise Community Hospital,2025-04-13,264,145,119,24,19.0,14.0,110.0
+H005,PrimeCare Hospital,2025-02-12,275,255,20,44,20.0,9.0,72.0
+H002,CityCare Medical Center,2025-05-29,207,138,69,17,30.0,11.0,110.0
+H001,MedCare General Hospital,2025-03-23,477,379,98,16,24.0,8.0,140.0
+H007,Unity Wellness Hospital,2025-03-27,221,114,107,24,28.0,12.0,122.0
+H004,HealthFirst Medical Institute,2025-08-02,290,218,72,3,22.0,1.0,123.0
+H003,LifeLine Hospital,2025-07-04,162,105,57,22,19.0,12.0,90.0
+H007,Unity Wellness Hospital,2025-11-30,221,172,49,38,27.0,11.0,129.0
+H006,Sunrise Community Hospital,2025-03-30,264,193,71,17,41.0,11.0,104.0
+H001,MedCare General Hospital,2025-05-31,477,290,187,14,32.0,5.0,82.0
+H003,LifeLine Hospital,2025-02-14,162,89,73,26,12.0,4.0,90.0
+H001,MedCare General Hospital,2025-11-26,477,367,110,23,33.0,12.0,223.0
+H001,MedCare General Hospital,2025-01-07,477,308,169,39,15.0,8.0,152.0
+H003,LifeLine Hospital,2025-08-02,162,115,47,44,29.0,13.0,124.0
+H006,Sunrise Community Hospital,2025-12-28,264,177,87,39,24.0,4.0,129.0
+H003,LifeLine Hospital,2025-01-05,162,136,26,31,30.0,4.0,117.0
+H003,LifeLine Hospital,2025-06-29,162,127,35,24,27.0,8.0,110.0
+H002,CityCare Medical Center,2025-04-14,207,166,41,28,19.0,10.0,33.0
+H001,MedCare General Hospital,2025-07-01,477,346,131,14,29.0,11.0,206.0
+H001,MedCare General Hospital,2025-06-14,477,313,164,36,21.0,18.0,102.0
+H002,CityCare Medical Center,2025-03-28,207,158,49,32,3.0,7.0,127.0
+H002,CityCare Medical Center,2025-05-06,207,126,81,18,18.0,8.0,147.0
+H006,Sunrise Community Hospital,2025-12-31,264,228,36,19,17.0,12.0,209.0
+H004,HealthFirst Medical Institute,2025-02-18,290,193,97,28,28.0,7.0,43.0
+H004,HealthFirst Medical Institute,2025-08-05,290,159,131,24,29.0,,176.0
+H007,Unity Wellness Hospital,2025-06-10,221,176,45,36,21.0,5.0,96.0
+H004,HealthFirst Medical Institute,2025-01-17,290,158,132,25,23.0,13.0,151.0
+H007,Unity Wellness Hospital,2025-09-11,221,147,74,22,24.0,8.0,125.0
+H004,HealthFirst Medical Institute,2025-10-14,290,218,72,15,17.0,7.0,84.0
+H005,PrimeCare Hospital,2025-04-15,275,217,58,31,26.0,7.0,158.0
+H005,PrimeCare Hospital,2025-12-10,275,165,110,11,22.0,6.0,146.0
+H005,PrimeCare Hospital,2025-04-09,275,201,74,18,20.0,5.0,122.0
+H005,PrimeCare Hospital,2025-05-15,275,250,25,30,19.0,6.0,123.0
+H006,Sunrise Community Hospital,2025-05-04,264,164,100,15,25.0,3.0,142.0
+H005,PrimeCare Hospital,2025-12-29,275,258,17,29,21.0,13.0,120.0
+H006,Sunrise Community Hospital,2025-04-12,264,253,11,24,18.0,7.0,117.0
+H001,MedCare General Hospital,2025-11-24,477,320,157,17,40.0,10.0,77.0
+H002,CityCare Medical Center,2025-03-19,207,117,90,29,20.0,12.0,101.0
+H005,PrimeCare Hospital,2025-08-06,275,149,126,38,19.0,10.0,69.0
+H004,HealthFirst Medical Institute,2025-12-25,290,185,105,31,25.0,9.0,86.0
+H003,LifeLine Hospital,2025-04-13,162,116,46,28,9.0,7.0,102.0
+H006,Sunrise Community Hospital,2025-06-25,264,168,96,22,24.0,6.0,167.0
+H006,Sunrise Community Hospital,2025-12-22,264,160,104,20,28.0,2.0,116.0
+H006,Sunrise Community Hospital,2025-06-17,264,156,108,18,22.0,11.0,183.0
+H004,HealthFirst Medical Institute,2025-10-12,290,190,100,19,23.0,4.0,61.0
+H001,MedCare General Hospital,2025-03-28,477,275,202,8,29.0,7.0,180.0
+H007,Unity Wellness Hospital,2025-11-11,221,159,62,20,19.0,5.0,89.0
+H003,LifeLine Hospital,2025-02-17,162,127,35,7,25.0,7.0,153.0
+H005,PrimeCare Hospital,03-06-2025,275,200,75,34,24.0,12.0,105.0
+H001,MedCare General Hospital,2025-02-24,477,425,52,13,24.0,13.0,80.0
+H006,Sunrise Community Hospital,2025-05-31,264,189,75,40,15.0,3.0,188.0
+H004,HealthFirst Medical Institute,2025-07-12,290,197,93,14,28.0,7.0,141.0
+H006,Sunrise Community Hospital,2025-05-09,264,180,84,32,29.0,9.0,49.0
+H005,PrimeCare Hospital,2025-07-18,275,195,80,42,41.0,12.0,155.0
+H004,HealthFirst Medical Institute,2025-05-31,290,197,93,13,30.0,10.0,94.0
+H001,MedCare General Hospital,2025-04-24,477,320,157,8,9.0,4.0,105.0
+H007,Unity Wellness Hospital,2025-08-03,221,143,78,29,33.0,11.0,158.0
+H003,LifeLine Hospital,2025-09-15,162,127,35,25,31.0,13.0,63.0
+H006,Sunrise Community Hospital,2025-06-09,264,157,107,26,32.0,2.0,121.0
+H005,PrimeCare Hospital,2025-07-15,275,210,65,44,17.0,12.0,165.0
+H003,LifeLine Hospital,2025-10-07,162,137,25,8,32.0,8.0,112.0
+H004,HealthFirst Medical Institute,2025-04-14,290,227,63,27,28.0,5.0,154.0
+H002,CityCare Medical Center,2025-08-13,207,120,87,25,22.0,0.0,54.0
+H003,LifeLine Hospital,2025-02-08,162,104,58,19,13.0,12.0,184.0
+H001,MedCare General Hospital,2025-01-18,477,314,163,32,19.0,10.0,140.0
+H003,LifeLine Hospital,2025-11-09,162,118,44,16,27.0,8.0,134.0
+H006,Sunrise Community Hospital,2025-10-06,264,220,44,15,11.0,14.0,204.0
+H001,MedCare General Hospital,2025-10-13,477,230,247,41,22.0,4.0,108.0
+H002,CityCare Medical Center,2025-03-05,207,153,54,25,25.0,9.0,111.0
+H006,Sunrise Community Hospital,2025-07-18,264,193,71,28,17.0,10.0,75.0
+H006,Sunrise Community Hospital,2025-07-24,264,225,39,15,10.0,8.0,104.0
+H002,CityCare Medical Center,2025-11-01,207,189,18,22,29.0,15.0,114.0
+H001,MedCare General Hospital,2025-02-01,477,302,175,39,14.0,10.0,146.0
+H004,HealthFirst Medical Institute,2025-09-04,290,168,122,21,35.0,9.0,108.0
+H002,CityCare Medical Center,2025-12-24,207,149,58,25,27.0,8.0,147.0
+H003,LifeLine Hospital,2025-08-10,162,122,40,13,18.0,13.0,148.0
+H006,Sunrise Community Hospital,2025-02-02,264,110,154,28,24.0,10.0,155.0
+H001,MedCare General Hospital,2025-08-03,477,340,137,28,13.0,9.0,159.0
+H006,Sunrise Community Hospital,2025-02-28,264,161,103,38,24.0,10.0,110.0
+H004,HealthFirst Medical Institute,2025-03-11,290,209,81,27,33.0,4.0,96.0
+H001,MedCare General Hospital,2025-11-23,477,371,106,18,32.0,6.0,106.0
+H002,CityCare Medical Center,2025-07-15,207,153,54,46,15.0,10.0,116.0
+H004,HealthFirst Medical Institute,2025-10-16,290,164,126,16,38.0,16.0,118.0
+H003,LifeLine Hospital,2025-12-23,162,103,59,20,21.0,9.0,147.0
+H006,Sunrise Community Hospital,2025-04-14,264,136,128,27,24.0,10.0,111.0
+H001,MedCare General Hospital,2025-12-08,477,329,148,30,22.0,16.0,81.0
+H001,MedCare General Hospital,2025-05-28,477,370,107,27,37.0,12.0,160.0
+H006,Sunrise Community Hospital,2025-04-24,264,205,59,22,22.0,19.0,110.0
+H006,Sunrise Community Hospital,2025-08-21,264,200,64,24,19.0,9.0,89.0
+H004,HealthFirst Medical Institute,2025-01-13,290,284,6,16,14.0,7.0,158.0
+H003,LifeLine Hospital,2025-04-29,162,80,82,32,29.0,6.0,121.0
+H003,LifeLine Hospital,2025-08-25,162,133,29,15,28.0,11.0,43.0
+H003,LifeLine Hospital,2025-12-09,162,115,47,25,16.0,9.0,112.0
+H001,MedCare General Hospital,2025-06-05,477,253,224,19,23.0,8.0,144.0
+H005,PrimeCare Hospital,2025-10-20,275,230,45,14,28.0,4.0,117.0
+H005,PrimeCare Hospital,2025-08-19,275,140,135,28,19.0,5.0,75.0
+H003,LifeLine Hospital,2025-09-30,162,147,15,30,22.0,9.0,123.0
+H006,Sunrise Community Hospital,2025-04-29,264,187,77,27,28.0,4.0,95.0
+H006,Sunrise Community Hospital,2025-11-22,264,200,64,33,14.0,0.0,96.0
+H006,Sunrise Community Hospital,2025-05-03,264,185,79,28,31.0,7.0,136.0
+H007,Unity Wellness Hospital,2025-03-21,221,147,74,22,35.0,14.0,130.0
+H007,Unity Wellness Hospital,2025-08-14,221,171,50,24,37.0,10.0,149.0
+H004,HealthFirst Medical Institute,2025-04-19,290,178,112,42,22.0,9.0,158.0
+H005,PrimeCare Hospital,2025-12-19,275,194,81,25,17.0,10.0,138.0
+H007,Unity Wellness Hospital,2025-08-07,221,167,54,24,30.0,8.0,186.0
+H007,Unity Wellness Hospital,2025-05-24,221,139,82,31,23.0,6.0,52.0
+H005,PrimeCare Hospital,2025-04-07,275,185,90,33,44.0,9.0,127.0
+H007,Unity Wellness Hospital,2025-12-05,221,120,101,23,32.0,8.0,132.0
+H003,LifeLine Hospital,2025-05-26,162,129,33,6,26.0,6.0,88.0
+H007,Unity Wellness Hospital,2025-04-24,221,199,22,22,30.0,12.0,108.0
+H003,LifeLine Hospital,2025-07-28,162,115,47,26,28.0,12.0,112.0
+H007,Unity Wellness Hospital,2025-04-26,221,168,53,27,28.0,10.0,81.0
+H001,MedCare General Hospital,2025-12-13,477,330,147,22,21.0,8.0,151.0
+H006,Sunrise Community Hospital,2025-11-14,264,227,37,41,8.0,3.0,110.0
+H007,Unity Wellness Hospital,2025-12-16,221,188,33,36,12.0,8.0,99.0
+H005,PrimeCare Hospital,2025-02-04,275,229,46,22,34.0,4.0,116.0
+H002,CityCare Medical Center,2025-01-21,207,126,81,4,32.0,4.0,198.0
+H005,PrimeCare Hospital,2025-07-25,275,252,23,23,24.0,8.0,115.0
+H005,PrimeCare Hospital,2025-09-21,275,165,110,13,29.0,11.0,183.0
+H001,MedCare General Hospital,2025-09-01,477,414,63,19,17.0,10.0,205.0
+H005,PrimeCare Hospital,2025-05-23,275,188,87,28,23.0,8.0,104.0
+H003,LifeLine Hospital,2025-07-26,162,112,50,20,18.0,14.0,78.0
+H007,Unity Wellness Hospital,2025-04-04,221,142,79,24,21.0,6.0,153.0
+H001,MedCare General Hospital,2025-11-09,477,342,135,19,31.0,0.0,149.0
+H007,Unity Wellness Hospital,2025-11-10,221,157,64,28,31.0,17.0,116.0
+H005,PrimeCare Hospital,2025-05-31,275,162,113,15,20.0,7.0,98.0
+H004,HealthFirst Medical Institute,2025-08-26,290,237,53,19,2.0,12.0,91.0
+H003,LifeLine Hospital,2025-08-27,162,100,62,25,22.0,11.0,166.0
+H004,HealthFirst Medical Institute,2025-12-26,290,149,141,26,22.0,12.0,177.0
+H002,CityCare Medical Center,2025-10-23,207,157,50,17,15.0,9.0,164.0
+H003,LifeLine Hospital,2025-07-25,162,97,65,30,30.0,13.0,130.0
+H002,CityCare Medical Center,2025-01-06,207,132,75,39,31.0,4.0,160.0
+H002,CityCare Medical Center,2025-07-21,207,106,101,17,21.0,15.0,110.0
+H003,LifeLine Hospital,2025-10-22,162,89,73,21,23.0,7.0,147.0
+H003,LifeLine Hospital,2025-04-05,162,104,58,23,25.0,12.0,132.0
+H003,LifeLine Hospital,2025-09-10,162,106,56,35,25.0,12.0,69.0
+H006,Sunrise Community Hospital,2025-09-04,264,258,6,28,21.0,1.0,124.0
+H005,PrimeCare Hospital,2025-03-29,275,142,133,46,25.0,11.0,144.0
+H007,Unity Wellness Hospital,2025-01-18,221,132,89,24,25.0,10.0,90.0
+H007,Unity Wellness Hospital,2025-10-09,221,174,47,21,19.0,9.0,125.0
+H003,LifeLine Hospital,2025-03-25,162,104,58,26,14.0,10.0,162.0
+H004,HealthFirst Medical Institute,2025-12-02,290,232,58,30,29.0,5.0,104.0
+H003,LifeLine Hospital,2025-02-18,162,130,32,29,8.0,5.0,104.0
+H004,HealthFirst Medical Institute,2025-08-14,290,163,127,25,27.0,12.0,117.0
+H005,PrimeCare Hospital,2025-05-21,275,196,79,20,29.0,8.0,171.0
+H003,LifeLine Hospital,2025-11-19,162,140,22,18,27.0,10.0,167.0
+H006,Sunrise Community Hospital,2025-03-25,264,200,64,20,19.0,12.0,176.0
+H003,LifeLine Hospital,2025-10-11,162,112,50,25,23.0,15.0,131.0
+H004,HealthFirst Medical Institute,2025-11-03,290,235,55,37,34.0,14.0,177.0
+H007,Unity Wellness Hospital,2025-04-17,221,159,62,27,20.0,7.0,96.0
+H006,Sunrise Community Hospital,2025-11-01,264,197,67,40,21.0,10.0,58.0
+H006,Sunrise Community Hospital,2025-01-22,264,188,76,30,22.0,9.0,167.0
+H001,MedCare General Hospital,2025-05-07,477,246,231,37,20.0,8.0,79.0
+H003,LifeLine Hospital,2025-06-07,162,130,32,34,21.0,7.0,140.0
+H006,Sunrise Community Hospital,2025-10-01,264,158,106,25,18.0,4.0,91.0
+H004,HealthFirst Medical Institute,2025-09-10,290,226,64,31,47.0,10.0,78.0
+H003,LifeLine Hospital,2025-10-05,162,158,4,42,36.0,6.0,135.0
+H001,MedCare General Hospital,2025-12-22,477,267,210,20,20.0,8.0,92.0
+H003,LifeLine Hospital,2025-10-01,162,106,56,8,25.0,8.0,135.0
+H005,PrimeCare Hospital,2025-01-24,275,139,136,31,23.0,5.0,110.0
+H002,CityCare Medical Center,2025-11-14,207,132,75,21,17.0,16.0,97.0
+H003,LifeLine Hospital,2025-04-08,162,109,53,24,31.0,10.0,120.0
+H006,Sunrise Community Hospital,2025-11-29,264,219,45,33,10.0,8.0,101.0
+H003,LifeLine Hospital,2025-09-12,162,148,14,27,35.0,11.0,137.0
+H004,HealthFirst Medical Institute,2025-05-19,290,187,103,34,22.0,8.0,137.0
+H006,Sunrise Community Hospital,2025-12-21,264,198,66,12,18.0,6.0,105.0
+H001,MedCare General Hospital,2025-05-21,477,313,164,33,12.0,6.0,57.0
+H001,MedCare General Hospital,2025-08-06,477,368,109,33,21.0,9.0,112.0
+H006,Sunrise Community Hospital,2025-10-08,264,187,77,20,33.0,5.0,121.0
+H005,PrimeCare Hospital,2025-10-10,275,194,81,21,21.0,4.0,164.0
+H007,Unity Wellness Hospital,2025-09-08,221,167,54,38,27.0,3.0,179.0
+H005,PrimeCare Hospital,2025-11-27,275,205,70,15,19.0,5.0,108.0
+H005,PrimeCare Hospital,2025-10-07,275,227,48,43,23.0,3.0,72.0
+H001,MedCare General Hospital,2025-01-23,477,233,244,24,43.0,9.0,112.0
+H002,CityCare Medical Center,2025-12-13,207,148,59,30,23.0,9.0,68.0
+H004,HealthFirst Medical Institute,2025-03-04,290,229,61,24,10.0,16.0,123.0
+H005,PrimeCare Hospital,2025-03-27,275,150,125,14,26.0,2.0,126.0
+H003,LifeLine Hospital,2025-05-22,162,130,32,26,28.0,7.0,147.0
+H005,PrimeCare Hospital,2025-03-19,275,227,48,21,22.0,11.0,112.0
+H001,MedCare General Hospital,2025-01-11,477,361,116,21,28.0,6.0,161.0
+H006,Sunrise Community Hospital,2025-01-09,264,188,76,14,26.0,5.0,133.0
+H007,Unity Wellness Hospital,2025-08-18,221,165,56,35,29.0,6.0,126.0
+H005,PrimeCare Hospital,2025-11-21,275,253,22,28,23.0,4.0,75.0
+H004,HealthFirst Medical Institute,2025-08-09,290,249,41,20,26.0,4.0,48.0
+H003,LifeLine Hospital,2025-01-25,162,136,26,21,17.0,5.0,49.0
+H002,CityCare Medical Center,2025-09-19,207,146,61,24,35.0,2.0,121.0
+H005,PrimeCare Hospital,2025-12-25,275,221,54,22,34.0,4.0,168.0
+H006,Sunrise Community Hospital,2025-09-19,264,176,88,33,23.0,10.0,130.0
+H001,MedCare General Hospital,2025-05-10,477,327,150,3,22.0,3.0,147.0
+H003,LifeLine Hospital,2025-04-24,162,127,35,39,26.0,7.0,47.0
+H001,MedCare General Hospital,2025-11-20,477,467,10,27,20.0,5.0,165.0
+H006,Sunrise Community Hospital,2025-12-05,264,179,85,25,23.0,9.0,188.0
+H005,PrimeCare Hospital,2025-03-06,275,171,104,20,18.0,5.0,228.0
+H004,HealthFirst Medical Institute,2025-07-09,290,169,121,18,25.0,14.0,97.0
+H007,Unity Wellness Hospital,2025-10-23,221,143,78,19,22.0,9.0,109.0
+H001,MedCare General Hospital,2025-01-15,477,364,113,37,36.0,8.0,15.0
+H003,LifeLine Hospital,2025-08-06,162,135,27,18,13.0,9.0,148.0
+H001,MedCare General Hospital,2025-08-04,477,315,162,12,36.0,7.0,154.0
+H005,PrimeCare Hospital,2025-09-09,275,203,72,22,23.0,17.0,166.0
+H006,Sunrise Community Hospital,2025-08-03,264,207,57,27,34.0,13.0,132.0
+H004,HealthFirst Medical Institute,2025-03-29,290,226,64,24,27.0,14.0,110.0
+H005,PrimeCare Hospital,2025-10-06,275,214,61,26,23.0,11.0,118.0
+H005,PrimeCare Hospital,2025-07-05,275,182,93,21,22.0,17.0,149.0
+H003,LifeLine Hospital,2025-05-15,162,116,46,24,15.0,13.0,89.0
+H002,CityCare Medical Center,2025-06-01,207,158,49,28,33.0,8.0,163.0
+H002,CityCare Medical Center,2025-08-21,207,125,82,24,14.0,9.0,216.0
+H001,MedCare General Hospital,2025-07-15,477,235,242,21,11.0,0.0,150.0
+H004,HealthFirst Medical Institute,2025-07-02,290,252,38,24,30.0,3.0,150.0
+H001,MedCare General Hospital,2025-10-16,477,381,96,34,13.0,9.0,135.0
+H003,LifeLine Hospital,2025-08-09,162,138,24,22,20.0,8.0,98.0
+H007,Unity Wellness Hospital,2025-08-12,221,163,58,27,27.0,7.0,179.0
+H006,Sunrise Community Hospital,2025-04-06,264,120,144,35,20.0,9.0,154.0
+H007,Unity Wellness Hospital,2025-09-12,221,173,48,23,27.0,12.0,95.0
+H004,HealthFirst Medical Institute,2025-01-26,290,202,88,24,31.0,8.0,
+H005,PrimeCare Hospital,2025-07-16,275,187,88,35,0.0,12.0,79.0
+H002,CityCare Medical Center,2025-07-04,207,141,66,26,27.0,4.0,111.0
+H001,MedCare General Hospital,2025-06-06,477,353,124,14,28.0,10.0,142.0
+H002,CityCare Medical Center,2025-02-24,207,147,60,30,11.0,4.0,152.0
+H003,LifeLine Hospital,2025-07-12,162,117,45,8,19.0,8.0,122.0
+H005,PrimeCare Hospital,2025-09-26,275,251,24,18,25.0,13.0,130.0
+H002,CityCare Medical Center,2025-04-23,207,130,77,23,31.0,5.0,161.0
+H005,PrimeCare Hospital,2025-08-21,275,173,102,7,15.0,7.0,159.0
+H005,PrimeCare Hospital,2025-10-04,275,160,115,25,30.0,2.0,154.0
+H005,PrimeCare Hospital,2025-03-05,275,162,113,26,13.0,14.0,135.0
+H005,PrimeCare Hospital,2025-01-12,275,226,49,27,14.0,8.0,197.0
+H002,CityCare Medical Center,2025-07-08,207,169,38,24,19.0,10.0,112.0
+H004,HealthFirst Medical Institute,2025-04-18,290,206,84,28,32.0,9.0,139.0
+H002,CityCare Medical Center,2025-01-26,207,104,103,35,18.0,5.0,96.0
+H002,CityCare Medical Center,2025-08-02,207,152,55,7,25.0,7.0,140.0
+H007,Unity Wellness Hospital,2025-07-05,221,118,103,23,26.0,7.0,95.0
+H005,PrimeCare Hospital,2025-09-28,275,162,113,29,22.0,11.0,151.0
+H007,Unity Wellness Hospital,2025-07-06,221,161,60,22,24.0,7.0,121.0
+H003,LifeLine Hospital,2025-04-01,162,87,75,18,31.0,14.0,117.0
+H007,Unity Wellness Hospital,2025-10-01,221,179,42,39,33.0,10.0,110.0
+H003,LifeLine Hospital,2025-10-04,162,92,70,35,28.0,11.0,148.0
+H004,HealthFirst Medical Institute,2025-06-03,290,201,89,17,31.0,14.0,95.0
+H007,Unity Wellness Hospital,2025-12-02,221,170,51,24,25.0,7.0,62.0
+H002,CityCare Medical Center,2025-10-27,207,153,54,17,26.0,2.0,164.0
+H007,Unity Wellness Hospital,2025-03-26,221,138,83,10,21.0,9.0,75.0
+H001,MedCare General Hospital,2025-05-23,477,355,122,24,27.0,6.0,118.0
+H007,Unity Wellness Hospital,2025-02-14,221,182,39,27,21.0,4.0,146.0
+H006,Sunrise Community Hospital,2025-04-07,264,238,26,2,12.0,2.0,139.0
+H002,CityCare Medical Center,2025-02-26,207,189,18,17,21.0,11.0,144.0
+H003,LifeLine Hospital,2025-03-11,162,117,45,8,37.0,7.0,134.0
+H006,Sunrise Community Hospital,2025-07-17,264,168,96,39,24.0,6.0,108.0
+H002,CityCare Medical Center,2025-09-08,207,194,13,31,25.0,11.0,110.0
+H004,HealthFirst Medical Institute,2025-08-12,290,201,89,15,19.0,14.0,46.0
+H001,MedCare General Hospital,2025-10-23,477,380,97,24,16.0,10.0,102.0
+H002,CityCare Medical Center,2025-02-06,207,154,53,25,29.0,5.0,157.0
+H001,MedCare General Hospital,2025-03-30,477,365,112,24,23.0,0.0,67.0
+H007,Unity Wellness Hospital,2025-05-25,221,116,105,25,40.0,3.0,37.0
+H007,Unity Wellness Hospital,2025-12-01,221,146,75,24,23.0,6.0,26.0
+H001,MedCare General Hospital,2025-05-12,477,346,131,25,25.0,8.0,114.0
+H005,PrimeCare Hospital,2025-07-17,275,229,46,26,18.0,4.0,43.0
+H005,PrimeCare Hospital,2025-10-13,275,185,90,50,27.0,12.0,110.0
+H005,PrimeCare Hospital,2025-10-24,275,173,102,32,14.0,13.0,71.0
+H004,HealthFirst Medical Institute,2025-11-04,290,218,72,25,29.0,12.0,107.0
+H006,Sunrise Community Hospital,2025-10-25,264,183,81,33,18.0,14.0,127.0
+H007,Unity Wellness Hospital,2025-02-06,221,117,104,28,33.0,10.0,127.0
+H004,HealthFirst Medical Institute,2025-04-04,290,162,128,31,11.0,9.0,139.0
+H002,CityCare Medical Center,2025-12-26,207,114,93,27,24.0,1.0,195.0
+H004,HealthFirst Medical Institute,2025-08-08,290,204,86,14,20.0,14.0,126.0
+H006,Sunrise Community Hospital,2025-02-05,264,203,61,31,9.0,11.0,159.0
+H001,MedCare General Hospital,2025-09-27,477,258,219,4,13.0,4.0,111.0
+H006,Sunrise Community Hospital,2025-02-18,264,142,122,22,31.0,14.0,134.0
+H006,Sunrise Community Hospital,2025-10-28,264,181,83,35,31.0,6.0,192.0
+H004,HealthFirst Medical Institute,2025-10-05,290,180,110,39,26.0,16.0,119.0
+H007,Unity Wellness Hospital,2025-02-07,221,123,98,17,19.0,4.0,112.0
+H003,LifeLine Hospital,2025-07-07,162,139,23,33,20.0,12.0,76.0
+H005,PrimeCare Hospital,2025-08-26,275,222,53,28,28.0,5.0,91.0
+H004,HealthFirst Medical Institute,2025-08-13,290,255,35,20,9.0,6.0,189.0
+H007,Unity Wellness Hospital,2025-02-12,221,194,27,17,42.0,1.0,210.0
+H006,Sunrise Community Hospital,2025-05-28,264,209,55,28,15.0,11.0,124.0
+H002,CityCare Medical Center,2025-08-11,207,185,22,20,10.0,8.0,104.0
+H007,Unity Wellness Hospital,2025-09-07,221,172,49,19,17.0,9.0,120.0
+H006,Sunrise Community Hospital,2025-04-25,264,164,100,25,33.0,11.0,60.0
+H002,CityCare Medical Center,2025-01-11,207,183,24,20,10.0,8.0,87.0
+H001,MedCare General Hospital,2025-11-30,477,342,135,17,30.0,6.0,141.0
+H006,Sunrise Community Hospital,2025-03-02,264,190,74,17,8.0,6.0,201.0
+H007,Unity Wellness Hospital,2025-08-10,221,165,56,14,23.0,14.0,131.0
+H005,PrimeCare Hospital,2025-05-25,275,119,156,20,16.0,1.0,0.0
+H004,HealthFirst Medical Institute,24-01-2025,290,189,101,22,27.0,5.0,164.0
+H004,HealthFirst Medical Institute,2025/12/14,290,284,6,21,20.0,3.0,120.0
+H006,Sunrise Community Hospital,2025-04-22,264,177,87,13,17.0,12.0,88.0
+H003,LifeLine Hospital,2025-06-30,162,143,19,31,16.0,12.0,116.0
+H003,LifeLine Hospital,2025-02-16,162,122,40,26,16.0,1.0,117.0
+H006,Sunrise Community Hospital,2025-01-12,264,187,77,21,26.0,8.0,113.0
+H001,MedCare General Hospital,2025-11-25,477,344,133,36,27.0,8.0,77.0
+H004,HealthFirst Medical Institute,2025-09-05,290,246,44,36,26.0,14.0,41.0
+H001,MedCare General Hospital,2025-11-17,477,332,145,35,17.0,6.0,100.0
+H005,PrimeCare Hospital,2025-06-09,275,269,6,34,27.0,13.0,126.0
+H006,Sunrise Community Hospital,2025-09-22,264,196,68,31,21.0,4.0,110.0
+H001,MedCare General Hospital,2025-01-13,477,316,161,23,14.0,4.0,152.0
+H003,LifeLine Hospital,2025-06-17,162,85,77,28,31.0,6.0,120.0
+H001,MedCare General Hospital,2025-06-21,477,310,167,18,19.0,10.0,145.0
+H001,MedCare General Hospital,2025-09-18,477,305,172,32,17.0,8.0,141.0
+H006,Sunrise Community Hospital,2025-05-18,264,172,92,19,32.0,10.0,114.0
+H002,CityCare Medical Center,2025-11-21,207,120,87,24,20.0,5.0,103.0
+H003,LifeLine Hospital,2025-06-21,162,124,38,30,29.0,10.0,117.0
+H001,MedCare General Hospital,2025-09-16,477,365,112,44,30.0,8.0,123.0
+H003,LifeLine Hospital,2025-04-25,162,70,92,31,33.0,8.0,65.0
+H007,Unity Wellness Hospital,2025-06-24,221,144,77,13,,11.0,75.0
+H001,MedCare General Hospital,2025-05-19,477,322,155,34,28.0,4.0,143.0
+H005,PrimeCare Hospital,2025-04-24,275,164,111,31,14.0,12.0,149.0
+H001,MedCare General Hospital,2025-11-16,477,285,192,29,24.0,17.0,90.0
+H002,CityCare Medical Center,2025-10-16,207,197,10,17,25.0,7.0,145.0
+H006,Sunrise Community Hospital,2025-08-19,264,208,56,25,25.0,10.0,167.0
+H006,Sunrise Community Hospital,2025-07-11,264,248,16,14,36.0,10.0,143.0
+H002,CityCare Medical Center,2025-07-13,207,163,44,20,16.0,7.0,118.0
+H001,MedCare General Hospital,2025-05-20,477,325,152,27,31.0,3.0,112.0
+H001,MedCare General Hospital,2025-04-23,477,360,117,41,21.0,12.0,168.0
+H002,CityCare Medical Center,2025-06-16,207,170,37,16,25.0,12.0,142.0
+H001,MedCare General Hospital,2025-08-13,477,406,71,34,14.0,11.0,185.0
+H002,CityCare Medical Center,2025-12-25,207,167,40,17,33.0,7.0,155.0
+H007,Unity Wellness Hospital,2025-07-12,221,165,56,14,18.0,8.0,75.0
+H007,Unity Wellness Hospital,2025-01-06,221,165,56,31,32.0,6.0,135.0
+H004,HealthFirst Medical Institute,2025-12-05,290,204,86,40,32.0,8.0,121.0
+H001,MedCare General Hospital,2025-11-22,477,405,72,21,24.0,14.0,154.0
+H004,HealthFirst Medical Institute,2025-08-17,290,208,82,33,12.0,18.0,110.0
+H007,Unity Wellness Hospital,2025-11-27,221,192,29,24,21.0,7.0,154.0
+H004,HealthFirst Medical Institute,2025-12-30,290,105,185,19,16.0,6.0,124.0
+H005,PrimeCare Hospital,2025-11-08,275,176,99,26,11.0,9.0,47.0
+H007,Unity Wellness Hospital,2025-04-30,221,193,28,26,35.0,3.0,82.0
+H002,CityCare Medical Center,2025-12-16,207,141,66,35,25.0,10.0,69.0
+H003,LifeLine Hospital,2025-04-27,162,86,76,35,28.0,6.0,57.0
+H001,MedCare General Hospital,2025-07-13,477,425,52,19,23.0,16.0,62.0
+H007,Unity Wellness Hospital,2025-10-18,221,179,42,30,29.0,8.0,29.0
+H002,CityCare Medical Center,2025-07-28,207,141,66,18,28.0,5.0,169.0
+H003,LifeLine Hospital,2025-08-05,162,93,69,24,27.0,4.0,131.0
+H002,CityCare Medical Center,2025-05-19,207,157,50,25,22.0,0.0,85.0
+H005,PrimeCare Hospital,2025-06-19,275,197,78,30,26.0,15.0,97.0
+H006,Sunrise Community Hospital,2025-03-19,264,114,150,16,22.0,12.0,128.0
+H007,Unity Wellness Hospital,2025-03-04,221,144,77,20,13.0,8.0,132.0
+H002,CityCare Medical Center,2025-10-08,207,124,83,18,30.0,13.0,118.0
+H001,MedCare General Hospital,2025-01-04,477,311,166,16,16.0,10.0,63.0
+H006,Sunrise Community Hospital,2025-02-15,264,200,64,28,25.0,4.0,33.0
+H002,CityCare Medical Center,2025-04-13,207,163,44,29,24.0,9.0,93.0
+H004,HealthFirst Medical Institute,2025-09-08,290,250,40,18,15.0,8.0,191.0
+H001,MedCare General Hospital,2025-01-06,477,349,128,15,19.0,10.0,108.0
+H004,HealthFirst Medical Institute,2025-06-01,290,218,72,22,4.0,8.0,111.0
+H003,LifeLine Hospital,2025-07-09,162,119,43,22,27.0,14.0,172.0
+H002,CityCare Medical Center,2025-07-02,207,135,72,22,36.0,10.0,154.0
+H001,MedCare General Hospital,2025-08-17,477,326,151,36,25.0,8.0,113.0
+H003,LifeLine Hospital,2025-11-30,162,111,51,12,22.0,8.0,141.0
+H002,CityCare Medical Center,2025-06-27,207,128,79,37,12.0,10.0,134.0
+H001,MedCare General Hospital,2025-08-31,477,272,205,19,31.0,6.0,108.0
+H003,LifeLine Hospital,2025-06-18,162,124,38,17,20.0,6.0,154.0
+H006,Sunrise Community Hospital,2025-01-23,264,148,116,29,17.0,2.0,71.0
+H004,HealthFirst Medical Institute,2025-03-07,290,219,71,23,38.0,7.0,167.0
+H007,Unity Wellness Hospital,2025-07-04,221,203,18,23,17.0,10.0,105.0
+H006,Sunrise Community Hospital,2025-11-20,264,220,44,26,20.0,5.0,187.0
+H005,PrimeCare Hospital,2025-11-14,275,212,63,27,23.0,8.0,109.0
+H006,Sunrise Community Hospital,2025-03-21,264,222,42,40,41.0,12.0,83.0
+H003,LifeLine Hospital,2025-04-23,162,111,51,20,9.0,12.0,121.0
+H004,HealthFirst Medical Institute,2025-10-06,290,244,46,33,19.0,5.0,67.0
+H006,Sunrise Community Hospital,2025-12-07,264,181,83,22,19.0,10.0,96.0
+H006,Sunrise Community Hospital,2025-02-23,264,186,78,37,23.0,8.0,126.0
+H005,PrimeCare Hospital,2025-03-08,275,233,42,18,29.0,12.0,194.0
+H005,PrimeCare Hospital,2025-05-26,275,193,82,15,10.0,9.0,123.0
+H001,MedCare General Hospital,2025-10-04,477,382,95,21,19.0,17.0,149.0
+H002,CityCare Medical Center,2025-10-24,207,175,32,29,38.0,10.0,119.0
+H006,Sunrise Community Hospital,2025-04-08,264,194,70,30,9.0,7.0,101.0
+H006,Sunrise Community Hospital,2025-12-16,264,231,33,27,28.0,11.0,176.0
+H007,Unity Wellness Hospital,2025-08-19,221,115,106,17,32.0,8.0,138.0
+H006,Sunrise Community Hospital,2025-05-13,264,196,68,26,11.0,15.0,95.0
+H001,MedCare General Hospital,2025-11-11,477,388,89,14,13.0,10.0,138.0
+H005,PrimeCare Hospital,2025-01-07,275,269,6,30,35.0,18.0,129.0
+H004,HealthFirst Medical Institute,2025-09-06,290,224,66,33,37.0,8.0,154.0
+H006,Sunrise Community Hospital,2025-05-20,264,199,65,28,20.0,5.0,112.0
+H002,CityCare Medical Center,2025-11-23,207,200,7,33,24.0,7.0,73.0
+H005,PrimeCare Hospital,2025-03-23,275,188,87,37,18.0,8.0,84.0
+H002,CityCare Medical Center,2025-09-05,207,156,51,22,19.0,8.0,59.0
+H002,CityCare Medical Center,2025-03-01,207,202,5,31,21.0,8.0,120.0
+H005,PrimeCare Hospital,2025-04-28,275,213,62,34,28.0,2.0,109.0
+H002,CityCare Medical Center,2025-08-18,207,101,106,24,39.0,3.0,156.0
+H007,Unity Wellness Hospital,2025-12-17,221,154,67,29,17.0,4.0,140.0
+H004,HealthFirst Medical Institute,2025-10-25,290,247,43,26,21.0,10.0,127.0
+H002,CityCare Medical Center,2025-09-15,207,120,87,22,14.0,7.0,135.0
+H007,Unity Wellness Hospital,2025-12-09,221,148,73,24,21.0,5.0,105.0
+H005,PrimeCare Hospital,2025-02-03,275,169,106,22,20.0,7.0,144.0
+H005,PrimeCare Hospital,2025-09-10,275,184,91,30,25.0,12.0,25.0
+H001,MedCare General Hospital,2025-08-16,477,398,79,34,28.0,4.0,
+H006,Sunrise Community Hospital,2025-03-17,264,181,83,35,15.0,9.0,193.0
+H004,HealthFirst Medical Institute,2025-03-16,290,189,101,48,16.0,5.0,97.0
+H001,MedCare General Hospital,2025-04-19,477,391,86,15,35.0,11.0,21.0
+H005,PrimeCare Hospital,2025-11-29,275,213,62,23,22.0,10.0,146.0
+H001,MedCare General Hospital,2025-03-08,477,342,135,17,18.0,9.0,159.0
+H004,HealthFirst Medical Institute,2025-11-19,290,135,155,26,24.0,1.0,154.0
+H007,Unity Wellness Hospital,2025-05-06,221,167,54,20,33.0,10.0,91.0
+H001,MedCare General Hospital,2025-01-25,477,388,89,17,12.0,14.0,143.0
+H004,HealthFirst Medical Institute,2025-05-21,290,199,91,23,36.0,4.0,155.0
+H006,Sunrise Community Hospital,2025-10-29,264,228,36,25,11.0,7.0,132.0
+H001,MedCare General Hospital,2025-05-25,477,361,116,11,29.0,3.0,126.0
+H002,CityCare Medical Center,2025-06-21,207,165,42,22,29.0,7.0,133.0
+H003,LifeLine Hospital,2025-03-23,162,120,42,36,31.0,10.0,110.0
+H006,Sunrise Community Hospital,2025-09-06,264,210,54,16,13.0,11.0,190.0
+H005,PrimeCare Hospital,2025-02-07,275,177,98,34,26.0,10.0,152.0
+H001,MedCare General Hospital,2025-03-27,477,421,56,17,32.0,11.0,49.0
+H004,HealthFirst Medical Institute,2025-06-09,290,196,94,30,15.0,8.0,103.0
+H006,Sunrise Community Hospital,2025-10-26,264,199,65,27,34.0,7.0,44.0
+H006,Sunrise Community Hospital,2025-10-05,264,159,105,25,,8.0,126.0
+H006,Sunrise Community Hospital,2025-04-03,264,140,124,28,7.0,11.0,151.0
+H006,Sunrise Community Hospital,2025-02-27,264,188,76,17,20.0,11.0,71.0
+H002,CityCare Medical Center,2025-04-30,207,175,32,34,23.0,8.0,58.0
+H005,PrimeCare Hospital,2025-07-14,275,149,126,33,20.0,6.0,75.0
+H007,Unity Wellness Hospital,2025-04-07,221,151,70,27,23.0,0.0,52.0
+H007,Unity Wellness Hospital,2025-11-13,221,159,62,20,32.0,10.0,91.0
+H003,LifeLine Hospital,2025-01-09,162,127,35,31,32.0,13.0,154.0
+H007,Unity Wellness Hospital,2025-10-04,221,135,86,26,29.0,11.0,25.0
+H007,Unity Wellness Hospital,2025-02-28,221,153,68,34,25.0,7.0,171.0
+H007,Unity Wellness Hospital,2025-12-03,221,210,11,24,16.0,8.0,120.0
+H006,Sunrise Community Hospital,2025-01-11,264,178,86,35,15.0,6.0,101.0
+H001,MedCare General Hospital,2025-12-29,477,315,162,26,31.0,15.0,109.0
+H003,LifeLine Hospital,2025-01-20,162,113,49,7,35.0,7.0,61.0
+H006,Sunrise Community Hospital,2025-02-20,264,157,107,8,20.0,8.0,126.0
+H005,PrimeCare Hospital,2025-07-06,275,198,77,10,19.0,0.0,162.0
+H003,LifeLine Hospital,2025-10-24,162,125,37,31,27.0,10.0,56.0
+H003,LifeLine Hospital,2025-10-28,162,158,4,18,19.0,11.0,85.0
+H006,Sunrise Community Hospital,2025-05-24,264,155,109,35,13.0,6.0,102.0
+H004,HealthFirst Medical Institute,2025-08-29,290,235,55,25,18.0,5.0,98.0
+H006,Sunrise Community Hospital,2025-10-19,264,155,109,47,6.0,7.0,86.0
+H007,Unity Wellness Hospital,2025-12-27,221,121,100,42,25.0,4.0,50.0
+H002,CityCare Medical Center,2025-10-28,207,160,47,24,15.0,6.0,153.0
+H001,MedCare General Hospital,2025-12-31,477,335,142,25,18.0,8.0,126.0
+H007,Unity Wellness Hospital,2025-03-10,221,178,43,32,38.0,13.0,49.0
+H004,HealthFirst Medical Institute,2025-05-25,290,203,87,13,21.0,7.0,105.0
+H001,MedCare General Hospital,2025-03-19,477,352,125,27,31.0,16.0,96.0
+H001,MedCare General Hospital,2025-01-28,477,432,45,18,30.0,7.0,70.0
+H002,CityCare Medical Center,2025-04-19,207,187,20,20,15.0,2.0,169.0
+H002,CityCare Medical Center,2025-06-10,207,127,80,36,20.0,11.0,100.0
+H002,CityCare Medical Center,2025-12-27,207,125,82,18,11.0,12.0,94.0
+H001,MedCare General Hospital,2025-02-25,477,369,108,26,24.0,6.0,104.0
+H002,CityCare Medical Center,2025-10-01,207,138,69,30,19.0,18.0,58.0
+H001,MedCare General Hospital,2025-10-30,477,278,199,23,9.0,6.0,116.0
+H002,CityCare Medical Center,2025-12-20,207,175,32,29,12.0,18.0,170.0
+H007,Unity Wellness Hospital,2025-02-11,221,188,33,21,29.0,8.0,192.0
+H006,Sunrise Community Hospital,2025-05-27,264,208,56,18,28.0,7.0,202.0
+H002,CityCare Medical Center,2025-09-17,207,137,70,20,21.0,10.0,114.0
+H001,MedCare General Hospital,2025-01-08,477,273,204,26,13.0,1.0,127.0
+H004,HealthFirst Medical Institute,2025-07-05,290,220,70,18,28.0,7.0,140.0
+H003,LifeLine Hospital,2025-03-15,162,105,57,21,19.0,11.0,116.0
+H003,LifeLine Hospital,2025-11-16,162,116,46,20,30.0,2.0,136.0
+H001,MedCare General Hospital,2025-12-03,477,366,111,24,26.0,5.0,72.0
+H005,PrimeCare Hospital,2025-05-17,275,167,108,20,39.0,8.0,129.0
+H001,MedCare General Hospital,2025-02-17,477,379,98,8,18.0,8.0,154.0
+H007,Unity Wellness Hospital,2025-01-22,221,139,82,18,19.0,6.0,152.0
+H001,MedCare General Hospital,2025-04-17,477,379,98,11,14.0,8.0,93.0
+H001,MedCare General Hospital,2025-12-16,477,357,120,32,25.0,11.0,160.0
+H003,LifeLine Hospital,2025-12-16,162,132,30,26,8.0,11.0,132.0
+H001,MedCare General Hospital,2025-08-27,477,349,128,14,26.0,6.0,56.0
+H001,MedCare General Hospital,2025-08-02,477,279,198,14,20.0,13.0,133.0
+H004,HealthFirst Medical Institute,2025-02-19,290,193,97,38,19.0,5.0,102.0
+H006,Sunrise Community Hospital,2025-07-20,264,186,78,28,25.0,0.0,74.0
+H006,Sunrise Community Hospital,2025-01-30,264,237,27,35,32.0,4.0,93.0
+H003,LifeLine Hospital,2025-03-05,162,123,39,27,40.0,1.0,171.0
+H004,HealthFirst Medical Institute,2025-01-02,290,277,13,28,24.0,9.0,24.0
+H005,PrimeCare Hospital,2025-10-21,275,182,93,33,24.0,9.0,151.0
+H006,Sunrise Community Hospital,2025-03-29,264,180,84,18,35.0,11.0,138.0
+H006,Sunrise Community Hospital,2025-01-08,264,172,92,24,32.0,11.0,157.0
+H007,Unity Wellness Hospital,2025-04-03,221,142,79,8,25.0,8.0,121.0
+H001,MedCare General Hospital,2025-12-12,477,405,72,20,26.0,12.0,193.0
+H002,CityCare Medical Center,2025-06-08,207,165,42,19,27.0,9.0,178.0
+H001,MedCare General Hospital,2025-08-21,477,200,277,43,10.0,3.0,160.0
+H002,CityCare Medical Center,2025-10-07,207,122,85,31,29.0,14.0,131.0
+H006,Sunrise Community Hospital,2025-07-14,264,240,24,30,20.0,10.0,96.0
+H007,Unity Wellness Hospital,2025-02-09,221,182,39,19,13.0,10.0,156.0
+H004,HealthFirst Medical Institute,2025-11-30,290,101,189,28,10.0,9.0,132.0
+H002,CityCare Medical Center,2025-06-18,207,115,92,31,28.0,4.0,145.0
+H007,Unity Wellness Hospital,2025-02-10,221,157,64,21,4.0,4.0,78.0
+H002,CityCare Medical Center,2025-08-27,207,174,33,12,20.0,0.0,142.0
+H005,PrimeCare Hospital,2025-01-30,275,247,28,31,33.0,7.0,109.0
+H006,Sunrise Community Hospital,2025-05-12,264,175,89,33,26.0,4.0,58.0
+H004,HealthFirst Medical Institute,2025-11-28,290,206,84,23,24.0,11.0,104.0
+H003,LifeLine Hospital,2025-12-11,162,92,70,15,23.0,4.0,137.0
+H006,Sunrise Community Hospital,2025-10-02,264,181,83,13,33.0,9.0,125.0
+H001,MedCare General Hospital,2025-03-02,477,295,182,20,28.0,11.0,119.0
+H006,Sunrise Community Hospital,2025-08-06,264,180,84,28,23.0,11.0,43.0
+H001,MedCare General Hospital,2025-04-03,477,455,22,25,25.0,6.0,115.0
+H002,CityCare Medical Center,2025-10-29,207,171,36,12,28.0,12.0,175.0
+H006,Sunrise Community Hospital,2025-09-05,264,192,72,19,14.0,9.0,82.0
+H007,Unity Wellness Hospital,2025-04-28,221,196,25,37,29.0,9.0,174.0
+H001,MedCare General Hospital,2025-10-08,477,283,194,29,29.0,13.0,159.0
+H005,PrimeCare Hospital,2025-09-17,275,191,84,21,15.0,13.0,133.0
+H005,PrimeCare Hospital,2025-12-22,275,248,27,22,15.0,4.0,52.0
+H001,MedCare General Hospital,2025-12-26,477,300,177,22,32.0,5.0,120.0
+H007,Unity Wellness Hospital,2025-03-03,221,175,46,3,20.0,3.0,77.0
+H005,PrimeCare Hospital,2025-03-25,275,220,55,19,21.0,13.0,70.0
+H004,HealthFirst Medical Institute,2025-10-30,290,189,101,13,23.0,13.0,117.0
+H006,Sunrise Community Hospital,2025-03-14,264,231,33,23,20.0,13.0,130.0
+H003,LifeLine Hospital,2025-04-28,162,93,69,36,35.0,7.0,116.0
+H004,HealthFirst Medical Institute,2025-04-22,290,151,139,21,16.0,11.0,62.0
+H007,Unity Wellness Hospital,2025-03-12,221,164,57,25,6.0,6.0,80.0
+H003,LifeLine Hospital,2025-01-31,162,89,73,12,25.0,4.0,84.0
+H001,MedCare General Hospital,2025-04-21,477,348,129,23,26.0,13.0,133.0
+H005,PrimeCare Hospital,2025-11-12,275,187,88,22,28.0,4.0,94.0
+H001,MedCare General Hospital,2025-02-12,477,376,101,34,29.0,12.0,107.0
+H005,PrimeCare Hospital,2025-11-07,275,259,16,18,7.0,2.0,113.0
+H001,MedCare General Hospital,2025-05-06,477,314,163,17,24.0,8.0,163.0
+H001,MedCare General Hospital,2025-07-24,477,373,104,20,41.0,8.0,189.0
+H005,PrimeCare Hospital,2025-01-14,275,223,52,38,13.0,7.0,99.0
+H001,MedCare General Hospital,2025-02-22,477,290,187,24,15.0,0.0,109.0
+H005,PrimeCare Hospital,2025-12-04,275,252,23,19,36.0,6.0,102.0
+H002,CityCare Medical Center,2025-06-30,207,149,58,33,18.0,14.0,100.0
+H001,MedCare General Hospital,2025-03-10,477,296,181,26,19.0,9.0,101.0
+H006,Sunrise Community Hospital,2025-01-27,264,175,89,18,46.0,4.0,109.0
+H006,Sunrise Community Hospital,2025-08-15,264,147,117,30,20.0,7.0,118.0
+H007,Unity Wellness Hospital,2025-03-09,221,139,82,20,17.0,3.0,197.0
+H006,Sunrise Community Hospital,2025-07-04,264,193,71,28,27.0,9.0,137.0
+H004,HealthFirst Medical Institute,2025-11-26,290,193,97,18,23.0,7.0,173.0
+H001,MedCare General Hospital,2025-07-03,477,359,118,29,20.0,9.0,127.0
+H001,MedCare General Hospital,2025-05-18,477,384,93,23,29.0,7.0,137.0
+H003,LifeLine Hospital,2025-06-19,162,149,13,18,6.0,13.0,72.0
+H003,LifeLine Hospital,2025-03-08,162,143,19,38,15.0,21.0,129.0
+H001,MedCare General Hospital,2025-05-13,477,310,167,20,19.0,8.0,91.0
+H001,MedCare General Hospital,2025-03-22,477,252,225,20,24.0,9.0,101.0
+H005,PrimeCare Hospital,2025-05-07,275,218,57,35,34.0,8.0,112.0
+H007,Unity Wellness Hospital,2025-01-27,221,182,39,38,20.0,11.0,172.0
+H003,LifeLine Hospital,2025-01-29,162,128,34,21,22.0,10.0,120.0
+H002,CityCare Medical Center,2025-06-26,207,174,33,26,21.0,9.0,182.0
+H003,LifeLine Hospital,2025-10-17,162,109,53,32,17.0,4.0,122.0
+H006,Sunrise Community Hospital,2025-02-04,264,158,106,18,25.0,6.0,77.0
+H003,LifeLine Hospital,2025-09-11,162,120,42,33,34.0,7.0,171.0
+H007,Unity Wellness Hospital,2025-04-12,221,175,46,40,18.0,12.0,104.0
+H001,MedCare General Hospital,2025-06-15,477,426,51,37,20.0,6.0,108.0
+H001,MedCare General Hospital,2025-09-06,477,321,156,23,15.0,6.0,94.0
+H004,HealthFirst Medical Institute,2025-08-25,290,272,18,14,23.0,14.0,131.0
+H002,CityCare Medical Center,2025-03-23,207,132,75,31,31.0,1.0,71.0
+H006,Sunrise Community Hospital,2025-02-14,264,184,80,27,28.0,11.0,106.0
+H003,LifeLine Hospital,2025-05-09,162,126,36,21,22.0,3.0,168.0
+H004,HealthFirst Medical Institute,2025-09-21,290,205,85,21,19.0,12.0,111.0
+H006,Sunrise Community Hospital,2025-05-16,264,219,45,29,15.0,18.0,152.0
+H001,MedCare General Hospital,2025-04-08,477,262,215,19,37.0,4.0,155.0
+H006,Sunrise Community Hospital,2025-03-05,264,134,130,22,24.0,5.0,177.0
+H003,LifeLine Hospital,2025-03-17,162,110,52,18,36.0,7.0,152.0
+H003,LifeLine Hospital,2025-01-08,162,100,62,44,34.0,10.0,113.0
+H006,Sunrise Community Hospital,2025-07-28,264,205,59,37,15.0,9.0,99.0
+H007,Unity Wellness Hospital,2025-06-25,221,180,41,38,17.0,8.0,124.0
+H006,Sunrise Community Hospital,2025-09-17,264,223,41,28,23.0,9.0,81.0
+H001,MedCare General Hospital,2025-04-13,477,358,119,24,16.0,8.0,96.0
+H002,CityCare Medical Center,2025-03-11,207,173,34,24,25.0,7.0,86.0
+H001,MedCare General Hospital,2025-03-16,477,344,133,28,31.0,14.0,206.0
+H002,CityCare Medical Center,2025-08-01,207,136,71,20,20.0,14.0,135.0
+H006,Sunrise Community Hospital,2025-05-01,264,180,84,25,20.0,3.0,135.0
+H006,Sunrise Community Hospital,2025-07-27,264,142,122,23,23.0,10.0,20.0
+H004,HealthFirst Medical Institute,2025-05-16,290,274,16,17,17.0,5.0,148.0
+H003,LifeLine Hospital,2025-07-08,162,104,58,26,6.0,11.0,119.0
+H004,HealthFirst Medical Institute,2025-08-20,290,154,136,28,17.0,7.0,89.0
+H007,Unity Wellness Hospital,2025-07-08,221,149,72,41,21.0,5.0,104.0
+H007,Unity Wellness Hospital,2025-06-08,221,158,63,24,23.0,8.0,154.0
+H007,Unity Wellness Hospital,2025-04-27,221,126,95,28,11.0,6.0,158.0
+H006,Sunrise Community Hospital,2025-01-24,264,214,50,24,15.0,8.0,108.0
+H003,LifeLine Hospital,2025-02-02,162,97,65,28,24.0,5.0,69.0
+H006,Sunrise Community Hospital,2025-12-15,264,236,28,26,18.0,5.0,143.0
+H003,LifeLine Hospital,2025-09-17,162,136,26,19,20.0,3.0,137.0
+H002,CityCare Medical Center,2025-01-24,207,156,51,21,21.0,10.0,144.0
+H001,MedCare General Hospital,2025-08-24,477,327,150,11,16.0,8.0,75.0
+H007,Unity Wellness Hospital,2025-02-08,221,128,93,36,34.0,3.0,167.0
+H001,MedCare General Hospital,2025-09-25,477,324,153,20,20.0,7.0,126.0
+H004,HealthFirst Medical Institute,2025-08-23,290,271,19,29,32.0,5.0,128.0
+H007,Unity Wellness Hospital,2025-09-10,221,122,99,24,33.0,0.0,168.0
+H001,MedCare General Hospital,2025-04-28,477,357,120,21,30.0,5.0,85.0
+H002,CityCare Medical Center,2025-03-14,207,187,20,13,20.0,7.0,143.0
+H002,CityCare Medical Center,2025-11-05,207,197,10,20,27.0,9.0,125.0
+H001,MedCare General Hospital,2025-09-07,477,273,204,25,25.0,5.0,57.0
+H006,Sunrise Community Hospital,2025-12-29,264,156,108,30,4.0,7.0,146.0
+H005,PrimeCare Hospital,2025-04-25,275,248,27,40,16.0,20.0,232.0
+H007,Unity Wellness Hospital,2025-10-10,221,199,22,32,20.0,11.0,149.0
+H001,MedCare General Hospital,2025-04-05,477,327,150,6,34.0,2.0,185.0
+H007,Unity Wellness Hospital,2025-08-06,221,140,81,22,37.0,0.0,77.0
+H001,MedCare General Hospital,2025-02-03,477,367,110,31,22.0,16.0,89.0
+H007,Unity Wellness Hospital,2025-02-18,221,154,67,22,19.0,7.0,106.0
+H007,Unity Wellness Hospital,2025-01-04,221,154,67,30,28.0,4.0,
+H007,Unity Wellness Hospital,2025-06-06,221,131,90,44,22.0,12.0,89.0
+H002,CityCare Medical Center,2025-03-25,207,151,56,29,11.0,16.0,184.0
+H005,PrimeCare Hospital,2025-01-10,275,164,111,18,16.0,3.0,176.0
+H005,PrimeCare Hospital,2025-12-02,275,167,108,27,29.0,8.0,111.0
+H002,CityCare Medical Center,2025-12-18,207,201,6,35,14.0,16.0,122.0
+H006,Sunrise Community Hospital,2025-08-07,264,159,105,32,33.0,0.0,140.0
+H007,Unity Wellness Hospital,2025-10-26,221,166,55,19,12.0,6.0,85.0
+H001,MedCare General Hospital,2025-01-01,477,371,106,23,36.0,11.0,110.0
+H006,Sunrise Community Hospital,2025-03-18,264,221,43,24,20.0,11.0,153.0
+H002,CityCare Medical Center,2025-04-02,207,106,101,19,16.0,13.0,101.0
+H004,HealthFirst Medical Institute,2025-01-07,290,238,52,16,22.0,0.0,114.0
+H004,HealthFirst Medical Institute,2025-01-14,290,267,23,38,22.0,13.0,105.0
+H007,Unity Wellness Hospital,2025-08-21,221,172,49,31,28.0,7.0,106.0
+H001,MedCare General Hospital,2025-03-24,477,384,93,16,34.0,2.0,133.0
+H005,PrimeCare Hospital,2025-01-22,275,252,23,21,8.0,11.0,167.0
+H006,Sunrise Community Hospital,2025-09-02,264,168,96,32,30.0,14.0,111.0
+H002,CityCare Medical Center,2025-11-08,207,202,5,34,32.0,9.0,164.0
+H005,PrimeCare Hospital,2025-05-09,275,132,143,27,27.0,3.0,136.0
+H006,Sunrise Community Hospital,2025-12-27,264,155,109,18,15.0,6.0,111.0
+H003,LifeLine Hospital,2025-11-13,162,151,11,29,21.0,4.0,132.0
+H005,PrimeCare Hospital,2025-01-01,275,176,99,20,26.0,7.0,138.0
+H003,LifeLine Hospital,2025-02-10,162,106,56,28,15.0,14.0,105.0
+H006,Sunrise Community Hospital,2025-03-10,264,150,114,36,18.0,1.0,116.0
+H005,PrimeCare Hospital,2025-07-28,275,200,75,24,13.0,19.0,40.0
+H006,Sunrise Community Hospital,2025-03-03,264,217,47,18,18.0,7.0,181.0
+H006,Sunrise Community Hospital,2025-05-22,264,157,107,18,21.0,7.0,206.0
+H002,CityCare Medical Center,2025-04-21,207,185,22,22,20.0,3.0,130.0
+H002,CityCare Medical Center,2025-06-02,207,133,74,14,17.0,8.0,117.0
+H003,LifeLine Hospital,2025-04-03,162,138,24,18,11.0,15.0,185.0
+H002,CityCare Medical Center,2025-02-09,207,150,57,27,13.0,14.0,0.0
+H002,CityCare Medical Center,2025-01-20,207,99,108,30,25.0,4.0,202.0
+H006,Sunrise Community Hospital,2025-09-10,264,185,79,15,38.0,7.0,143.0
+H006,Sunrise Community Hospital,11/04/2025,264,234,30,26,10.0,12.0,147.0
+H001,MedCare General Hospital,2025-04-15,477,247,230,29,28.0,6.0,89.0
+H005,PrimeCare Hospital,2025-06-23,275,269,6,38,17.0,11.0,115.0
+H007,Unity Wellness Hospital,2025-09-15,221,144,77,43,32.0,5.0,104.0
+H002,CityCare Medical Center,2025-11-20,207,152,55,20,36.0,9.0,147.0
+H003,LifeLine Hospital,2025-03-06,162,108,54,16,24.0,10.0,134.0
+H003,LifeLine Hospital,2025-04-07,162,111,51,25,34.0,13.0,115.0
+H006,Sunrise Community Hospital,2025-02-22,264,201,63,18,32.0,15.0,152.0
+H004,HealthFirst Medical Institute,2025-05-26,290,189,101,16,38.0,16.0,73.0
+H001,MedCare General Hospital,2025-03-04,477,330,147,33,30.0,12.0,172.0
+H004,HealthFirst Medical Institute,2025-07-30,290,218,72,22,24.0,8.0,87.0
+H003,LifeLine Hospital,2025-05-03,162,136,26,22,21.0,12.0,117.0
+H007,Unity Wellness Hospital,2025-06-16,221,157,64,20,20.0,1.0,74.0
+H001,MedCare General Hospital,2025-06-26,477,467,10,20,32.0,7.0,147.0
+H004,HealthFirst Medical Institute,2025-06-17,290,202,88,34,28.0,4.0,164.0
+H001,MedCare General Hospital,2025-08-12,477,364,113,44,25.0,8.0,162.0
+H001,MedCare General Hospital,2025-05-26,477,332,145,25,19.0,10.0,88.0
+H003,LifeLine Hospital,2025-12-25,162,104,58,19,19.0,5.0,150.0
+H002,CityCare Medical Center,2025-01-09,207,107,100,33,15.0,13.0,103.0
+H005,PrimeCare Hospital,2025-12-31,275,125,150,13,24.0,11.0,144.0
+H006,Sunrise Community Hospital,2025-12-09,264,182,82,19,19.0,6.0,96.0
+H004,HealthFirst Medical Institute,2025-02-17,290,211,79,16,27.0,12.0,135.0
+H007,Unity Wellness Hospital,2025-09-23,221,186,35,23,26.0,10.0,71.0
+H007,Unity Wellness Hospital,2025-02-02,221,136,85,32,20.0,9.0,115.0
+H004,HealthFirst Medical Institute,2025-06-29,290,199,91,23,34.0,13.0,113.0
+H004,HealthFirst Medical Institute,2025-06-20,290,159,131,20,35.0,11.0,124.0
+H007,Unity Wellness Hospital,2025-04-14,221,155,66,22,22.0,9.0,124.0
+H006,Sunrise Community Hospital,2025-08-14,264,172,92,32,17.0,11.0,121.0
+H001,MedCare General Hospital,2025-01-10,477,302,175,21,26.0,13.0,49.0
+H002,CityCare Medical Center,2025-03-26,207,151,56,17,22.0,3.0,156.0
+H006,Sunrise Community Hospital,2025-04-30,264,179,85,26,24.0,9.0,89.0
+H006,Sunrise Community Hospital,2025-01-14,264,160,104,10,26.0,10.0,79.0
+H002,CityCare Medical Center,2025-12-10,207,157,50,36,15.0,12.0,175.0
+H001,MedCare General Hospital,2025-09-13,477,351,126,43,25.0,10.0,107.0
+H003,LifeLine Hospital,2025-06-02,162,103,59,24,4.0,4.0,128.0
+H005,PrimeCare Hospital,2025-06-07,275,205,70,9,27.0,7.0,99.0
+H002,CityCare Medical Center,2025-01-25,207,139,68,28,33.0,8.0,117.0
+H004,HealthFirst Medical Institute,2025-07-01,290,280,10,13,22.0,6.0,137.0
+H007,Unity Wellness Hospital,26-09-2025,221,146,75,14,36.0,13.0,159.0
+H005,PrimeCare Hospital,2025-05-02,275,195,80,25,30.0,7.0,151.0
+H003,LifeLine Hospital,2025-06-28,162,96,66,40,19.0,1.0,134.0
+H003,LifeLine Hospital,2025-07-14,162,107,55,38,30.0,5.0,134.0
+H003,LifeLine Hospital,2025-01-22,162,78,84,25,26.0,17.0,119.0
+H006,Sunrise Community Hospital,2025-06-15,264,217,47,26,16.0,5.0,130.0
+H002,CityCare Medical Center,2025-04-06,207,175,32,17,26.0,7.0,199.0
+H005,PrimeCare Hospital,2025-10-15,275,176,99,26,35.0,8.0,60.0
+H007,Unity Wellness Hospital,2025-06-05,221,140,81,29,19.0,14.0,141.0
+H004,HealthFirst Medical Institute,2025-05-10,290,204,86,26,25.0,5.0,181.0
+H004,HealthFirst Medical Institute,2025-03-15,290,221,69,15,7.0,3.0,148.0
+H003,LifeLine Hospital,2025-08-17,162,111,51,21,26.0,8.0,113.0
+H002,CityCare Medical Center,2025-05-17,207,128,79,48,13.0,13.0,67.0
+H006,Sunrise Community Hospital,2025-05-02,264,149,115,34,14.0,14.0,174.0
+H005,PrimeCare Hospital,2025-09-25,275,159,116,35,28.0,4.0,95.0
+H003,LifeLine Hospital,2025-01-10,162,110,52,20,31.0,10.0,111.0
+H001,MedCare General Hospital,2025-02-10,477,363,114,29,32.0,13.0,64.0
+H003,LifeLine Hospital,2025-05-19,162,134,28,26,32.0,16.0,93.0
+H003,LifeLine Hospital,2025-01-02,162,123,39,25,25.0,0.0,208.0
+H002,CityCare Medical Center,2025-06-24,207,184,23,33,28.0,3.0,173.0
+H004,HealthFirst Medical Institute,2025-04-17,290,237,53,22,33.0,2.0,86.0
+H004,HealthFirst Medical Institute,2025-09-02,290,171,119,32,14.0,13.0,87.0
+H002,CityCare Medical Center,2025-11-29,207,136,71,37,16.0,11.0,56.0
+H005,PrimeCare Hospital,2025-07-31,275,229,46,24,19.0,5.0,96.0
+H006,Sunrise Community Hospital,2025-11-17,264,167,97,21,5.0,3.0,75.0
+H006,Sunrise Community Hospital,2025-11-06,264,214,50,24,16.0,5.0,60.0
+H004,HealthFirst Medical Institute,2025-10-04,290,267,23,26,19.0,7.0,155.0
+H004,HealthFirst Medical Institute,2025-02-20,290,166,124,7,25.0,7.0,117.0
+H003,LifeLine Hospital,2025-10-29,162,116,46,26,22.0,20.0,74.0
+H002,CityCare Medical Center,2025-01-08,207,145,62,31,10.0,12.0,172.0
+H002,CityCare Medical Center,2025-10-30,207,115,92,14,28.0,8.0,191.0
+H004,HealthFirst Medical Institute,2025-12-03,290,136,154,34,17.0,5.0,103.0
+H007,Unity Wellness Hospital,2025-02-23,221,188,33,33,29.0,8.0,104.0
+H001,MedCare General Hospital,2025-12-24,477,260,217,22,26.0,5.0,173.0
+H003,LifeLine Hospital,2025-08-26,162,118,44,21,34.0,5.0,93.0
+H003,LifeLine Hospital,2025-02-23,162,114,48,24,31.0,11.0,117.0
+H003,LifeLine Hospital,2025-01-06,162,118,44,25,33.0,8.0,116.0
+H004,HealthFirst Medical Institute,2025-09-16,290,223,67,42,37.0,10.0,94.0
+H003,LifeLine Hospital,2025-11-02,162,151,11,14,23.0,1.0,120.0
+H003,LifeLine Hospital,2025-08-29,162,65,97,45,25.0,11.0,167.0
+H006,Sunrise Community Hospital,2025-06-01,264,191,73,23,27.0,4.0,141.0
+H002,CityCare Medical Center,2025-04-16,207,175,32,29,13.0,11.0,168.0
+H002,CityCare Medical Center,2025-10-18,207,182,25,34,24.0,9.0,142.0
+H007,Unity Wellness Hospital,2025-08-15,221,192,29,25,23.0,5.0,87.0
+H006,Sunrise Community Hospital,2025-03-26,264,186,78,30,18.0,11.0,37.0
+H007,Unity Wellness Hospital,2025-07-23,221,160,61,25,27.0,15.0,11.0
+H004,HealthFirst Medical Institute,2025-10-29,290,163,127,35,18.0,7.0,69.0
+H005,PrimeCare Hospital,2025-03-18,275,215,60,18,36.0,8.0,159.0
+H007,Unity Wellness Hospital,2025-06-13,221,178,43,23,24.0,4.0,76.0
+H007,Unity Wellness Hospital,2025-02-21,221,157,64,28,27.0,6.0,187.0
+H005,PrimeCare Hospital,2025-03-31,275,171,104,36,29.0,10.0,175.0
+H004,HealthFirst Medical Institute,2025-08-22,290,170,120,39,18.0,5.0,80.0
+H004,HealthFirst Medical Institute,2025-06-11,290,212,78,26,32.0,12.0,96.0
+H007,Unity Wellness Hospital,2025-01-31,221,168,53,17,25.0,5.0,147.0
+H004,HealthFirst Medical Institute,2025-11-27,290,141,149,25,25.0,11.0,172.0
+H005,PrimeCare Hospital,2025-01-05,275,218,57,24,25.0,7.0,138.0
+H005,PrimeCare Hospital,2025-04-06,275,217,58,33,22.0,4.0,82.0
+H007,Unity Wellness Hospital,2025-12-04,221,195,26,33,28.0,12.0,105.0
+H004,HealthFirst Medical Institute,2025-06-05,290,188,102,22,26.0,19.0,104.0
+H005,PrimeCare Hospital,2025-08-28,275,222,53,29,9.0,13.0,162.0
+H004,HealthFirst Medical Institute,2025-06-07,290,258,32,31,26.0,8.0,95.0
+H007,Unity Wellness Hospital,2025-10-27,221,211,10,18,26.0,4.0,115.0
+H007,Unity Wellness Hospital,2025-07-11,221,216,5,29,18.0,1.0,117.0
+H004,HealthFirst Medical Institute,2025-05-22,290,242,48,22,39.0,2.0,117.0
+H003,LifeLine Hospital,2025-06-05,162,94,68,27,24.0,5.0,100.0
+H001,MedCare General Hospital,2025-03-21,477,316,161,11,23.0,11.0,169.0
+H004,HealthFirst Medical Institute,2025-03-19,290,252,38,34,9.0,7.0,97.0
+H003,LifeLine Hospital,2025-03-26,162,127,35,19,22.0,2.0,102.0
+H006,Sunrise Community Hospital,2025-01-28,264,129,135,36,17.0,11.0,82.0
+H006,Sunrise Community Hospital,2025-08-30,264,165,99,20,22.0,16.0,128.0
+H002,CityCare Medical Center,2025-11-03,207,144,63,25,27.0,0.0,80.0
+H007,Unity Wellness Hospital,2025-02-26,221,167,54,20,22.0,9.0,116.0
+H007,Unity Wellness Hospital,2025-11-12,221,176,45,16,30.0,14.0,120.0
+H001,MedCare General Hospital,2025-02-27,477,231,246,23,26.0,11.0,95.0
+H001,MedCare General Hospital,2025-05-14,477,349,128,22,2.0,15.0,163.0
+H004,HealthFirst Medical Institute,2025-02-15,290,207,83,23,19.0,9.0,106.0
+H003,LifeLine Hospital,2025-07-23,162,113,49,19,17.0,15.0,121.0
+H003,LifeLine Hospital,2025-07-18,162,132,30,26,35.0,8.0,145.0
+H003,LifeLine Hospital,2025-04-04,162,109,53,23,20.0,1.0,78.0
+H005,PrimeCare Hospital,2025-03-13,275,186,89,37,30.0,0.0,86.0
+H004,HealthFirst Medical Institute,2025-04-30,290,228,62,12,27.0,9.0,188.0
+H002,CityCare Medical Center,2025-05-20,207,153,54,48,21.0,10.0,156.0
+H007,Unity Wellness Hospital,2025-12-11,221,156,65,26,22.0,7.0,56.0
+H006,Sunrise Community Hospital,2025-06-21,264,175,89,20,25.0,11.0,72.0
+H006,Sunrise Community Hospital,2025-05-14,264,216,48,27,16.0,9.0,96.0
+H004,HealthFirst Medical Institute,2025-10-17,290,217,73,19,18.0,10.0,38.0
+H003,LifeLine Hospital,2025-06-14,162,122,40,35,28.0,14.0,153.0
+H003,LifeLine Hospital,09-04-2025,162,128,34,38,26.0,10.0,59.0
+H007,Unity Wellness Hospital,2025-11-05,221,177,44,25,12.0,4.0,124.0
+H005,PrimeCare Hospital,2025-08-12,275,207,68,24,19.0,9.0,99.0
+H007,Unity Wellness Hospital,2025-05-26,221,137,84,25,15.0,7.0,81.0
+H006,Sunrise Community Hospital,2025-12-26,264,241,23,14,21.0,14.0,121.0
+H006,Sunrise Community Hospital,2025-11-19,264,92,172,37,20.0,4.0,61.0
+H002,CityCare Medical Center,2025-10-15,207,143,64,25,33.0,5.0,146.0
+H001,MedCare General Hospital,2025-06-22,477,355,122,12,38.0,12.0,95.0
+H001,MedCare General Hospital,2025-02-08,477,317,160,31,14.0,9.0,126.0
+H007,Unity Wellness Hospital,2025-09-16,221,130,91,25,31.0,11.0,182.0
+H002,CityCare Medical Center,2025-12-15,207,150,57,26,25.0,13.0,156.0
+H001,MedCare General Hospital,2025-04-01,477,339,138,32,28.0,5.0,98.0
+H004,HealthFirst Medical Institute,2025-04-21,290,212,78,33,8.0,2.0,96.0
+H007,Unity Wellness Hospital,2025-01-21,221,197,24,11,24.0,10.0,153.0
+H006,Sunrise Community Hospital,2025-01-03,264,173,91,23,19.0,13.0,151.0
+H004,HealthFirst Medical Institute,2025-03-02,290,163,127,28,24.0,7.0,147.0
+H004,HealthFirst Medical Institute,2025-08-18,290,126,164,26,23.0,10.0,93.0
+H001,MedCare General Hospital,2025-08-05,477,323,154,22,40.0,7.0,135.0
+H002,CityCare Medical Center,2025-05-26,207,109,98,9,27.0,9.0,85.0
+H005,PrimeCare Hospital,2025-08-09,275,205,70,34,22.0,11.0,174.0
+H002,CityCare Medical Center,2025-05-15,207,169,38,22,30.0,7.0,133.0
+H006,Sunrise Community Hospital,2025-10-21,264,181,83,22,30.0,8.0,133.0
+H006,Sunrise Community Hospital,2025-02-01,264,226,38,25,29.0,5.0,127.0
+H004,HealthFirst Medical Institute,2025-10-21,290,193,97,32,31.0,14.0,48.0
+H005,PrimeCare Hospital,2025-03-01,275,176,99,12,31.0,4.0,130.0
+H007,Unity Wellness Hospital,2025-05-19,221,168,53,24,0.0,15.0,140.0
+H006,Sunrise Community Hospital,2025-09-09,264,258,6,32,24.0,5.0,106.0
+H005,PrimeCare Hospital,2025-03-22,275,227,48,16,31.0,6.0,89.0
+H004,HealthFirst Medical Institute,2025-05-03,290,197,93,22,26.0,2.0,118.0
+H004,HealthFirst Medical Institute,2025-11-18,290,220,70,34,18.0,5.0,107.0
+H006,Sunrise Community Hospital,2025-11-24,264,219,45,28,36.0,7.0,182.0
+H005,PrimeCare Hospital,2025-08-05,275,201,74,27,33.0,9.0,124.0
+H004,HealthFirst Medical Institute,2025-04-13,290,188,102,18,27.0,9.0,104.0
+H005,PrimeCare Hospital,2025-03-24,275,208,67,14,26.0,8.0,171.0
+H003,LifeLine Hospital,2025-08-12,162,121,41,15,32.0,7.0,151.0
+H003,LifeLine Hospital,2025-01-21,162,105,57,27,20.0,14.0,92.0
+H001,MedCare General Hospital,2025-08-23,477,386,91,27,23.0,9.0,89.0
+H003,LifeLine Hospital,2025-01-03,162,109,53,19,26.0,10.0,167.0
+H004,HealthFirst Medical Institute,2025-02-10,290,209,81,26,26.0,14.0,100.0
+H004,HealthFirst Medical Institute,2025-03-03,290,165,125,19,40.0,10.0,114.0
+H007,Unity Wellness Hospital,2025-06-14,221,108,113,30,27.0,11.0,172.0
+H004,HealthFirst Medical Institute,2025-04-25,290,194,96,25,13.0,15.0,85.0
+H003,LifeLine Hospital,2025-12-02,162,116,46,20,27.0,9.0,50.0
+H003,LifeLine Hospital,2025-11-29,162,111,51,34,25.0,5.0,93.0
+H004,HealthFirst Medical Institute,2025-03-14,290,194,96,9,14.0,9.0,96.0
+H005,PrimeCare Hospital,2025-02-02,275,178,97,24,14.0,4.0,204.0
+H006,Sunrise Community Hospital,2025-10-17,264,131,133,20,27.0,4.0,75.0
+H003,LifeLine Hospital,2025-06-04,162,143,19,16,31.0,14.0,83.0
+H001,MedCare General Hospital,2025-05-24,477,406,71,25,21.0,9.0,117.0
+H007,Unity Wellness Hospital,2025-11-24,221,160,61,36,11.0,10.0,140.0
+H003,LifeLine Hospital,2025-05-01,162,137,25,26,15.0,9.0,129.0
+H002,CityCare Medical Center,2025-12-19,207,116,91,19,33.0,5.0,104.0
+H007,Unity Wellness Hospital,2025-09-02,221,216,5,27,19.0,0.0,42.0
+H001,MedCare General Hospital,2025-09-22,477,346,131,29,27.0,8.0,122.0
+H001,MedCare General Hospital,2025-03-17,477,299,178,31,41.0,9.0,87.0
+H002,CityCare Medical Center,2025-01-31,207,139,68,33,17.0,12.0,136.0
+H006,Sunrise Community Hospital,2025-12-17,264,128,136,30,13.0,12.0,84.0
+H007,Unity Wellness Hospital,2025-07-28,221,145,76,13,16.0,7.0,138.0
+H002,CityCare Medical Center,2025-02-01,207,124,83,13,30.0,6.0,158.0
+H004,HealthFirst Medical Institute,2025-09-28,290,188,102,13,22.0,8.0,102.0
+H007,Unity Wellness Hospital,2025-12-31,221,193,28,30,29.0,11.0,113.0
+H006,Sunrise Community Hospital,2025-03-20,264,147,117,39,22.0,13.0,103.0
+H002,CityCare Medical Center,2025-08-19,207,151,56,35,28.0,5.0,127.0
+H006,Sunrise Community Hospital,2025-10-12,264,204,60,27,20.0,12.0,148.0
+H004,HealthFirst Medical Institute,2025-07-21,290,232,58,8,21.0,5.0,148.0
+H005,PrimeCare Hospital,2025-12-28,275,186,89,31,36.0,10.0,136.0
+H003,LifeLine Hospital,2025-05-23,162,122,40,18,33.0,10.0,96.0
+H005,PrimeCare Hospital,2025-03-30,275,221,54,23,28.0,6.0,135.0
+H001,MedCare General Hospital,2025-02-06,477,379,98,18,27.0,4.0,111.0
+H006,Sunrise Community Hospital,2025-12-01,264,181,83,9,24.0,7.0,168.0
+H007,Unity Wellness Hospital,2025-10-06,221,148,73,22,30.0,6.0,83.0
+H003,LifeLine Hospital,2025-09-05,162,107,55,18,25.0,15.0,145.0
+H005,PrimeCare Hospital,2025-04-22,275,169,106,15,1.0,5.0,141.0
+H004,HealthFirst Medical Institute,2025-01-28,290,231,59,39,24.0,13.0,99.0
+H006,Sunrise Community Hospital,2025-03-09,264,202,62,24,26.0,8.0,141.0
+H002,CityCare Medical Center,2025-11-07,207,123,84,22,28.0,5.0,90.0
+H002,CityCare Medical Center,2025-12-30,207,136,71,23,23.0,5.0,87.0
+H002,CityCare Medical Center,2025-02-17,207,170,37,23,23.0,10.0,130.0
+H005,PrimeCare Hospital,2025-02-26,275,237,38,30,34.0,8.0,146.0
+H005,PrimeCare Hospital,2025-07-09,275,153,122,25,51.0,7.0,147.0
+H003,LifeLine Hospital,2025-04-06,162,95,67,17,18.0,16.0,186.0
+H002,CityCare Medical Center,2025-09-09,207,178,29,26,15.0,1.0,112.0
+H001,MedCare General Hospital,2025-04-25,477,344,133,38,22.0,10.0,153.0
+H002,CityCare Medical Center,2025-02-22,207,118,89,20,20.0,8.0,178.0
+H005,PrimeCare Hospital,2025-06-15,275,227,48,32,22.0,5.0,131.0
+H007,Unity Wellness Hospital,2025-11-22,221,129,92,37,14.0,8.0,74.0
+H001,MedCare General Hospital,2025-03-31,477,381,96,27,19.0,5.0,77.0
+H006,Sunrise Community Hospital,2025-09-15,264,190,74,26,19.0,4.0,120.0
+H003,LifeLine Hospital,2025-01-24,162,116,46,17,29.0,14.0,97.0
+H005,PrimeCare Hospital,2025-06-20,275,213,62,20,11.0,6.0,157.0
+H001,MedCare General Hospital,2025-01-12,477,396,81,18,26.0,7.0,159.0
+H001,MedCare General Hospital,2025-10-12,477,374,103,33,17.0,7.0,78.0
+H003,LifeLine Hospital,2025-12-03,162,106,56,22,33.0,10.0,89.0
+H004,HealthFirst Medical Institute,2025-04-07,290,238,52,24,20.0,11.0,202.0
+H004,HealthFirst Medical Institute,2025-12-12,290,213,77,25,17.0,12.0,50.0
+H007,Unity Wellness Hospital,2025-07-30,221,190,31,9,23.0,7.0,120.0
+H007,Unity Wellness Hospital,2025-07-29,221,127,94,24,23.0,12.0,82.0
+H007,Unity Wellness Hospital,2025-05-09,221,174,47,15,34.0,15.0,120.0
+H005,PrimeCare Hospital,2025-04-19,275,195,80,21,20.0,11.0,183.0
+H007,Unity Wellness Hospital,2025-01-13,221,164,57,23,17.0,8.0,157.0
+H005,PrimeCare Hospital,2025-08-16,275,202,73,26,23.0,9.0,140.0
+H003,LifeLine Hospital,2025-05-02,162,136,26,18,23.0,14.0,84.0
+H003,LifeLine Hospital,2025-06-15,162,126,36,21,12.0,12.0,162.0
+H002,CityCare Medical Center,2025-05-12,207,133,74,38,17.0,16.0,98.0
+H005,PrimeCare Hospital,2025-11-19,275,168,107,18,26.0,8.0,113.0
+H001,MedCare General Hospital,2025-12-02,477,324,153,34,31.0,15.0,102.0
+H002,CityCare Medical Center,2025-05-31,207,121,86,36,26.0,12.0,190.0
+H004,HealthFirst Medical Institute,2025-09-11,290,149,141,21,12.0,2.0,79.0
+H003,LifeLine Hospital,2025-10-13,162,118,44,25,26.0,13.0,179.0
+H007,Unity Wellness Hospital,2025-08-05,221,170,51,15,23.0,8.0,172.0
+H005,PrimeCare Hospital,2025-11-18,275,172,103,30,28.0,2.0,147.0
+H005,PrimeCare Hospital,2025-11-22,275,219,56,14,15.0,7.0,125.0
+H006,Sunrise Community Hospital,2025-09-03,264,194,70,12,17.0,8.0,147.0
+H001,MedCare General Hospital,2025-12-23,477,262,215,24,30.0,2.0,123.0
+H007,Unity Wellness Hospital,2025-09-09,221,179,42,31,34.0,11.0,76.0
+H004,HealthFirst Medical Institute,2025-08-06,290,198,92,35,35.0,8.0,119.0
+H005,PrimeCare Hospital,2025-06-25,275,234,41,37,30.0,15.0,109.0
+H002,CityCare Medical Center,2025-07-05,207,192,15,37,22.0,7.0,117.0
+H004,HealthFirst Medical Institute,2025-05-13,290,168,122,33,24.0,6.0,158.0
+H007,Unity Wellness Hospital,2025-04-11,221,143,78,18,15.0,1.0,217.0
+H003,LifeLine Hospital,2025-08-16,162,110,52,30,7.0,6.0,113.0
+H005,PrimeCare Hospital,2025-11-10,275,239,36,27,24.0,5.0,65.0
+H006,Sunrise Community Hospital,2025-11-13,264,167,97,25,22.0,5.0,97.0
+H003,LifeLine Hospital,2025-10-06,162,126,36,11,17.0,8.0,153.0
+H003,LifeLine Hospital,2025-12-29,162,115,47,30,18.0,13.0,41.0
+H007,Unity Wellness Hospital,2025-04-05,221,164,57,29,21.0,8.0,73.0
+H003,LifeLine Hospital,2025-09-24,162,93,69,32,22.0,10.0,142.0
+H005,PrimeCare Hospital,2025-08-08,275,227,48,32,29.0,9.0,118.0
+H001,MedCare General Hospital,2025-06-03,477,303,174,24,18.0,16.0,192.0
+H002,CityCare Medical Center,2025-08-04,207,147,60,21,26.0,6.0,59.0
+H005,PrimeCare Hospital,2025-01-11,275,167,108,26,33.0,6.0,172.0
+H002,CityCare Medical Center,2025-12-05,207,160,47,18,34.0,10.0,31.0
+H004,HealthFirst Medical Institute,2025-04-28,290,210,80,30,43.0,7.0,127.0
+H003,LifeLine Hospital,2025-06-16,162,93,69,27,28.0,5.0,118.0
+H002,CityCare Medical Center,2025-05-03,207,139,68,23,20.0,12.0,55.0
+H002,CityCare Medical Center,2025-07-14,207,127,80,29,21.0,1.0,132.0
+H004,HealthFirst Medical Institute,2025-02-16,290,136,154,32,17.0,10.0,195.0
+H004,HealthFirst Medical Institute,2025-01-25,290,148,142,28,24.0,7.0,138.0
+H002,CityCare Medical Center,2025-05-28,207,123,84,25,26.0,5.0,84.0
+H002,CityCare Medical Center,2025-09-26,207,105,102,21,23.0,9.0,103.0
+H007,Unity Wellness Hospital,2025-01-20,221,181,40,36,22.0,6.0,206.0
+H005,PrimeCare Hospital,2025-07-24,275,131,144,14,37.0,14.0,122.0
+H003,LifeLine Hospital,2025-10-10,162,110,52,33,13.0,7.0,149.0
+H006,Sunrise Community Hospital,2025-04-17,264,231,33,29,34.0,1.0,125.0
+H004,HealthFirst Medical Institute,2025-02-25,290,207,83,15,13.0,14.0,112.0
+H007,Unity Wellness Hospital,2025-08-02,221,145,76,29,29.0,6.0,128.0
+H001,MedCare General Hospital,2025-04-27,477,362,115,21,42.0,11.0,127.0
+H003,LifeLine Hospital,2025-01-11,162,137,25,36,17.0,5.0,114.0
+H007,Unity Wellness Hospital,2025-06-26,221,144,77,20,11.0,10.0,62.0
+H006,Sunrise Community Hospital,2025-05-30,264,191,73,15,35.0,7.0,
+H003,LifeLine Hospital,2025-12-18,162,116,46,12,22.0,12.0,164.0
+H005,PrimeCare Hospital,2025-12-17,275,211,64,15,21.0,8.0,50.0
+H003,LifeLine Hospital,2025-04-11,162,115,47,34,18.0,9.0,159.0
+H001,MedCare General Hospital,2025-04-30,477,314,163,22,20.0,5.0,135.0
+H002,CityCare Medical Center,2025-10-19,207,127,80,25,31.0,0.0,57.0
+H007,Unity Wellness Hospital,2025-05-30,221,132,89,19,27.0,4.0,61.0
+H007,Unity Wellness Hospital,2025-12-18,221,184,37,20,50.0,3.0,151.0
+H007,Unity Wellness Hospital,2025-11-16,221,139,82,23,21.0,9.0,166.0
+H002,CityCare Medical Center,2025-09-28,207,130,77,13,31.0,6.0,140.0
+H002,CityCare Medical Center,2025-01-05,207,123,84,35,31.0,5.0,137.0
+H001,MedCare General Hospital,2025-09-26,477,352,125,25,33.0,10.0,157.0
+H001,MedCare General Hospital,2025-02-16,477,301,176,26,18.0,9.0,205.0
+H003,LifeLine Hospital,2025-09-19,162,89,73,23,23.0,13.0,140.0
+H003,LifeLine Hospital,2025-05-27,162,119,43,26,25.0,6.0,95.0
+H003,LifeLine Hospital,2025-02-13,162,102,60,27,25.0,15.0,159.0
+H004,HealthFirst Medical Institute,2025-05-05,290,234,56,15,25.0,9.0,91.0
+H004,HealthFirst Medical Institute,2025-02-01,290,183,107,31,26.0,9.0,88.0
+H001,MedCare General Hospital,2025-01-05,477,427,50,23,12.0,9.0,98.0
+H005,PrimeCare Hospital,2025-05-16,275,208,67,17,24.0,11.0,51.0
+H003,LifeLine Hospital,2025-12-14,162,117,45,35,13.0,2.0,32.0
+H003,LifeLine Hospital,2025-04-18,162,123,39,43,20.0,6.0,117.0
+H002,CityCare Medical Center,2025-11-13,207,86,121,30,22.0,9.0,201.0
+H005,PrimeCare Hospital,2025-09-13,275,211,64,25,5.0,5.0,137.0
+H007,Unity Wellness Hospital,2025-01-08,221,164,57,38,28.0,8.0,152.0
+H004,HealthFirst Medical Institute,2025-02-23,290,220,70,17,12.0,9.0,49.0
+H002,CityCare Medical Center,2025-07-29,207,133,74,28,19.0,0.0,118.0
+H001,MedCare General Hospital,2025-02-20,477,271,206,32,32.0,17.0,59.0
+H003,LifeLine Hospital,2025-05-04,162,126,36,27,15.0,1.0,157.0
+H006,Sunrise Community Hospital,2025-06-07,264,196,68,32,30.0,6.0,146.0
+H005,PrimeCare Hospital,2025-12-30,275,228,47,37,23.0,11.0,175.0
+H003,LifeLine Hospital,2025-04-14,162,132,30,22,31.0,8.0,91.0
+H004,HealthFirst Medical Institute,2025-01-21,290,140,150,19,13.0,9.0,120.0
+H004,HealthFirst Medical Institute,2025-03-13,290,200,90,24,30.0,4.0,127.0
+H006,Sunrise Community Hospital,2025-03-23,264,215,49,34,19.0,2.0,152.0
+H003,LifeLine Hospital,2025-08-30,162,158,4,31,25.0,12.0,114.0
+H002,CityCare Medical Center,2025-02-04,207,175,32,24,22.0,5.0,90.0
+H001,MedCare General Hospital,2025-01-20,477,259,218,27,24.0,10.0,110.0
+H002,CityCare Medical Center,2025-11-16,207,133,74,24,27.0,10.0,48.0
+H001,MedCare General Hospital,2025-02-05,477,390,87,25,21.0,14.0,228.0
+H007,Unity Wellness Hospital,2025-08-24,221,143,78,23,33.0,12.0,99.0
+H002,CityCare Medical Center,2025-06-09,207,166,41,31,35.0,9.0,136.0
+H003,LifeLine Hospital,2025-07-10,162,112,50,32,34.0,15.0,76.0
+H006,Sunrise Community Hospital,2025-01-17,264,136,128,33,25.0,1.0,155.0
+H006,Sunrise Community Hospital,2025-03-07,264,184,80,28,25.0,6.0,151.0
+H002,CityCare Medical Center,2025-06-22,207,156,51,28,30.0,2.0,144.0
+H005,PrimeCare Hospital,2025-09-03,275,163,112,22,32.0,9.0,102.0
+H007,Unity Wellness Hospital,2025-11-15,221,136,85,19,21.0,7.0,93.0
+H001,MedCare General Hospital,2025-09-03,477,336,141,25,31.0,8.0,208.0
+H003,LifeLine Hospital,2025-02-24,162,152,10,26,11.0,7.0,109.0
+H004,HealthFirst Medical Institute,2025-11-11,290,189,101,25,13.0,8.0,73.0
+H001,MedCare General Hospital,2025-06-04,477,383,94,20,31.0,11.0,144.0
+H005,PrimeCare Hospital,2025-08-15,275,172,103,24,29.0,6.0,108.0
+H002,CityCare Medical Center,2025-09-18,207,167,40,9,24.0,9.0,103.0
+H007,Unity Wellness Hospital,2025-09-27,221,192,29,22,17.0,6.0,145.0
+H004,HealthFirst Medical Institute,2025-09-09,290,267,23,17,18.0,9.0,144.0
+H002,CityCare Medical Center,2025-07-24,207,121,86,20,19.0,5.0,98.0
+H005,PrimeCare Hospital,2025-10-26,275,128,147,21,21.0,9.0,73.0
+H005,PrimeCare Hospital,2025-12-23,275,194,81,37,26.0,8.0,175.0
+H006,Sunrise Community Hospital,2025-08-29,264,148,116,26,28.0,10.0,162.0
+H001,MedCare General Hospital,2025-05-08,477,248,229,31,13.0,9.0,68.0
+H007,Unity Wellness Hospital,2025-12-21,221,123,98,23,23.0,5.0,147.0
+H006,Sunrise Community Hospital,2025-07-01,264,216,48,32,19.0,11.0,40.0
+H003,LifeLine Hospital,2025-09-08,162,109,53,16,21.0,4.0,145.0
+H001,MedCare General Hospital,2025-07-10,477,329,148,27,35.0,3.0,116.0
+H004,HealthFirst Medical Institute,2025-02-14,290,227,63,21,23.0,6.0,144.0
+H003,LifeLine Hospital,2025-09-20,162,110,52,16,26.0,8.0,93.0
+H002,CityCare Medical Center,2025-12-01,207,197,10,31,22.0,8.0,105.0
+H002,CityCare Medical Center,2025-08-30,207,87,120,19,16.0,10.0,122.0
+H001,MedCare General Hospital,2025-06-30,477,364,113,21,34.0,9.0,127.0
+H001,MedCare General Hospital,2025-10-29,477,317,160,30,24.0,12.0,179.0
+H003,LifeLine Hospital,2025-11-27,162,112,50,22,28.0,12.0,109.0
+H007,Unity Wellness Hospital,2025-08-16,221,200,21,31,33.0,11.0,39.0
+H007,Unity Wellness Hospital,2025-09-28,221,165,56,24,27.0,14.0,86.0
+H003,LifeLine Hospital,2025-12-06,162,149,13,22,8.0,0.0,121.0
+H007,Unity Wellness Hospital,2025-01-16,221,201,20,26,26.0,3.0,129.0
+H004,HealthFirst Medical Institute,2025-05-29,290,151,139,25,21.0,4.0,174.0
+H001,MedCare General Hospital,2025-01-17,477,330,147,27,19.0,14.0,87.0
+H007,Unity Wellness Hospital,2025-12-24,221,154,67,18,42.0,6.0,157.0
+H002,CityCare Medical Center,2025-07-01,207,179,28,38,16.0,11.0,199.0
+H002,CityCare Medical Center,2025-10-21,207,184,23,5,26.0,5.0,71.0
+H007,Unity Wellness Hospital,2025-05-03,221,163,58,15,36.0,4.0,162.0
+H007,Unity Wellness Hospital,2025-06-02,221,212,9,25,26.0,13.0,143.0
+H005,PrimeCare Hospital,2025-02-14,275,230,45,12,27.0,9.0,117.0
+H003,LifeLine Hospital,2025-08-18,162,92,70,28,7.0,1.0,149.0
+H003,LifeLine Hospital,2025-03-09,162,76,86,29,39.0,6.0,89.0
+H001,MedCare General Hospital,2025-08-14,477,277,200,27,23.0,5.0,133.0
+H006,Sunrise Community Hospital,2025-09-07,264,165,99,23,19.0,10.0,125.0
+H005,PrimeCare Hospital,2025-12-06,275,201,74,34,18.0,15.0,152.0
+H007,Unity Wellness Hospital,2025-12-10,221,142,79,26,28.0,7.0,55.0
+H007,Unity Wellness Hospital,2025-03-29,221,154,67,31,28.0,12.0,108.0
+H006,Sunrise Community Hospital,2025-09-18,264,206,58,24,32.0,6.0,69.0
+H005,PrimeCare Hospital,2025-08-22,275,185,90,29,14.0,14.0,97.0
+H003,LifeLine Hospital,2025-11-12,162,95,67,21,28.0,10.0,158.0
+H002,CityCare Medical Center,2025-04-15,207,176,31,21,29.0,5.0,104.0
+H003,LifeLine Hospital,2025-08-13,162,116,46,17,24.0,11.0,27.0
+H007,Unity Wellness Hospital,2025-12-20,221,161,60,24,39.0,3.0,82.0
+H002,CityCare Medical Center,2025-10-02,207,102,105,30,21.0,1.0,137.0
+H007,Unity Wellness Hospital,2025-07-09,221,152,69,22,10.0,10.0,161.0
+H004,HealthFirst Medical Institute,2025-05-04,290,234,56,25,17.0,8.0,122.0
+H004,HealthFirst Medical Institute,2025-03-05,290,152,138,4,25.0,4.0,108.0
+H004,HealthFirst Medical Institute,2025-11-17,290,252,38,31,28.0,17.0,113.0
+H007,Unity Wellness Hospital,2025-05-12,221,130,91,18,13.0,9.0,90.0
+H005,PrimeCare Hospital,2025-03-09,275,184,91,16,35.0,7.0,46.0
+H007,Unity Wellness Hospital,2025-11-06,221,144,77,32,22.0,11.0,73.0
+H004,HealthFirst Medical Institute,2025-07-25,290,251,39,15,13.0,10.0,162.0
+H007,Unity Wellness Hospital,2025-09-21,221,162,59,20,16.0,11.0,89.0
+H005,PrimeCare Hospital,2025-05-24,275,242,33,19,40.0,6.0,159.0
+H001,MedCare General Hospital,2025-06-10,477,397,80,20,20.0,9.0,102.0
+H005,PrimeCare Hospital,2025-09-02,275,190,85,26,15.0,7.0,50.0
+H003,LifeLine Hospital,2025-08-15,162,122,40,27,16.0,2.0,230.0
+H007,Unity Wellness Hospital,2025-11-01,221,198,23,16,25.0,10.0,134.0
+H003,LifeLine Hospital,2025-05-28,162,108,54,19,25.0,3.0,143.0
+H006,Sunrise Community Hospital,2025-04-05,264,175,89,17,28.0,8.0,107.0
+H006,Sunrise Community Hospital,2025-03-01,264,199,65,27,24.0,10.0,154.0
+H007,Unity Wellness Hospital,2025-01-11,221,127,94,28,30.0,13.0,163.0
+H001,MedCare General Hospital,2025-04-09,477,342,135,36,17.0,9.0,180.0
+H007,Unity Wellness Hospital,2025-08-22,221,178,43,26,17.0,10.0,87.0
+H001,MedCare General Hospital,2025-09-11,477,262,215,24,18.0,5.0,169.0
+H001,MedCare General Hospital,2025-04-14,477,386,91,29,24.0,5.0,150.0
+H004,HealthFirst Medical Institute,2025-12-17,290,169,121,24,25.0,8.0,146.0
+H004,HealthFirst Medical Institute,2025-12-15,290,228,62,20,15.0,15.0,50.0
+H005,PrimeCare Hospital,2025-07-08,275,205,70,24,34.0,8.0,91.0
+H002,CityCare Medical Center,2025-08-10,207,170,37,21,31.0,5.0,155.0
+H002,CityCare Medical Center,2025-09-20,207,160,47,32,27.0,4.0,109.0
+H005,PrimeCare Hospital,2025-08-25,275,187,88,24,13.0,16.0,199.0
+H006,Sunrise Community Hospital,2025-10-04,264,214,50,21,27.0,1.0,74.0
+H007,Unity Wellness Hospital,2025-01-10,221,165,56,27,30.0,13.0,108.0
+H002,CityCare Medical Center,2025-02-08,207,144,63,22,29.0,0.0,70.0
+H004,HealthFirst Medical Institute,2025-03-01,290,274,16,23,17.0,11.0,132.0
+H007,Unity Wellness Hospital,2025-03-07,221,179,42,40,27.0,9.0,80.0
+H005,PrimeCare Hospital,2025-08-11,275,193,82,33,26.0,4.0,96.0
+H006,Sunrise Community Hospital,2025-08-20,264,201,63,24,25.0,13.0,124.0
+H007,Unity Wellness Hospital,2025-09-04,221,159,62,27,12.0,8.0,140.0
+H002,CityCare Medical Center,2025-03-29,207,159,48,28,15.0,13.0,147.0
+H007,Unity Wellness Hospital,2025-04-22,221,162,59,33,33.0,7.0,162.0
+H004,HealthFirst Medical Institute,2025-08-21,290,195,95,28,20.0,3.0,118.0
+H006,Sunrise Community Hospital,2025-08-13,264,173,91,14,30.0,11.0,120.0
+H003,LifeLine Hospital,2025-05-31,162,126,36,33,26.0,5.0,114.0
+H007,Unity Wellness Hospital,2025-11-03,221,152,69,23,32.0,5.0,77.0
+H002,CityCare Medical Center,2025-09-16,207,155,52,23,32.0,5.0,186.0
+H007,Unity Wellness Hospital,2025-07-03,221,129,92,24,26.0,0.0,138.0
+H005,PrimeCare Hospital,2025-11-24,275,196,79,17,27.0,17.0,113.0
+H001,MedCare General Hospital,2025-09-20,477,342,135,31,28.0,14.0,120.0
+H005,PrimeCare Hospital,2025-06-24,275,180,95,35,17.0,10.0,101.0
+H004,HealthFirst Medical Institute,2025-12-10,290,214,76,25,31.0,8.0,149.0
+H007,Unity Wellness Hospital,2025-01-09,221,156,65,31,20.0,6.0,67.0
+H006,Sunrise Community Hospital,2025-05-25,264,182,82,27,17.0,10.0,147.0
+H005,PrimeCare Hospital,2025-12-09,275,209,66,14,25.0,0.0,111.0
+H002,CityCare Medical Center,2025-10-03,207,153,54,28,34.0,9.0,81.0
+H007,Unity Wellness Hospital,2025-08-25,221,211,10,27,26.0,4.0,104.0
+H006,Sunrise Community Hospital,2025-05-15,264,229,35,24,23.0,10.0,72.0
+H002,CityCare Medical Center,2025-05-04,207,192,15,36,29.0,3.0,99.0
+H006,Sunrise Community Hospital,2025-01-19,264,228,36,34,16.0,10.0,103.0
+H005,PrimeCare Hospital,2025-10-02,275,234,41,37,33.0,8.0,106.0
+H001,MedCare General Hospital,2025-05-27,477,354,123,17,10.0,10.0,161.0
+H005,PrimeCare Hospital,2025-03-16,275,222,53,8,21.0,8.0,86.0
+H006,Sunrise Community Hospital,2025-06-11,264,167,97,18,18.0,11.0,122.0
+H004,HealthFirst Medical Institute,2025-10-02,290,224,66,25,44.0,10.0,80.0
+H007,Unity Wellness Hospital,2025-11-19,221,156,65,23,23.0,7.0,75.0
+H002,CityCare Medical Center,2025-10-22,207,122,85,38,14.0,5.0,165.0
+H005,PrimeCare Hospital,01-12-2025,275,185,90,36,34.0,6.0,152.0
+H001,MedCare General Hospital,2025-07-06,477,311,166,40,6.0,3.0,137.0
+H004,HealthFirst Medical Institute,2025-02-22,290,199,91,29,18.0,14.0,123.0
+H002,CityCare Medical Center,2025-09-01,207,164,43,26,25.0,6.0,148.0
+H007,,2025-01-02,221,155,66,7,26.0,7.0,125.0
+H006,Sunrise Community Hospital,2025-04-16,264,225,39,30,36.0,9.0,136.0
+H001,MedCare General Hospital,2025-07-17,477,277,200,37,22.0,12.0,121.0
+H007,Unity Wellness Hospital,2025-05-18,221,163,58,24,22.0,7.0,144.0
+H001,MedCare General Hospital,2025-10-21,477,377,100,38,14.0,10.0,137.0
+H003,LifeLine Hospital,2025-02-06,162,112,50,20,12.0,13.0,81.0
+H002,CityCare Medical Center,2025-02-05,207,132,75,23,21.0,5.0,44.0
+H001,MedCare General Hospital,2025-05-03,477,380,97,24,14.0,10.0,217.0
+H001,MedCare General Hospital,2025-07-22,477,418,59,26,18.0,17.0,189.0
+H003,LifeLine Hospital,2025-04-16,162,126,36,24,38.0,10.0,106.0
+H007,Unity Wellness Hospital,2025-04-15,221,193,28,24,22.0,4.0,101.0
+H004,HealthFirst Medical Institute,2025-12-11,290,219,71,28,38.0,8.0,60.0
+H005,PrimeCare Hospital,2025-10-01,275,226,49,17,27.0,6.0,151.0
+H005,PrimeCare Hospital,2025-08-24,275,178,97,26,41.0,2.0,66.0
+H005,PrimeCare Hospital,2025-09-05,275,221,54,30,26.0,15.0,145.0
+H007,Unity Wellness Hospital,2025-10-30,221,118,103,42,22.0,5.0,130.0
+H004,HealthFirst Medical Institute,2025-02-28,290,197,93,30,25.0,8.0,55.0
+H005,PrimeCare Hospital,2025-07-21,275,224,51,13,18.0,13.0,109.0
+H005,PrimeCare Hospital,2025-10-27,275,138,137,20,34.0,12.0,167.0
+H003,LifeLine Hospital,2025-05-05,162,114,48,20,15.0,3.0,39.0
+H005,PrimeCare Hospital,2025-05-10,275,166,109,33,31.0,12.0,120.0
+H007,Unity Wellness Hospital,2025-03-19,221,133,88,26,51.0,6.0,140.0
+H002,CityCare Medical Center,2025-10-04,207,132,75,18,31.0,12.0,138.0
+H001,MedCare General Hospital,2025-01-02,477,330,147,37,20.0,12.0,141.0
+H006,Sunrise Community Hospital,2025-12-02,264,172,92,29,24.0,10.0,157.0
+H002,CityCare Medical Center,2025-11-30,207,140,67,23,19.0,10.0,140.0
+H005,PrimeCare Hospital,2025-06-26,275,96,179,27,25.0,8.0,122.0
+H004,HealthFirst Medical Institute,2025-07-16,290,173,117,15,18.0,12.0,124.0
+H007,Unity Wellness Hospital,2025-09-13,221,194,27,14,31.0,8.0,91.0
+H005,PrimeCare Hospital,2025-03-02,275,193,82,20,17.0,10.0,132.0
+H006,Sunrise Community Hospital,2025-01-29,264,211,53,23,38.0,1.0,102.0
+H004,HealthFirst Medical Institute,2025-02-11,290,175,115,22,24.0,4.0,97.0
+H007,Unity Wellness Hospital,2025-10-17,221,154,67,39,13.0,8.0,99.0
+H005,PrimeCare Hospital,2025-06-21,275,185,90,26,27.0,4.0,89.0
+H006,Sunrise Community Hospital,2025-06-23,264,235,29,26,12.0,11.0,167.0
+H002,CityCare Medical Center,2025-10-26,207,159,48,24,32.0,5.0,212.0
+H002,CityCare Medical Center,2025-11-15,207,145,62,31,13.0,9.0,98.0
+H004,HealthFirst Medical Institute,2025-06-12,290,187,103,16,35.0,11.0,107.0
+H001,MedCare General Hospital,2025-11-14,477,383,94,26,17.0,7.0,123.0
+H002,CityCare Medical Center,2025-10-11,207,149,58,47,32.0,2.0,113.0
+H004,HealthFirst Medical Institute,2025-12-06,290,191,99,23,28.0,8.0,174.0
+H005,PrimeCare Hospital,2025-01-20,275,137,138,36,27.0,9.0,174.0
+H002,CityCare Medical Center,2025-12-11,207,156,51,30,15.0,14.0,118.0
+H004,HealthFirst Medical Institute,2025-07-07,290,224,66,24,26.0,1.0,134.0
+H005,PrimeCare Hospital,2025-11-05,275,174,101,30,21.0,8.0,137.0
+H003,LifeLine Hospital,2025-08-31,162,107,55,18,13.0,6.0,116.0
+H004,HealthFirst Medical Institute,2025-07-31,290,228,62,28,34.0,15.0,92.0
+H004,HealthFirst Medical Institute,2025-11-02,290,236,54,10,22.0,10.0,148.0
+H004,HealthFirst Medical Institute,2025-11-10,290,235,55,21,11.0,10.0,151.0
+H007,Unity Wellness Hospital,2025-02-17,221,131,90,33,30.0,11.0,50.0
+H005,PrimeCare Hospital,2025-02-06,275,190,85,27,21.0,6.0,106.0
+H006,Sunrise Community Hospital,2025-08-02,264,163,101,22,23.0,13.0,106.0
+H005,PrimeCare Hospital,2025-03-11,275,179,96,10,16.0,10.0,77.0
+H005,PrimeCare Hospital,2025-07-23,275,223,52,23,17.0,12.0,100.0
+H004,HealthFirst Medical Institute,2025-09-17,290,207,83,25,14.0,0.0,76.0
+H007,Unity Wellness Hospital,2025-11-09,221,138,83,25,30.0,7.0,113.0
+H007,Unity Wellness Hospital,2025-11-26,221,137,84,25,30.0,12.0,137.0
+H005,PrimeCare Hospital,2025-07-03,275,205,70,36,,0.0,66.0
+H003,LifeLine Hospital,2025-11-18,162,94,68,21,10.0,6.0,200.0
+H003,LifeLine Hospital,2025-03-07,162,120,42,29,28.0,14.0,78.0
+H005,PrimeCare Hospital,2025-05-18,275,170,105,26,26.0,7.0,143.0
+H005,PrimeCare Hospital,2025-12-26,275,203,72,14,24.0,4.0,100.0
+H005,PrimeCare Hospital,2025-09-20,275,182,93,29,22.0,9.0,119.0
+H004,HealthFirst Medical Institute,2025-03-30,290,177,113,31,29.0,1.0,76.0
+H003,LifeLine Hospital,2025-11-26,162,113,49,25,29.0,12.0,131.0
+H002,CityCare Medical Center,2025-06-25,207,158,49,33,32.0,17.0,129.0
+H005,PrimeCare Hospital,2025-08-07,275,211,64,24,21.0,15.0,86.0
+H007,Unity Wellness Hospital,2025-10-08,221,141,80,22,22.0,0.0,156.0
+H005,PrimeCare Hospital,2025-10-25,275,205,70,30,29.0,7.0,91.0
+H006,Sunrise Community Hospital,2025-04-09,264,202,62,33,32.0,4.0,94.0
+H001,MedCare General Hospital,2025-04-06,477,329,148,29,48.0,10.0,164.0
+H003,LifeLine Hospital,2025-10-18,162,136,26,29,24.0,9.0,136.0
+H002,CityCare Medical Center,2025-07-18,207,169,38,28,27.0,10.0,42.0
+H003,LifeLine Hospital,2025-05-14,162,136,26,15,25.0,13.0,106.0
+H005,PrimeCare Hospital,2025-01-25,275,183,92,24,32.0,4.0,48.0
+H006,Sunrise Community Hospital,2025-02-26,264,247,17,15,20.0,7.0,174.0
+H003,LifeLine Hospital,2025-11-05,162,104,58,24,19.0,11.0,46.0
+H001,MedCare General Hospital,2025-07-26,477,328,149,11,29.0,10.0,100.0
+H002,CityCare Medical Center,2025-01-28,207,147,60,27,29.0,11.0,142.0
+H003,LifeLine Hospital,2025-05-21,162,77,85,25,10.0,8.0,136.0
+H002,CityCare Medical Center,2025-02-02,207,161,46,30,18.0,11.0,137.0
+H007,Unity Wellness Hospital,2025-10-02,221,175,46,31,20.0,1.0,157.0
+H003,LifeLine Hospital,2025-10-26,162,105,57,29,20.0,13.0,156.0
+H005,PrimeCare Hospital,2025-01-26,275,215,60,22,25.0,4.0,57.0
+H003,LifeLine Hospital,2025-08-19,162,126,36,24,18.0,3.0,109.0
+H005,PrimeCare Hospital,2025-04-21,275,264,11,22,28.0,10.0,79.0
+H006,Sunrise Community Hospital,2025-03-12,264,191,73,27,24.0,15.0,161.0
+H006,Sunrise Community Hospital,2025-11-18,264,140,124,27,19.0,6.0,80.0
+H003,LifeLine Hospital,2025-03-16,162,158,4,13,30.0,1.0,92.0
+H005,PrimeCare Hospital,2025-10-19,275,239,36,21,25.0,10.0,178.0
+H007,Unity Wellness Hospital,2025-09-22,221,105,116,26,14.0,8.0,127.0
+H002,CityCare Medical Center,2025-05-18,207,161,46,29,21.0,11.0,114.0
+H003,LifeLine Hospital,2025-02-19,162,136,26,36,27.0,11.0,135.0
+H006,Sunrise Community Hospital,2025-02-08,264,141,123,22,20.0,5.0,76.0
+H001,MedCare General Hospital,2025-07-20,477,423,54,32,18.0,9.0,147.0
+H006,Sunrise Community Hospital,2025-12-24,264,187,77,27,28.0,3.0,87.0
+H006,Sunrise Community Hospital,2025-09-21,264,179,85,20,19.0,8.0,139.0
+H007,Unity Wellness Hospital,2025-03-30,221,122,99,28,4.0,11.0,86.0
+H005,PrimeCare Hospital,2025-12-03,275,187,88,35,30.0,8.0,110.0
+H002,CityCare Medical Center,2025-01-14,207,162,45,25,23.0,7.0,116.0
+H007,Unity Wellness Hospital,2025-05-27,221,132,89,22,24.0,16.0,167.0
+H002,CityCare Medical Center,2025-02-23,207,157,50,27,14.0,11.0,161.0
+H005,PrimeCare Hospital,2025-08-27,275,239,36,17,19.0,8.0,80.0
+H002,CityCare Medical Center,2025-01-27,207,183,24,7,32.0,7.0,128.0
+H005,PrimeCare Hospital,2025-03-04,275,205,70,0,20.0,0.0,180.0
+H004,HealthFirst Medical Institute,2025-03-09,290,247,43,36,17.0,9.0,22.0
+H005,PrimeCare Hospital,2025-02-05,275,255,20,7,39.0,7.0,105.0
+H006,Sunrise Community Hospital,22-07-2025,264,175,89,15,32.0,1.0,68.0
+H004,HealthFirst Medical Institute,2025-02-27,290,209,81,29,12.0,5.0,124.0
+H004,HealthFirst Medical Institute,2025-09-30,290,167,123,32,19.0,1.0,109.0
+H001,MedCare General Hospital,2025-03-06,477,348,129,29,40.0,5.0,79.0
+H006,Sunrise Community Hospital,2025-08-26,264,193,71,20,30.0,6.0,93.0
+H004,HealthFirst Medical Institute,2025-03-27,290,206,84,4,32.0,4.0,84.0
+H002,CityCare Medical Center,2025-05-08,207,150,57,30,14.0,10.0,154.0
+H002,CityCare Medical Center,2025-01-15,207,139,68,22,28.0,15.0,108.0
+H007,Unity Wellness Hospital,2025-02-15,221,172,49,27,21.0,12.0,127.0
+H003,LifeLine Hospital,2025-02-03,162,81,81,21,20.0,8.0,72.0
+H007,Unity Wellness Hospital,2025-03-16,221,169,52,30,36.0,9.0,138.0
+H003,LifeLine Hospital,2025-03-03,162,104,58,24,32.0,8.0,127.0
+H003,LifeLine Hospital,2025-12-13,162,105,57,20,37.0,5.0,153.0
+H003,LifeLine Hospital,2025-05-29,162,126,36,31,19.0,10.0,153.0
+H001,MedCare General Hospital,2025-12-04,477,411,66,21,26.0,9.0,109.0
+H007,Unity Wellness Hospital,2025-06-03,221,114,107,27,17.0,6.0,189.0
+H003,LifeLine Hospital,2025-10-14,162,97,65,26,15.0,9.0,158.0
+H004,HealthFirst Medical Institute,2025-06-30,290,247,43,27,31.0,9.0,122.0
+H002,CityCare Medical Center,2025-04-01,207,122,85,30,29.0,4.0,138.0
+H003,LifeLine Hospital,2025-03-27,162,118,44,22,20.0,0.0,107.0
+H007,Unity Wellness Hospital,2025-05-08,221,187,34,20,21.0,5.0,81.0
+H003,LifeLine Hospital,2025-09-23,162,89,73,36,27.0,9.0,31.0
+H006,Sunrise Community Hospital,2025-06-06,264,150,114,30,32.0,18.0,176.0
+H001,MedCare General Hospital,2025-07-21,477,365,112,32,32.0,11.0,98.0
+H001,MedCare General Hospital,2025-06-11,477,325,152,26,34.0,7.0,84.0
+H005,PrimeCare Hospital,2025-04-30,275,179,96,35,13.0,8.0,100.0
+H007,Unity Wellness Hospital,2025-09-17,221,216,5,27,27.0,6.0,109.0
+H002,CityCare Medical Center,2025-12-04,207,179,28,17,10.0,15.0,137.0
+H005,PrimeCare Hospital,2025-02-10,275,254,21,25,24.0,12.0,93.0
+H004,HealthFirst Medical Institute,2025-02-04,290,148,142,20,35.0,15.0,157.0
+H003,LifeLine Hospital,2025-10-19,162,120,42,16,15.0,9.0,123.0
+H005,PrimeCare Hospital,2025-05-06,275,217,58,17,26.0,9.0,60.0
+H006,Sunrise Community Hospital,2025-05-11,264,240,24,28,30.0,9.0,134.0
+H007,Unity Wellness Hospital,2025-03-05,221,195,26,27,32.0,12.0,169.0
+H001,MedCare General Hospital,2025-02-04,477,292,185,18,26.0,8.0,131.0
+H003,LifeLine Hospital,2025-02-15,162,139,23,32,11.0,9.0,112.0
+H005,PrimeCare Hospital,2025-01-19,275,240,35,25,21.0,3.0,121.0
+H004,HealthFirst Medical Institute,2025-10-23,290,162,128,34,18.0,3.0,80.0
+H006,Sunrise Community Hospital,2025-11-11,264,155,109,36,28.0,17.0,36.0
+H004,HealthFirst Medical Institute,2025-09-26,290,215,75,9,23.0,3.0,98.0
+H006,Sunrise Community Hospital,2025-08-05,264,227,37,37,24.0,2.0,92.0
+H001,MedCare General Hospital,2025-08-30,477,345,132,19,12.0,6.0,189.0
+H006,Sunrise Community Hospital,2025-08-25,264,149,115,25,22.0,10.0,148.0
+H007,Unity Wellness Hospital,2025-06-23,221,177,44,32,24.0,10.0,146.0
+H002,CityCare Medical Center,2025-08-24,207,101,106,18,39.0,7.0,142.0
+H007,Unity Wellness Hospital,2025-09-03,221,150,71,9,11.0,5.0,135.0
+H004,HealthFirst Medical Institute,2025-07-22,290,284,6,23,27.0,3.0,172.0
+H007,Unity Wellness Hospital,2025-01-25,221,140,81,12,24.0,4.0,93.0
+H006,Sunrise Community Hospital,2025-09-01,264,175,89,8,16.0,6.0,144.0
+H002,CityCare Medical Center,2025-10-09,207,138,69,8,39.0,4.0,68.0
+H005,PrimeCare Hospital,2025-03-10,275,129,146,25,24.0,7.0,157.0
+H004,HealthFirst Medical Institute,2025-06-22,290,211,79,30,25.0,7.0,118.0
+H006,Sunrise Community Hospital,2025-03-16,264,151,113,34,24.0,11.0,186.0
+H002,CityCare Medical Center,2025-07-17,207,146,61,19,21.0,15.0,193.0
+H001,MedCare General Hospital,2025-07-09,477,282,195,12,23.0,6.0,129.0
+H005,PrimeCare Hospital,2025-12-13,275,197,78,23,14.0,10.0,118.0
+H003,LifeLine Hospital,2025-09-03,162,96,66,14,18.0,10.0,158.0
+H006,Sunrise Community Hospital,2025-08-11,264,194,70,34,11.0,8.0,153.0
+H003,LifeLine Hospital,2025-12-19,162,106,56,20,31.0,5.0,91.0
+H002,CityCare Medical Center,2025-04-20,207,145,62,20,28.0,9.0,164.0
+H003,LifeLine Hospital,2025-01-18,162,114,48,21,21.0,8.0,66.0
+H007,Unity Wellness Hospital,2025-04-21,221,173,48,28,34.0,11.0,194.0
+H001,MedCare General Hospital,2025-01-22,477,366,111,40,26.0,9.0,117.0
+H002,CityCare Medical Center,2025-04-05,207,162,45,28,29.0,14.0,59.0
+H004,HealthFirst Medical Institute,2025-03-31,290,252,38,26,24.0,11.0,49.0
+H007,Unity Wellness Hospital,2025-05-15,221,150,71,35,16.0,8.0,207.0
+H003,LifeLine Hospital,2025-08-14,162,131,31,24,15.0,13.0,0.0
+H004,HealthFirst Medical Institute,2025-05-01,290,181,109,14,13.0,5.0,173.0
+H007,Unity Wellness Hospital,2025-09-01,221,176,45,19,23.0,8.0,123.0
+H005,PrimeCare Hospital,2025-02-25,275,151,124,7,19.0,7.0,62.0
+H007,Unity Wellness Hospital,2025-07-21,221,146,75,36,17.0,10.0,162.0
+H003,LifeLine Hospital,2025-02-09,162,132,30,33,22.0,7.0,62.0
+H005,PrimeCare Hospital,2025-08-14,275,196,79,31,9.0,5.0,98.0
+H001,MedCare General Hospital,2025-05-11,477,449,28,34,15.0,7.0,222.0
+H006,Sunrise Community Hospital,2025-11-07,264,173,91,33,19.0,9.0,152.0
+H005,PrimeCare Hospital,2025-01-23,275,232,43,25,27.0,8.0,211.0
+H001,MedCare General Hospital,2025-11-27,477,376,101,27,21.0,9.0,133.0
+H004,HealthFirst Medical Institute,2025-05-24,290,246,44,16,31.0,6.0,11.0
+H002,CityCare Medical Center,2025-04-12,207,141,66,24,21.0,2.0,155.0
+H006,Sunrise Community Hospital,2025-12-11,264,183,81,35,21.0,14.0,94.0
+H005,PrimeCare Hospital,2025-06-28,275,217,58,21,24.0,8.0,124.0
+H004,HealthFirst Medical Institute,2025-01-01,290,265,25,23,20.0,8.0,163.0
+H004,HealthFirst Medical Institute,2025-02-05,290,202,88,25,33.0,8.0,84.0
+H004,HealthFirst Medical Institute,2025-07-19,290,210,80,22,4.0,9.0,46.0
+H003,LifeLine Hospital,2025-05-11,162,108,54,14,29.0,5.0,67.0

@@ -1,0 +1,72 @@
+Hospital_ID,Department_ID,Department_Name,Department_Type,Department_Capacity,Staff_Count,Doctors_Count,Nurses_Count,Monthly_Target,Department_Status
+H003,D003,Orthopedics,Surgical,45,39,10,26,130.0,Active
+H001,D001,Cardiology,Specialty,21,30,7,19,379.0,Active
+H005,D010,Gastroenterology,Diagnostic,38,26,4,20,171.0,Active
+H001,D005,General Medicine,Medical,55,38,11,27,188.0,Active
+H006,D006,Emergency,Emergency,57,41,10,27,142.0,Active
+H002,D009,ENT,Surgical,72,47,14,32,380.0,Active
+H002,D001,Cardiology,Specialty,68,46,19,26,156.0,Active
+H004,D004,Pediatrics,Medical,29,47,7,37,380.0,Active
+H005,D007,Oncology,Specialty,20,43,6,33,,Active
+H002,D003,Orthopedics,Surgical,28,34,7,25,184.0,Active
+H004,D002,Neurology,Specialty,48,54,18,31,339.0,Limited
+H001,D010,Gastroenterology,Diagnostic,36,47,16,26,186.0,Active
+H007,D002,Neurology,Specialty,53,43,14,23,306.0,Active
+H001,D006,Emergency,Emergency,47,45,4,36,323.0,Active
+H006,D004,Pediatrics,Medical,46,38,6,30,98.0,Limited
+H004,D001,Cardiology,Specialty,70,22,8,14,359.0,Limited
+H006,D010,Gastroenterology,Diagnostic,52,22,7,13,324.0,Active
+H004,D006,EMERGENCY,Emergency,73,56,20,35,289.0,Active
+H006,D009,ENT,Surgical,28,24,8,13,265.0,Under Maintenance
+H005,D003,Orthopedics,Surgical,32,51,19,27,289.0,Active
+H002,D007,oncology,Specialty,49,34,9,23,295.0,Active
+H004,D005,General Medicine,Medical,71,31,5,22,200.0,Active
+H005,D005,General Medicine,Medical,48,52,12,37,165.0,Active
+H003,D009,ENT,Surgical,35,28,14,13,306.0,Active
+H001,D008,Dermatology,Medical,32,40,12,28,270.0,Active
+H006,D005,General Medicine,Medical,52,52,15,33,122.0,Active
+H006,D001,Cardiology,Specialty,49,50,14,33,183.0,Limited
+H005,D006,Emergency,Emergency,55,37,11,21,243.0,Active
+H005,D008,Dermatology,Medical,23,34,18,12,380.0,Active
+H002,D010,Gastroenterology,Diagnostic,54,33,8,23,253.0,Limited
+H006,D008,Dermatology,Medical,56,30,10,15,323.0,Active
+H005,D001,Cardiology,Specialty,49,53,17,36,198.0,Active
+H003,D006,emergency,Emergency,43,16,4,11,181.0,Active
+H004,D010,Gastroenterology,Diagnostic,45,25,6,14,210.0,Active
+H002,D004,Pediatrics,Medical,79,34,10,23,126.0,Active
+H006,D008,Dermatology,Medical,56,30,10,15,323.0,Active
+H001,D004,Pediatrics,Medical,21,44,18,22,219.0,Active
+H002,D008,Dermatology,Medical,58,36,13,20,130.0,Active
+H004,D009,ENT,Surgical,40,18,5,8,335.0,Active
+H001,D009,ENT,Surgical,73,43,20,18,102.0,
+H006,D007,Oncology,Specialty,35,42,10,27,254.0,Active
+H001,D007,Oncology,Specialty,74,44,6,37,384.0,Active
+H004,D007,Oncology,Specialty,70,39,6,33,249.0,Active
+H007,D006,Emergency,Emergency,63,60,14,40,166.0,Active
+H007,D004,PEDIATRICS,Medical,62,36,8,24,118.0,Active
+H007,D010,Gastroenterology,Diagnostic,39,33,18,10,243.0,Limited
+H002,D006,Emergency,Emergency,69,62,16,40,163.0,Active
+H003,D008,Dermatology,Medical,27,29,12,17,91.0,Active
+H005,D002,NEUROLOGY,Specialty,62,27,18,9,339.0,Active
+H003,D007,Oncology,Specialty,66,28,13,13,97.0,Active
+H005,D009,ENT,Surgical,50,29,14,15,314.0,Active
+H003,D005,General Medicine,Medical,23,52,17,33,213.0,Active
+H007,D009,ent,Surgical,66,31,9,18,128.0,Active
+H007,D005,General Medicine,Medical,68,48,9,39,191.0,Active
+H002,D002,NEUROLOGY,Specialty,51,42,20,22,238.0,Limited
+H004,D003,Orthopedics,Surgical,40,29,6,19,381.0,Active
+H007,D008,Dermatology,Medical,66,25,7,18,359.0,Limited
+H007,D003,Orthopedics,Surgical,54,38,5,32,396.0,Limited
+H004,D008,Dermatology,Medical,23,40,6,34,252.0,Active
+H003,D010,Gastroenterology,Diagnostic,34,56,12,39,377.0,Active
+H005,D004,Pediatrics,Medical,44,29,8,16,257.0,Active
+H007,D007,Oncology,Specialty,54,36,13,21,174.0,Active
+H001,D002,NEUROLOGY,Specialty,20,14,6,8,108.0,Active
+H006,D003,Orthopedics,Surgical,20,49,9,36,126.0,Active
+H003,D002,Neurology,Specialty,44,36,5,27,349.0,Active
+H001,D003,Orthopedics,Surgical,35,18,5,8,132.0,Active
+H003,D004,Pediatrics,Medical,47,31,20,11,321.0,Active
+H003,D001,Cardiology,Specialty,33,32,6,24,237.0,Active
+H007,D001,cardiology,Specialty,68,29,6,20,307.0,Active
+H002,D005,General Medicine,Medical,76,23,5,12,383.0,Active
+H006,D002,Neurology,Specialty,27,18,7,11,318.0,Active
