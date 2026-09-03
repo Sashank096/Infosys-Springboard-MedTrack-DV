@@ -67,9 +67,9 @@ else:
     log("PASS: no orphaned keys, no grain duplicates, no invalid dates, "
         "no occupancy values outside 0-100%, hospital_id consistent.")
 
-with open("docs_validation/relationship_validation_report.md", "w") as f:
+with open("relationship_validation_report.md", "w") as f:
     f.write("# Relationship & Key Validation Report — MedTrack_DV (v2)\n\n```\n")
     f.write("\n".join(lines))
     f.write("\n```\n")
 
-print("\nWritten to docs_validation/relationship_validation_report.md")
+print("\nWritten to relationship_validation_report.md")
