@@ -1,0 +1,301 @@
+manufacturer_id,manufacturer_name,country,reliability_rating,contract_status
+1,"Dora, Yogi and Deshpande",USA,3.8,Active
+2,Dhawan-Bhasin,UK,4.4,Expired
+3,"Trivedi, Chaudhry and Parmar",UK,4.3,Active
+4,"Chada, Mall and Parmar",Germany,3.9,Expired
+5,Khanna-Chand,UK,4.5,Expired
+6,"Koshy, Dayal and Pillai",India,4.3,Expired
+7,Walia Ltd,USA,4.6,Expired
+8,Bera LLC,USA,3.7,Active
+9,Kapadia-Bose,Switzerland,4.5,Active
+10,"Mallick, Sami and Handa",UK,4.8,Active
+11,Chokshi Group,India,3.7,Active
+12,"Kanda, Srinivasan and Lanka",USA,4.3,Active
+13,"Gade, Iyer and Gaba",Switzerland,3.5,Active
+14,Minhas Inc,Germany,3.5,Expired
+15,Nadig-Dalal,UK,3.6,Expired
+16,Narayanan and Sons,Switzerland,3.7,Active
+17,"Radhakrishnan, Chander and Chacko",India,4.6,Active
+18,Dutta-Kalla,UK,4.7,Expired
+19,Batra-Sidhu,USA,4.0,Expired
+20,"Sarkar, Zachariah and Krishnamurthy",USA,4.5,Active
+21,Mann Group,Germany,4.7,Expired
+22,Rai-Grewal,Germany,3.7,Active
+23,Sabharwal Group,UK,4.1,Expired
+24,Padmanabhan and Sons,Germany,4.8,Active
+25,Dhar Ltd,Germany,4.2,Expired
+26,"Khosla, Choudhary and Bhatia",USA,3.9,Expired
+27,"Virk, Golla and Bhatti",USA,3.8,Active
+28,"Bhakta, Chand and Agrawal",India,3.6,Expired
+29,Banerjee Ltd,Germany,4.1,Active
+30,Munshi-Dyal,Germany,4.2,Expired
+31,Arora-Ghosh,Germany,4.6,Expired
+32,Pall Ltd,India,4.8,Expired
+33,Dani LLC,USA,4.2,Active
+34,Vasa-Walia,Germany,4.2,Active
+35,"Bains, Shankar and Master",Germany,3.6,Expired
+36,Sani-Jayaraman,Germany,4.6,Expired
+37,"Chandra, D’Alia and Shah",Switzerland,4.4,Expired
+38,"Salvi, Gulati and Thaman",India,4.0,Expired
+39,Sheth Inc,India,3.9,Active
+40,Singh-Prabhakar,Switzerland,4.7,Active
+41,Varty Group,UK,4.6,Active
+42,Khosla-Hans,Switzerland,4.4,Expired
+43,Som-Sharma,Switzerland,4.2,Active
+44,Wagle-Sridhar,USA,4.5,Active
+45,"Mitra, Barad and Dewan",UK,3.7,Expired
+46,Borde-Rout,USA,3.8,Active
+47,Som-Sule,Germany,3.7,Expired
+48,"Gill, Kapadia and Wagle",UK,3.8,Expired
+49,Kothari PLC,Germany,4.2,Expired
+50,Dani Group,Germany,4.3,Expired
+51,Andra Group,Switzerland,4.4,Expired
+52,Kapur Group,USA,4.4,Expired
+53,Rao-Nazareth,Switzerland,3.6,Active
+54,"Singhal, Kothari and Amble",UK,3.8,Expired
+55,"Mannan, Devan and Bhardwaj",USA,3.5,Expired
+56,"Parekh, Chaudhari and Nath",UK,3.8,Active
+57,"Chowdhury, Sahni and Vig",USA,3.7,Active
+58,"Prabhakar, Bera and Dora",USA,4.7,Expired
+59,Dutt-Guha,UK,3.6,Expired
+60,Behl Ltd,Germany,4.1,Active
+61,Dhar Ltd,Germany,3.6,Expired
+62,Contractor Ltd,India,4.2,Expired
+63,Chand Ltd,Switzerland,3.9,Expired
+64,Dua Inc,Germany,3.7,Expired
+65,Prashad-Sur,India,3.9,Expired
+66,"Mitra, Trivedi and Dora",Switzerland,3.8,Expired
+67,Kade Inc,USA,4.5,Expired
+68,Talwar-Agarwal,India,4.5,Expired
+69,Raja-Lall,India,4.6,Expired
+70,Warrior PLC,Germany,3.7,Expired
+71,"Bandi, Bajwa and Prakash",UK,3.6,Active
+72,Atwal-Ganguly,Switzerland,4.2,Active
+73,Ahuja-Rout,UK,4.5,Expired
+74,"Pingle, Sunder and Murty",UK,4.8,Expired
+75,Baria-Raj,Switzerland,4.4,Active
+76,"Madan, Kanda and Balasubramanian",Germany,4.0,Expired
+77,Sabharwal Ltd,Germany,3.6,Expired
+78,Chakraborty-Pathak,Germany,3.7,Active
+79,"Sanghvi, Parekh and Gera",Germany,4.9,Expired
+80,Thaman and Sons,UK,3.5,Expired
+81,Hayer LLC,Switzerland,3.6,Expired
+82,Saraf and Sons,UK,3.8,Active
+83,"Hora, Korpal and Rama",UK,4.7,Active
+84,"Sawhney, Trivedi and Kadakia",Switzerland,4.2,Active
+85,"Mallick, Bath and Bala",UK,4.4,Expired
+86,Pai Group,UK,3.7,Expired
+87,"Bera, Mander and Chowdhury",UK,3.5,Active
+88,"Kibe, Tak and Viswanathan",USA,3.7,Active
+89,"Thaman, Lata and Khare",India,4.3,Expired
+90,"Gara, Mani and Majumdar",Switzerland,3.7,Expired
+91,Kalita LLC,USA,3.8,Active
+92,"Gaba, Lanka and Madan",Switzerland,3.8,Active
+93,Seshadri PLC,USA,3.5,Expired
+94,Yogi LLC,Switzerland,4.2,Active
+95,"Zachariah, Varughese and Raghavan",India,4.4,Active
+96,"Menon, Bhalla and Dhillon",UK,3.5,Expired
+97,Lad PLC,UK,4.8,Expired
+98,"Sehgal, Nagi and Chaudhary",Switzerland,4.8,Expired
+99,"Dalal, Sani and Bansal",India,4.8,Expired
+100,"Pillai, Dhingra and Andra",Germany,4.7,Expired
+101,Issac-Choudhry,Germany,4.7,Active
+102,Sandhu and Sons,Switzerland,3.9,Expired
+103,"Grover, Chatterjee and Rastogi",Germany,4.3,Active
+104,"Lall, Srinivas and Chaudhary",Germany,4.4,Active
+105,"Zachariah, Kota and Sachdeva",USA,4.6,Expired
+106,Narain Ltd,USA,3.7,Active
+107,Rout-Nagarajan,India,3.7,Expired
+108,"Chacko, Dey and Mani",India,4.1,Expired
+109,"Chaudhari, Dugar and Ratti",Germany,4.7,Expired
+110,"Tara, Batta and Wagle",Switzerland,4.5,Expired
+111,Dhingra and Sons,Switzerland,4.4,Expired
+112,Chakraborty-Majumdar,UK,3.9,Expired
+113,"Kalla, Nigam and Memon",Switzerland,4.5,Active
+114,"Shah, Basak and Balay",USA,3.6,Active
+115,Chaudhuri-Bhat,Germany,4.8,Active
+116,Ganesan-Ratta,Germany,3.8,Expired
+117,Chowdhury Ltd,Germany,4.1,Expired
+118,Bains-Rai,Germany,4.6,Active
+119,Oak-Ratta,Switzerland,3.8,Expired
+120,"Krishna, Hari and Banerjee",UK,3.7,Active
+121,"Sur, Hayer and Nayar",UK,3.7,Active
+122,Jayaraman Inc,UK,3.5,Active
+123,"Krishnan, Shukla and Krishnan",USA,4.3,Active
+124,"Sandhu, Sachar and Bora",USA,3.9,Active
+125,Rout Ltd,India,3.6,Active
+126,Dugal-Rajan,Germany,4.4,Expired
+127,"Dubey, Tara and Chhabra",UK,4.6,Expired
+128,Din PLC,Switzerland,4.4,Active
+129,Srivastava Group,India,4.9,Active
+130,Sahni Inc,USA,4.5,Active
+131,"Mishra, Nair and Atwal",UK,3.8,Expired
+132,"Char, Shenoy and Arora",India,4.6,Active
+133,Misra and Sons,UK,3.7,Expired
+134,"Golla, Walia and Saran",India,3.5,Expired
+135,"Dugal, Tak and Dugar",India,3.6,Expired
+136,"Chaudry, Krishnan and Sankaran",India,3.6,Expired
+137,Ganguly and Sons,USA,3.7,Active
+138,Gokhale Group,Switzerland,4.6,Active
+139,Deo Ltd,Switzerland,3.6,Active
+140,Sood Inc,Germany,3.8,Active
+141,Narula-Chander,India,3.7,Expired
+142,Sahni-Kata,USA,4.0,Expired
+143,"Varty, Boase and Kunda",Germany,4.2,Active
+144,Saran Inc,UK,4.4,Expired
+145,"Banerjee, Grover and Devi",Switzerland,3.7,Active
+146,Sethi-Balay,Switzerland,4.5,Expired
+147,Pall-Naidu,Switzerland,3.6,Expired
+148,"Ravel, Raval and Morar",Switzerland,4.2,Expired
+149,"Date, Dhaliwal and Choudhry",Germany,4.5,Expired
+150,Mani-Narang,India,4.0,Expired
+151,Mani PLC,Germany,4.6,Expired
+152,Gokhale-Dey,Switzerland,3.7,Expired
+153,Zachariah LLC,USA,4.3,Active
+154,Prabhakar Ltd,India,4.5,Active
+155,"Badami, Rout and Dutta",Switzerland,4.0,Expired
+156,Sharaf-Raval,Germany,4.4,Expired
+157,"Narain, Swamy and Pathak",USA,3.7,Expired
+158,Agarwal-Thaman,USA,4.7,Expired
+159,Ahuja-Baria,UK,4.5,Expired
+160,"Sarna, Vasa and Dutta",Switzerland,4.3,Expired
+161,"De, Subramaniam and Seth",USA,4.0,Expired
+162,"Kurian, Kar and Nayar",India,4.1,Active
+163,"Mammen, Nanda and Prabhu",India,4.1,Active
+164,Solanki-Behl,India,4.8,Active
+165,Shenoy LLC,USA,4.6,Expired
+166,Bail Inc,USA,4.4,Active
+167,Garde-Lata,Germany,4.8,Expired
+168,Menon-Bhattacharyya,USA,4.7,Active
+169,"Anand, Buch and Arya",Germany,4.4,Active
+170,"Keer, Shankar and Sharma",UK,3.7,Expired
+171,"Deo, Sibal and Barman",India,4.4,Active
+172,Wable Ltd,USA,4.3,Active
+173,Khosla Ltd,India,4.6,Expired
+174,Pingle Ltd,Switzerland,4.2,Expired
+175,Sehgal Group,Switzerland,4.3,Active
+176,Gala Inc,Switzerland,4.7,Expired
+177,"Kannan, Varma and Tailor",India,3.6,Active
+178,"Bala, Kalita and Sinha",USA,4.7,Expired
+179,Batra-Kaur,UK,4.5,Active
+180,Bhatia LLC,India,3.7,Active
+181,Gola-Krishnamurthy,UK,4.9,Expired
+182,"Saxena, Kade and Bhargava",Switzerland,3.6,Active
+183,Sood-Lata,India,4.2,Expired
+184,Chaudhuri-Patla,USA,3.8,Active
+185,Ganesh PLC,UK,4.5,Active
+186,Badal and Sons,UK,4.8,Expired
+187,"Chauhan, Ramanathan and Dhar",Germany,4.1,Expired
+188,"Pillai, Nair and Bhardwaj",Switzerland,4.9,Expired
+189,Bhat-Kothari,UK,3.6,Active
+190,Swaminathan LLC,UK,4.8,Expired
+191,Chada-Bir,UK,4.6,Expired
+192,"Rout, Bala and Prakash",India,4.1,Active
+193,Tank-Kamdar,India,4.4,Active
+194,"Aurora, Ramanathan and Khalsa",India,4.7,Active
+195,Sandal-Kala,Germany,3.8,Active
+196,Tandon-Kanda,Switzerland,4.7,Expired
+197,Handa Inc,Switzerland,4.4,Active
+198,Behl Ltd,USA,4.0,Expired
+199,Reddy LLC,UK,4.3,Active
+200,Hayre Ltd,UK,4.8,Active
+201,Bansal LLC,UK,4.4,Active
+202,"Chokshi, Sarraf and Minhas",USA,4.1,Expired
+203,Dash-Jhaveri,Germany,4.0,Active
+204,"Goel, Dasgupta and Sha",India,4.6,Active
+205,Kala-Choudhary,Germany,4.9,Expired
+206,"Narang, Baria and Sant",India,3.9,Expired
+207,Rau-Narayanan,Switzerland,4.4,Active
+208,"Chand, Narang and Chadha",USA,4.5,Active
+209,Sane LLC,Switzerland,4.9,Active
+210,Shukla Ltd,UK,3.8,Active
+211,"Kanda, Ravi and Vasa",Germany,4.0,Expired
+212,Goswami Group,Germany,4.2,Expired
+213,Mander Group,Switzerland,4.6,Active
+214,Bajaj-Virk,India,4.1,Active
+215,Char-Rege,Switzerland,4.3,Expired
+216,Sha-Sawhney,Switzerland,4.8,Active
+217,Bora Ltd,UK,4.3,Expired
+218,Kaul LLC,UK,4.4,Active
+219,"Dalal, Suri and Trivedi",Germany,4.6,Expired
+220,Chandran Group,India,4.7,Active
+221,Munshi Inc,Switzerland,3.6,Expired
+222,Samra-Kara,USA,4.3,Active
+223,"Chaudry, Dey and Raman",India,4.7,Active
+224,Yadav-Madan,Germany,4.1,Active
+225,Shetty-Panchal,UK,4.6,Expired
+226,"Prashad, Ramanathan and Naidu",USA,4.7,Active
+227,"Palla, Jaggi and Keer",UK,3.5,Expired
+228,Bhargava Group,UK,4.4,Active
+229,Bal-Gokhale,Germany,3.8,Active
+230,Gola PLC,Switzerland,3.9,Expired
+231,"Raval, Apte and Karnik",Switzerland,4.6,Expired
+232,Hari-Rattan,Switzerland,3.9,Active
+233,Bala Inc,India,4.7,Expired
+234,Mallick-Pall,UK,4.9,Expired
+235,Ramachandran-Boase,USA,4.5,Expired
+236,Mutti PLC,USA,4.5,Active
+237,Raja Inc,USA,4.3,Active
+238,Nagy and Sons,Switzerland,4.2,Expired
+239,"Butala, Gara and Gopal",Switzerland,4.1,Active
+240,Johal PLC,Switzerland,3.5,Active
+241,Sarma Group,Switzerland,4.5,Active
+242,Oza-Ghose,USA,4.2,Active
+243,Din PLC,Switzerland,4.2,Expired
+244,Mohanty-Ray,UK,4.8,Expired
+245,Mishra-Khalsa,Germany,4.2,Expired
+246,Vora Inc,India,4.3,Active
+247,"Pall, Kota and Samra",USA,4.8,Expired
+248,Amble-Bail,Switzerland,3.7,Active
+249,Sarin and Sons,Switzerland,4.9,Expired
+250,Atwal-Tiwari,Switzerland,3.6,Expired
+251,Borde-Lad,UK,4.7,Active
+252,"Pillay, Dalal and Gill",Germany,4.0,Expired
+253,Mittal Group,India,3.5,Active
+254,Buch Ltd,UK,4.6,Expired
+255,Mangal Group,Switzerland,4.9,Active
+256,Bahl-Reddy,UK,4.7,Active
+257,Keer Ltd,USA,4.8,Active
+258,"Kapoor, Sagar and Gokhale",Switzerland,4.3,Expired
+259,"Borde, Barman and Vora",India,3.5,Expired
+260,Johal PLC,India,4.1,Active
+261,"Sama, Narula and Rout",Germany,3.9,Expired
+262,Peri-Nayak,Switzerland,4.7,Active
+263,"Kalla, Bajwa and Devan",Germany,4.3,Expired
+264,Singhal-Dugar,UK,4.9,Active
+265,"Sathe, Suresh and Kata",Germany,4.2,Expired
+266,Kumer-Ramanathan,UK,3.7,Active
+267,Bahl LLC,Switzerland,4.2,Expired
+268,Tara Group,UK,3.7,Active
+269,"Brahmbhatt, Sampath and Narang",India,4.4,Expired
+270,Srivastava Inc,Switzerland,4.0,Expired
+271,"Nayak, Pant and Arya",India,3.7,Expired
+272,"Bora, Mishra and Tara",Switzerland,4.3,Active
+273,Dora-Kakar,USA,4.1,Active
+274,Shere PLC,USA,3.7,Active
+275,Raghavan Inc,India,3.8,Active
+276,Bakshi-Dora,Germany,3.9,Expired
+277,Vora Ltd,Switzerland,4.4,Active
+278,Chowdhury Ltd,USA,3.7,Active
+279,"Boase, Mukhopadhyay and Konda",Germany,4.0,Expired
+280,"Mangat, Garg and Khatri",USA,4.7,Active
+281,Chakraborty Ltd,USA,4.5,Expired
+282,Kant-Pai,India,4.6,Active
+283,"Varughese, Bal and Kuruvilla",Germany,4.5,Active
+284,Murthy LLC,India,4.5,Expired
+285,"Saxena, Chad and Handa",UK,4.6,Expired
+286,Rau Group,Germany,4.5,Expired
+287,Choudhary-Venkatesh,India,4.5,Active
+288,Majumdar Ltd,UK,4.6,Active
+289,"Borah, Baral and Kashyap",Switzerland,4.0,Active
+290,Chand-Kapur,Germany,4.1,Expired
+291,Ahluwalia-Chowdhury,India,4.0,Expired
+292,Buch and Sons,UK,3.8,Expired
+293,Pandit Ltd,USA,4.8,Active
+294,"Rai, Apte and Koshy",Germany,3.6,Expired
+295,Chauhan-Ram,India,3.9,Expired
+296,"Prabhu, Baria and Sengupta",Germany,4.5,Active
+297,Balakrishnan-Ravi,UK,4.2,Expired
+298,Subramaniam Inc,Switzerland,4.3,Expired
+299,"Chada, Soni and Gandhi",Germany,4.3,Active
+300,Manne LLC,Germany,3.5,Expired

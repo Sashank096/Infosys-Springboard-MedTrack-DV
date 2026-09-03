@@ -1,0 +1,10 @@
+test_id,test_name,test_category,standard_cost,department_id
+1,X-Ray Chest,Radiology,1328,7
+2,CT Scan Brain,Radiology,4852,7
+3,MRI Spine,Radiology,3541,7
+4,Ultrasound Abdomen,Radiology,1665,7
+5,Complete Blood Count,Pathology,4257,8
+6,Blood Sugar,Pathology,2770,8
+7,Liver Function Test,Pathology,924,8
+8,Kidney Function Test,Pathology,4440,8
+9,Lipid Profile,Pathology,2796,8

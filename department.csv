@@ -1,0 +1,12 @@
+department_id,department_name,department_type,floor_number,status
+1,Emergency,Clinical,0,Active
+2,Internal Medicine,Clinical,2,Active
+3,Surgery,Clinical,3,Active
+4,Pediatrics,Clinical,2,Active
+5,Orthopedics,Clinical,4,Active
+6,ICU,Clinical,1,Active
+7,Radiology,Diagnostic,1,Active
+8,Pathology,Diagnostic,1,Active
+9,Pharmacy,Admin,0,Active
+10,Billing,Admin,0,Active
+11,HR,Admin,0,Active

@@ -1,0 +1,28 @@
+ward_id,ward_name,ward_type,total_beds,department_id
+1,Emergency Ward 1,General,10,1
+2,Emergency Ward 2,Private,15,1
+3,Emergency Ward 3,General,10,1
+4,Emergency Ward 4,General,20,1
+5,Emergency Ward 5,General,20,1
+6,Internal Medicine Ward 1,Private,10,2
+7,Internal Medicine Ward 2,Private,15,2
+8,Internal Medicine Ward 3,General,10,2
+9,Internal Medicine Ward 4,General,10,2
+10,Internal Medicine Ward 5,General,20,2
+11,Surgery Ward 1,General,20,3
+12,Surgery Ward 2,General,20,3
+13,Surgery Ward 3,Private,20,3
+14,Surgery Ward 4,Private,15,3
+15,Surgery Ward 5,General,15,3
+16,Pediatrics Ward 1,Semi-Private,10,4
+17,Pediatrics Ward 2,General,20,4
+18,Pediatrics Ward 3,Semi-Private,15,4
+19,Pediatrics Ward 4,Semi-Private,10,4
+20,Pediatrics Ward 5,General,15,4
+21,Orthopedics Ward 1,General,15,5
+22,Orthopedics Ward 2,General,15,5
+23,Orthopedics Ward 3,Semi-Private,20,5
+24,ICU Ward 1,ICU,10,6
+25,ICU Ward 2,ICU,20,6
+26,ICU Ward 3,ICU,15,6
+27,ICU Ward 4,ICU,20,6

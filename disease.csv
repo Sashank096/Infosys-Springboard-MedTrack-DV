@@ -1,0 +1,21 @@
+disease_id,disease_name,disease_category
+1,Acute Myocardial Infarction,Cardiac
+2,Stroke,Neurological
+3,Road Traffic Accident,Trauma
+4,Sepsis,Infectious
+5,Acute Respiratory Distress,Respiratory
+6,Diabetes Mellitus,Endocrine
+7,Hypertension,Cardiac
+8,Chronic Kidney Disease,Renal
+9,Chronic Obstructive Pulmonary Disease,Respiratory
+10,Anemia,Hematological
+11,Fracture Femur,Orthopedic
+12,Appendicitis,Surgical
+13,Gallstones,Surgical
+14,Hernia,Surgical
+15,Pneumonia,Pediatric
+16,Neonatal Jaundice,Pediatric
+17,Urinary Tract Infection,Infectious
+18,Viral Fever,Infectious
+19,COVID-19,Infectious
+20,Tuberculosis,Infectious

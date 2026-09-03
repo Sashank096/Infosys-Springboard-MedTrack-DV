@@ -1,0 +1,99 @@
+doctor_id,employee_id,specialization,qualification,experience_years
+1,3,Orthopedics,DM,31
+2,9,Pediatrics,MS,7
+3,13,Neurology,MS,21
+4,25,Surgery,MS,25
+5,26,Neurology,MBBS,5
+6,29,Orthopedics,MD,17
+7,31,General Medicine,MS,24
+8,33,Pulmonology,MBBS,12
+9,48,Pulmonology,MBBS,1
+10,51,Pediatrics,MS,6
+11,57,General Medicine,MS,25
+12,61,Pulmonology,MS,26
+13,70,General Medicine,MS,31
+14,73,Cardiology,MD,13
+15,74,General Medicine,DM,22
+16,75,Pulmonology,MS,29
+17,77,Nephrology,MBBS,34
+18,82,ICU,MD,4
+19,92,ICU,DM,3
+20,96,Pulmonology,DM,10
+21,107,Neurology,MS,24
+22,110,Orthopedics,DM,21
+23,117,Surgery,MS,1
+24,120,Orthopedics,MS,19
+25,128,Surgery,DM,18
+26,145,Nephrology,MBBS,21
+27,151,Orthopedics,MBBS,11
+28,152,Pulmonology,MS,1
+29,157,General Medicine,DM,31
+30,165,Cardiology,DM,21
+31,166,Pediatrics,MBBS,10
+32,171,Orthopedics,DM,5
+33,176,ICU,DM,28
+34,184,Cardiology,DM,11
+35,185,Neurology,MS,14
+36,187,ICU,MD,3
+37,189,General Medicine,MBBS,8
+38,193,ICU,MD,19
+39,197,General Medicine,MBBS,14
+40,204,Neurology,MD,35
+41,206,Pulmonology,DM,35
+42,207,Cardiology,DM,28
+43,212,ICU,MS,18
+44,213,ICU,MD,14
+45,219,General Medicine,MD,15
+46,225,Pediatrics,MBBS,5
+47,227,Cardiology,DM,9
+48,228,Orthopedics,DM,23
+49,232,Neurology,MS,22
+50,233,Neurology,DM,14
+51,244,Nephrology,DM,3
+52,249,Orthopedics,DM,3
+53,250,General Medicine,MBBS,23
+54,253,Orthopedics,MBBS,14
+55,255,Neurology,DM,4
+56,262,Neurology,MBBS,10
+57,265,ICU,MBBS,2
+58,283,Nephrology,DM,31
+59,291,Surgery,MD,25
+60,301,Pulmonology,MD,32
+61,319,Cardiology,MBBS,13
+62,321,Cardiology,MS,16
+63,327,Nephrology,MS,32
+64,337,Pediatrics,MBBS,29
+65,346,Surgery,DM,2
+66,356,Nephrology,DM,30
+67,359,Cardiology,MS,31
+68,360,Neurology,MS,28
+69,362,Cardiology,MD,28
+70,364,Neurology,MBBS,23
+71,368,Neurology,MBBS,10
+72,372,Pulmonology,MS,8
+73,379,Nephrology,DM,3
+74,381,Pediatrics,MD,1
+75,387,General Medicine,MS,24
+76,393,Nephrology,MBBS,3
+77,396,Cardiology,DM,27
+78,397,ICU,DM,26
+79,398,Pulmonology,MS,33
+80,407,General Medicine,MBBS,31
+81,409,Surgery,MS,26
+82,413,Orthopedics,DM,8
+83,422,Pediatrics,MS,2
+84,425,Pediatrics,MBBS,15
+85,428,Cardiology,DM,19
+86,436,ICU,MS,35
+87,449,Pediatrics,DM,15
+88,455,General Medicine,MS,7
+89,468,ICU,MBBS,23
+90,472,ICU,MBBS,22
+91,473,Pulmonology,DM,12
+92,484,Neurology,MBBS,15
+93,486,Pediatrics,MD,31
+94,488,Neurology,DM,34
+95,493,Cardiology,DM,25
+96,494,Orthopedics,MBBS,6
+97,497,General Medicine,MBBS,17
+98,498,Nephrology,DM,7

@@ -1,0 +1,251 @@
+drug_id,drug_name,brand_name,drug_category,unit_cost,manufacturer_id
+1,Earum,Arora-Pandya,Antibiotic,252,44
+2,Minus,"Bhakta, Dass and Chakraborty",Antipyretic,243,240
+3,Dolore,Kala Inc,Analgesic,13,215
+4,Neque,"Bhargava, Andra and Nath",Antacid,356,7
+5,Tempore,Lalla-Char,Antihypertensive,359,113
+6,Eius,Srinivasan-Gole,Vitamin,233,282
+7,Incidunt,Subramanian-Srinivasan,Steroid,179,56
+8,Quis,Tak-Loyal,Antidiabetic,436,288
+9,Rem,Sen-Gopal,Antihypertensive,21,284
+10,Nostrum,"Dutt, Doshi and Nagar",Antacid,373,13
+11,Incidunt,Ramachandran Group,Analgesic,81,116
+12,Eligendi,Modi Ltd,Antidiabetic,121,108
+13,Commodi,"Mohan, Handa and Verma",Antibiotic,99,182
+14,Sapiente,Vyas-Bera,Antibiotic,187,230
+15,Pariatur,Krishnan-Sarna,Antidiabetic,215,23
+16,Tempora,Purohit Group,Analgesic,295,207
+17,Officiis,Anne-Nadig,Steroid,392,34
+18,Aut,"Kara, Rastogi and Sachdev",Analgesic,124,262
+19,Officiis,Raval-Mannan,Antipyretic,285,119
+20,Quia,"Raval, Ratti and Shetty",Analgesic,498,193
+21,Iusto,"Jhaveri, Shere and Dutta",Vitamin,440,178
+22,Maxime,Naik-Deshpande,Antidiabetic,81,79
+23,Voluptas,Mallick-Ratti,Antibiotic,178,163
+24,Deserunt,Panchal-Prakash,Analgesic,83,52
+25,Reprehenderit,"Chaudry, Dubey and Chaudhuri",Vitamin,99,142
+26,Delectus,Sethi-Nadig,Vitamin,193,43
+27,Suscipit,"Kar, Mani and Dasgupta",Antipyretic,62,155
+28,Ad,"Parekh, Sane and Dalal",Antidiabetic,445,235
+29,Harum,Ganesh Group,Analgesic,480,93
+30,Quibusdam,"Dugar, Hayre and Parsa",Antihypertensive,104,132
+31,Fugiat,Seth-Khosla,Antipyretic,221,197
+32,Similique,Nagi-Baral,Analgesic,54,207
+33,Corporis,Vala-Koshy,Antipyretic,313,12
+34,Iste,Dass PLC,Antihypertensive,396,21
+35,Omnis,Balan PLC,Antihypertensive,412,162
+36,Sed,"Kapoor, Chakrabarti and Sekhon",Steroid,267,220
+37,Doloribus,Tandon LLC,Analgesic,171,203
+38,Id,"Ravi, Hari and Sengupta",Antibiotic,57,253
+39,Labore,Wable-Goswami,Vitamin,64,244
+40,Ipsa,Pandit-Kale,Vitamin,120,212
+41,Doloremque,Sani Group,Vitamin,401,197
+42,Unde,Muni and Sons,Antibiotic,106,70
+43,Fuga,"Shukla, Parekh and Nagar",Antibiotic,159,149
+44,Fugit,Sachdeva-Sandhu,Antacid,248,99
+45,Nostrum,Rout and Sons,Antipyretic,184,238
+46,Unde,Kurian and Sons,Antidiabetic,47,128
+47,Aperiam,"Balakrishnan, Hora and Borde",Antacid,476,171
+48,Excepturi,Ghose and Sons,Analgesic,164,173
+49,Explicabo,Gaba LLC,Antibiotic,24,227
+50,Officiis,Patla and Sons,Antibiotic,315,93
+51,Possimus,Wali and Sons,Analgesic,406,193
+52,Ut,"Nori, Bansal and Ramachandran",Analgesic,211,80
+53,Sint,"Badami, Nayar and Rau",Antacid,404,124
+54,Dolor,Chaudhari-Srinivasan,Vitamin,455,98
+55,Ab,"Kari, Nath and Suri",Antidiabetic,82,16
+56,Placeat,Som Ltd,Analgesic,64,76
+57,Exercitationem,"Chandran, Tata and Gera",Analgesic,396,203
+58,Dolorum,Cheema-Padmanabhan,Antibiotic,415,232
+59,Molestiae,"Prabhu, Prakash and Gola",Vitamin,236,256
+60,Sint,Parsa-Reddy,Antihypertensive,266,58
+61,Ipsa,Borah-Subramanian,Vitamin,119,292
+62,Quam,Chana Inc,Antibiotic,92,248
+63,Molestiae,Bala-Kumar,Analgesic,181,181
+64,Totam,"Bassi, Grewal and Om",Antidiabetic,113,42
+65,Tempore,"Naidu, Badami and Padmanabhan",Antipyretic,84,100
+66,Illum,"Comar, Sankar and Rama",Antacid,75,39
+67,Dolore,Chad-Bir,Antibiotic,351,20
+68,In,Gera-Sengupta,Antidiabetic,428,121
+69,Minus,"Butala, Tata and Devi",Vitamin,194,51
+70,Nam,Dhar-Chakrabarti,Antacid,290,261
+71,Dolore,Balay Inc,Antipyretic,405,241
+72,Aliquam,Mall PLC,Steroid,383,246
+73,Odit,Datta-Choudhry,Analgesic,317,261
+74,Voluptatum,Jain LLC,Antibiotic,346,119
+75,Iure,"Mander, Sridhar and Kashyap",Vitamin,40,227
+76,Dicta,"Naik, Shah and Dutta",Steroid,68,129
+77,Error,Zachariah-Loke,Analgesic,481,2
+78,Architecto,Banik and Sons,Antacid,52,153
+79,Nam,"Gupta, Keer and Korpal",Analgesic,158,132
+80,Itaque,Amble PLC,Antipyretic,14,179
+81,Voluptatibus,Seth Group,Steroid,400,135
+82,Perferendis,Kala-Varughese,Antibiotic,440,68
+83,Voluptates,Sethi-Ghose,Analgesic,167,219
+84,Quaerat,Tank LLC,Steroid,458,203
+85,Perferendis,Chander Group,Steroid,48,231
+86,Quaerat,Zachariah PLC,Antihypertensive,222,104
+87,Sapiente,Munshi-Tailor,Antacid,16,11
+88,Architecto,Nazareth Ltd,Antipyretic,258,286
+89,Rerum,Zacharia LLC,Antibiotic,121,93
+90,Natus,Kata PLC,Antipyretic,482,132
+91,Harum,Chaudhry-Ghosh,Antacid,439,81
+92,Vero,Batta Ltd,Antacid,95,82
+93,Error,Boase-Basu,Antidiabetic,40,270
+94,Maxime,Sarin and Sons,Antacid,61,284
+95,Repellat,"Shroff, Patla and Saha",Antidiabetic,460,288
+96,Expedita,Bala-Tandon,Analgesic,269,113
+97,Excepturi,Rajagopalan-Sunder,Steroid,281,289
+98,Ad,Kara-Shenoy,Antacid,483,114
+99,Impedit,Dave Group,Antibiotic,371,116
+100,Modi,Chahal Ltd,Vitamin,206,179
+101,Et,Dixit-Ranganathan,Analgesic,429,253
+102,Ut,Chander-Salvi,Vitamin,21,90
+103,Nostrum,"Sengupta, Ray and Dhawan",Antihypertensive,306,191
+104,Explicabo,Das-Bhakta,Vitamin,28,97
+105,Quod,"Sodhi, Goyal and Om",Antihypertensive,332,197
+106,Nam,Doshi LLC,Antibiotic,113,175
+107,Maxime,"Mander, Chadha and Lala",Analgesic,61,172
+108,Iusto,De-Sheth,Antipyretic,428,44
+109,Repudiandae,Batta Inc,Antihypertensive,131,96
+110,In,Kakar Ltd,Analgesic,317,266
+111,Vel,Pandit LLC,Antihypertensive,30,48
+112,Praesentium,Ghosh-Wali,Antipyretic,406,200
+113,Minima,"Madan, Panchal and Basu",Antipyretic,403,265
+114,Enim,Nagarajan Group,Antacid,392,189
+115,Sit,"Ramanathan, Mitter and Anne",Antipyretic,84,155
+116,A,Majumdar-Dugar,Antacid,194,218
+117,Magni,"Anand, Tandon and Anne",Analgesic,296,116
+118,Vitae,"Naik, Parsa and Puri",Antibiotic,197,275
+119,Perspiciatis,Guha Group,Antidiabetic,232,126
+120,Maxime,"Korpal, Sarraf and Bal",Antihypertensive,295,106
+121,Dolorem,Chhabra Group,Antidiabetic,495,225
+122,Odio,Dalal-Taneja,Analgesic,10,179
+123,Similique,"Butala, Pillay and Krishnamurthy",Antacid,57,226
+124,At,Mistry LLC,Steroid,159,109
+125,Facere,Sheth LLC,Analgesic,327,252
+126,Sequi,"Sachar, Tella and Rege",Antidiabetic,56,13
+127,Earum,Mallick LLC,Antibiotic,435,214
+128,Ipsa,Pillai PLC,Antacid,233,222
+129,Nostrum,"Prabhakar, Kulkarni and Chandran",Antacid,128,74
+130,Officia,"Varty, Cherian and Aurora",Antihypertensive,413,225
+131,Hic,Bajwa and Sons,Antacid,69,32
+132,Eos,"Sachdev, Wadhwa and Karan",Antipyretic,166,207
+133,Veniam,"Gara, Bora and Shah",Antidiabetic,174,239
+134,Accusantium,Sandal-Nayar,Antibiotic,421,51
+135,Est,Mani and Sons,Vitamin,56,91
+136,Asperiores,"Chokshi, Pradhan and Bhattacharyya",Antipyretic,246,111
+137,Optio,Kibe-Iyer,Antibiotic,272,172
+138,Assumenda,Tak-Mitter,Antihypertensive,383,243
+139,Nesciunt,Thaman PLC,Antibiotic,323,259
+140,Dicta,Chakrabarti Group,Steroid,104,31
+141,Maiores,Kakar-Som,Antipyretic,199,188
+142,Assumenda,Mann Ltd,Antidiabetic,199,3
+143,Facere,"Chanda, Bansal and Kuruvilla",Antihypertensive,18,269
+144,Temporibus,"Cherian, Dass and Murty",Antacid,136,5
+145,Itaque,"Sarkar, Sami and Cheema",Steroid,10,18
+146,Adipisci,"Raghavan, Chauhan and Gera",Vitamin,366,277
+147,Temporibus,"Dubey, Raja and Behl",Antidiabetic,253,174
+148,Atque,Krish-Varughese,Vitamin,389,198
+149,Tenetur,"Nori, Krishnamurthy and Vala",Antihypertensive,424,168
+150,Repellat,"Patel, Bajwa and Kala",Antihypertensive,259,209
+151,Vero,Sibal-Loke,Analgesic,140,176
+152,Corrupti,"Purohit, Tandon and Soni",Antibiotic,355,49
+153,Beatae,Prabhakar Group,Steroid,328,119
+154,Quaerat,Tailor PLC,Antihypertensive,340,201
+155,Vero,"Ramakrishnan, Sekhon and Bhasin",Vitamin,290,238
+156,Vitae,"Rattan, Rege and Magar",Antidiabetic,78,14
+157,Quibusdam,Deshmukh-Wason,Vitamin,334,78
+158,Eaque,"Sangha, Arora and Kunda",Antihypertensive,234,300
+159,Nostrum,Narain-Chopra,Antibiotic,442,98
+160,Delectus,"Deshpande, Handa and Nath",Steroid,307,87
+161,Magni,Lal Ltd,Vitamin,327,97
+162,Ipsam,Behl Inc,Antacid,369,241
+163,Sint,"Shanker, Virk and Rajagopal",Analgesic,182,62
+164,Corrupti,Buch LLC,Antacid,105,34
+165,Nisi,"Lall, Sarraf and Chokshi",Antacid,167,215
+166,Excepturi,"Karpe, Rattan and Sur",Steroid,195,256
+167,Quod,Sarna-Mand,Antipyretic,382,188
+168,Corporis,Kohli PLC,Antibiotic,170,153
+169,Officiis,Ganesan-Kumar,Analgesic,24,135
+170,Iusto,"Issac, Kumer and Garg",Antipyretic,287,285
+171,Eligendi,"Natt, Sen and Dhar",Antacid,197,34
+172,Aspernatur,Chadha Inc,Antacid,163,154
+173,Quas,"Sanghvi, Dhingra and Chahal",Antidiabetic,415,263
+174,In,Edwin-Ratti,Vitamin,368,194
+175,Ipsam,Rajan Ltd,Steroid,317,260
+176,Voluptas,Toor PLC,Steroid,438,124
+177,Inventore,Srinivas-Mann,Steroid,275,108
+178,Natus,Sekhon-Subramanian,Analgesic,67,281
+179,Praesentium,Hegde-Thaman,Antacid,216,94
+180,Quidem,Sodhi-Contractor,Vitamin,410,293
+181,Itaque,"Mall, Saha and Chauhan",Vitamin,340,110
+182,Perspiciatis,Dada-Soman,Steroid,35,253
+183,Voluptates,Raval Group,Steroid,438,205
+184,Aspernatur,Bhatia-Handa,Antidiabetic,125,180
+185,Quae,"Mahal, Gade and Wali",Vitamin,144,11
+186,Inventore,Andra-Ravi,Analgesic,67,273
+187,Labore,Garde-Khatri,Antidiabetic,407,221
+188,Dolores,Hegde Group,Antihypertensive,484,273
+189,Iusto,Vohra-Palla,Antidiabetic,68,113
+190,Eius,Sawhney-Thakur,Antacid,277,30
+191,Exercitationem,"Rana, Nazareth and Choudhury",Antacid,298,245
+192,Odio,Ganesan-Reddy,Antibiotic,247,118
+193,Quis,Khare-Nadig,Antibiotic,68,101
+194,Harum,Ghosh PLC,Vitamin,465,153
+195,Laboriosam,"Rastogi, Kadakia and Rama",Antipyretic,350,258
+196,Ea,"Mahajan, Wali and Natarajan",Steroid,318,260
+197,Nobis,Thakur LLC,Antihypertensive,52,16
+198,Debitis,Atwal-Dave,Antihypertensive,208,85
+199,Id,Amble-Chaudhary,Steroid,128,83
+200,Explicabo,Banerjee-Agarwal,Steroid,451,278
+201,Officiis,Yadav PLC,Antacid,483,57
+202,Nulla,"Kapadia, Pathak and Tella",Antibiotic,65,291
+203,Sint,Seshadri-Sachdev,Analgesic,449,195
+204,Molestiae,"Saraf, Palan and Soni",Vitamin,362,12
+205,Rem,"Boase, Sabharwal and Dave",Analgesic,450,108
+206,Aliquid,"Chopra, Hayer and Tailor",Antacid,441,154
+207,Aliquid,Shah-Johal,Antidiabetic,401,248
+208,Iste,Jayaraman-Parekh,Antidiabetic,409,248
+209,Numquam,"Sahota, Andra and Krishnamurthy",Steroid,252,200
+210,Cum,"Chopra, Raja and Ganguly",Antihypertensive,147,74
+211,Consequatur,Jaggi Ltd,Antihypertensive,462,98
+212,Reiciendis,Gandhi and Sons,Antacid,54,287
+213,Doloribus,Desai and Sons,Antacid,340,220
+214,Quas,Bath-Acharya,Analgesic,333,189
+215,Vel,Kunda LLC,Vitamin,178,279
+216,Distinctio,"Handa, Bawa and Mohanty",Steroid,172,300
+217,Numquam,Aggarwal-Gala,Antipyretic,207,24
+218,Minus,Pall-Pall,Antidiabetic,152,94
+219,Odit,Venkatesh-Mitter,Analgesic,438,112
+220,Eius,"Chaudry, Ravel and Edwin",Analgesic,296,238
+221,Reprehenderit,Rastogi-Prabhakar,Antibiotic,211,220
+222,Eius,"Kara, Agarwal and Hora",Vitamin,388,187
+223,Alias,Buch Group,Steroid,270,137
+224,Deserunt,De PLC,Analgesic,498,296
+225,Corrupti,Ranganathan PLC,Antipyretic,215,274
+226,Temporibus,"Mane, Hegde and Sagar",Antibiotic,360,47
+227,Voluptate,Som-Anne,Analgesic,260,194
+228,Magnam,Anand-Kalita,Steroid,186,80
+229,Saepe,"Merchant, Chad and Garg",Antihypertensive,65,5
+230,Voluptatibus,"Gera, Kohli and Badal",Antibiotic,226,235
+231,Quasi,Varty-Sama,Steroid,229,265
+232,Voluptas,Tata-Ramachandran,Antidiabetic,396,102
+233,Odit,Buch-Anand,Antidiabetic,446,259
+234,Eligendi,Deep-Sarraf,Antibiotic,392,183
+235,Ducimus,Magar-Parmar,Antihypertensive,169,201
+236,Quos,Kumar-Mohan,Steroid,353,80
+237,Fugit,"Sem, Pillay and Desai",Antacid,192,93
+238,Sint,Mangat Group,Steroid,63,147
+239,Harum,"Om, Nayar and Bala",Antipyretic,457,207
+240,Quo,"Pant, Koshy and Sastry",Analgesic,137,184
+241,Iste,"Prabhakar, Baria and Cherian",Antidiabetic,116,218
+242,Ducimus,Mangal Ltd,Antipyretic,267,300
+243,Nam,"Hans, Menon and Majumdar",Antacid,199,259
+244,Voluptates,"Pathak, Kapadia and Sarna",Antipyretic,88,210
+245,Non,Seth-Kalla,Antacid,199,64
+246,A,"Chada, Ahuja and Kala",Analgesic,337,149
+247,Quisquam,"Warrior, Bhat and Maharaj",Antipyretic,19,223
+248,Nostrum,Shetty LLC,Antihypertensive,483,140
+249,Inventore,Tailor-Muni,Analgesic,391,145
+250,Minus,Lala-Krishna,Antihypertensive,234,287
