@@ -17,7 +17,7 @@ for the full field-by-field mapping.
 import pandas as pd
 import numpy as np
 
-RAW = "raw_source"
+RAW = "."
 OUT = "."
 
 # ---------------------------------------------------------------------------
