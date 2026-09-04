@@ -1,8 +1,8 @@
-# Relationship & Key Validation Report â€” MedTrack_DV (v2)
+# Relationship & Key Validation Report — MedTrack_DV (v2)
 
 ```
 ======================================================================
-RELATIONSHIP & KEY VALIDATION REPORT (v2 â€” real relational HMIS source)
+RELATIONSHIP & KEY VALIDATION REPORT (v2 — real relational HMIS source)
 ======================================================================
 
 --- 1. Grain integrity ---
