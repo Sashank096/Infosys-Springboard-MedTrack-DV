@@ -18,15 +18,15 @@ Milestone 3 is where you build all 4 dashboards in **Power BI Desktop** using th
 | ✅ All 28 DAX measures documented | Complete |
 | ✅ Dashboard layouts planned (Milestone 2 storyboard) | Complete |
 | ✅ Color theme and design rules defined | Complete |
-| ⏳ Dashboard 1 – Hospital Overview | Build in Power BI |
-| ⏳ Dashboard 2 – Patient Flow | Build in Power BI |
-| ⏳ Dashboard 3 – Department Analytics | Build in Power BI |
-| ⏳ Dashboard 4 – Resource Utilization | Build in Power BI |
-| ⏳ Navigation buttons across all pages | Build in Power BI |
-| ⏳ Global slicers (Hospital, Dept, Year, Month) | Build in Power BI |
-| ⏳ Cross-dashboard interactions | Build in Power BI |
-| ⏳ Final MedTrack_DV.pbix exported | Add to dashboard/ folder |
-| ⏳ 4 Screenshots taken | Add to screenshots/ folder |
+| ✅ Dashboard 1 – Hospital Overview | Build in Power BI |
+| ✅ Dashboard 2 – Patient Flow | Build in Power BI |
+| ✅ Dashboard 3 – Department Analytics | Build in Power BI |
+| ✅ Dashboard 4 – Resource Utilization | Build in Power BI |
+| ✅ Navigation buttons across all pages | Build in Power BI |
+| ✅ Global slicers (Hospital, Dept, Year, Month) | Build in Power BI |
+| ✅ Cross-dashboard interactions | Build in Power BI |
+| ✅ Final MedTrack_DV.pbix exported | Add to dashboard/ folder |
+| ✅ 4 Screenshots taken | Add to screenshots/ folder |
 
 ---
 
