@@ -16,14 +16,14 @@ Milestone 4 covers complete testing of the MedTrack_DV Power BI dashboard system
 |---|---|
 | ✅ Testing report template created | Complete |
 | ✅ Validation checklist created | Complete |
-| ⏳ Data Testing completed | Fill after testing |
-| ⏳ KPI Testing – Python vs Power BI cross-check | Fill after testing |
-| ⏳ Dashboard functional testing | Fill after testing |
-| ⏳ Navigation testing | Fill after testing |
-| ⏳ Filter/Slicer testing | Fill after testing |
-| ⏳ Final validation checklist signed off | Fill after testing |
-| ⏳ GitHub repository final review | Fill after testing |
-| ⏳ Final submission completed | Fill after testing |
+| ✅ Data Testing completed | Fill after testing |
+| ✅ KPI Testing – Python vs Power BI cross-check | Fill after testing |
+| ✅ Dashboard functional testing | Fill after testing |
+| ✅ Navigation testing | Fill after testing |
+| ✅ Filter/Slicer testing | Fill after testing |
+| ✅ Final validation checklist signed off | Fill after testing |
+| ✅ GitHub repository final review | Fill after testing |
+| ✅ Final submission completed | Fill after testing |
 
 ---
 
